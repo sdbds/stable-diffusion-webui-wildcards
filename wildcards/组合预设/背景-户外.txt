@@ -1,9 +1,9 @@
-remote mountain, campfire, (warm:1.1), cozy, stars, serene atmosphere
-beach, surfing, waves, (sunny day:1.1), sandy shore, ocean, freedom, (action:1.2)
-mountainous terrain, hiking, breathtaking views, adventure, (crisp air:1.2), (endurance:1.1)
-park, picnic, (birdsong:1.3), greenery, family, friends, relaxation
-canoeing, river, calm water, (adventure:1.2), peaceful, nature, teamwork
-grassland, windsurfing, (windy:1.1), exhilarating, freedom, (speed:1.2), open space
-outdoor, (yoga:1.2), (zen:1.1), harmony, nature, (balance pose:1.2), peaceful
-esert, horseback riding, adventure, wide-open space, (sunset:1.1), (exploration:1.2)
-(in Flower garden, colorful flower garden,landscape of flowers:1.5),( blue sky, cumulonimbus), (windmill:1.3),(wooden bench:1.2),(many flowers are blooming:1.3)
+remote_mountain,_campfire,_(warm:1.1),_cozy,_stars,_serene_atmosphere
+beach,_surfing,_waves,_(sunny_day:1.1),_sandy_shore,_ocean,_freedom,_(action:1.2)
+mountainous_terrain,_hiking,_breathtaking_views,_adventure,_(crisp_air:1.2),_(endurance:1.1)
+park,_picnic,_(birdsong:1.3),_greenery,_family,_friends,_relaxation
+canoeing,_river,_calm_water,_(adventure:1.2),_peaceful,_nature,_teamwork
+grassland,_windsurfing,_(windy:1.1),_exhilarating,_freedom,_(speed:1.2),_open_space
+outdoor,_(yoga:1.2),_(zen:1.1),_harmony,_nature,_(balance_pose:1.2),_peaceful
+esert,_horseback_riding,_adventure,_wide-open_space,_(sunset:1.1),_(exploration:1.2)
+(in_Flower_garden,_colorful_flower_garden,landscape_of_flowers:1.5),(_blue_sky,_cumulonimbus),_(windmill:1.3),(wooden_bench:1.2),(many_flowers_are_blooming:1.3)

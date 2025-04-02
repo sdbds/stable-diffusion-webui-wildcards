@@ -1,64 +1,64 @@
-﻿heart-shaped pupils
-diamond-shaped pupils
-flower-shaped pupils
-eye reflection
-amphibian eyes
+﻿heart-shaped_pupils
+diamond-shaped_pupils
+flower-shaped_pupils
+eye_reflection
+amphibian_eyes
 tareme
-slit pupils
+slit_pupils
 heterochromia
-heart-shaped eyes
-bruised eye
-no sclera
-x-shaped pupils
-glowing eye
-black sclera
-bags under eyes
-compound eyes
-red eyes
-no pupils
-rolling eyes
-ringed eyes
-orange eyes
-button eyes
-solid circle eyes
-green eyes
-glowing eyes
-mismatched pupils
-purple eyes
-crazy eyes
-star-shaped pupils
+heart-shaped_eyes
+bruised_eye
+no_sclera
+x-shaped_pupils
+glowing_eye
+black_sclera
+bags_under_eyes
+compound_eyes
+red_eyes
+no_pupils
+rolling_eyes
+ringed_eyes
+orange_eyes
+button_eyes
+solid_circle_eyes
+green_eyes
+glowing_eyes
+mismatched_pupils
+purple_eyes
+crazy_eyes
+star-shaped_pupils
 wide-eyed
-brown eyes
-red sclera
-black eyes
-yellow sclera
-grey eyes
-white eyes
+brown_eyes
+red_sclera
+black_eyes
+yellow_sclera
+grey_eyes
+white_eyes
 cross-eyed
-@ @
-mako eyes
-green sclera
-bloodshot eyes
-+ +
-blank eyes
-pac-man eyes
-yellow eyes
-cephalopod eyes
-pink eyes
-multicolored eyes
-hollow eyes
-flaming eyes
+@_@
+mako_eyes
+green_sclera
+bloodshot_eyes
++_+
+blank_eyes
+pac-man_eyes
+yellow_eyes
+cephalopod_eyes
+pink_eyes
+multicolored_eyes
+hollow_eyes
+flaming_eyes
 sanpaku
-orange sclera
-symbol-shaped pupils
-mismatched sclera
-aegyo sal
-amber eyes
-blue sclera
-upturned eyes
-sparkling eyes
-horizontal pupils
-gradient eyes
-blue eyes
-dashed eyes
-empty eyes
+orange_sclera
+symbol-shaped_pupils
+mismatched_sclera
+aegyo_sal
+amber_eyes
+blue_sclera
+upturned_eyes
+sparkling_eyes
+horizontal_pupils
+gradient_eyes
+blue_eyes
+dashed_eyes
+empty_eyes

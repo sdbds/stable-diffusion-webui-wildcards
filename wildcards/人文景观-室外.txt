@@ -4,49 +4,49 @@ runway
 rural
 garden
 fountain
-rice paddy
-dirt road
+rice_paddy
+dirt_road
 airfield
 shipyard
 pier
 street
 crosswalk
 village
-wooden bridge
+wooden_bridge
 alley
 jetty
 aqueduct
 town
-phone booth
+phone_booth
 city
-ferris wheel
+ferris_wheel
 road
 poolside
-railroad tracks
+railroad_tracks
 drydock
-running track
-stone walkway
+running_track
+stone_walkway
 highway
-soccer field
-railroad crossing
+soccer_field
+railroad_crossing
 canal
-floating city
+floating_city
 field
-rope bridge
+rope_bridge
 sidewalk
 zoo
-roller coaster
-amusement park
+roller_coaster
+amusement_park
 market
 graveyard
 trench
 harbor
 bridge
-paper lantern
+paper_lantern
 dock
 path
-wheat field
+wheat_field
 tunnel
 dam
 carousel
-market stall
+market_stall

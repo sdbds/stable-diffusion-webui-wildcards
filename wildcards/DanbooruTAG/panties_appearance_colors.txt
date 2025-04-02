@@ -1,12 +1,12 @@
-aqua panties
-black panties
-blue panties
-brown panties
-green panties
-grey panties
-orange panties
-pink panties
-purple panties
-red panties
-white panties
-yellow panties
+aqua_panties
+black_panties
+blue_panties
+brown_panties
+green_panties
+grey_panties
+orange_panties
+pink_panties
+purple_panties
+red_panties
+white_panties
+yellow_panties

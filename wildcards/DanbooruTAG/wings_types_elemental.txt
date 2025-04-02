@@ -1,6 +1,6 @@
-Bat wings
-energy wings
-Fiery wings
-Ice wings
-light hawk wings
-liquid wings
+Bat_wings
+energy_wings
+Fiery_wings
+Ice_wings
+light_hawk_wings
+liquid_wings

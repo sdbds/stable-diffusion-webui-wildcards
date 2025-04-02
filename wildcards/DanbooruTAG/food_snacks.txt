@@ -2,7 +2,7 @@ chikuwa
 chips
 bugles
 doritos
-potato chips
+potato_chips
 pringles
 popcorn
 pretzel

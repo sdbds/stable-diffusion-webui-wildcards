@@ -1,6 +1,6 @@
-Beluga whale
-Blue whale
+Beluga_whale
+Blue_whale
 Dolphin
-Humpback whale
+Humpback_whale
 Narwhal
 Orca

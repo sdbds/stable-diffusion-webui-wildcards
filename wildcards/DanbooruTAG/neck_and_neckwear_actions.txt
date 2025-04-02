@@ -1,7 +1,7 @@
-arm around neck
-arms around neck
-hand on another's neck
-hand on own neck
-neck biting
+arm_around_neck
+arms_around_neck
+hand_on_another's_neck
+hand_on_own_neck
+neck_biting
 necking
-kissing neck
+kissing_neck

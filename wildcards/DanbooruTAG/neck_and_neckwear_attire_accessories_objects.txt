@@ -1,38 +1,38 @@
 ascot
-bolo tie
+bolo_tie
 bowtie
 choker
-ribbon choker
+ribbon_choker
 collar
-neck bell
-animal collar
-spiked collar
-studded collar
-pet cone
-feather boa
-goggles around neck
-headphones around neck
+neck_bell
+animal_collar
+spiked_collar
+studded_collar
+pet_cone
+feather_boa
+goggles_around_neck
+headphones_around_neck
 jabot
 lanyard
 neckerchief
 necklace
-chain necklace
-flower necklace
+chain_necklace
+flower_necklace
 lei
-friendship charm
-pearl necklace
+friendship_charm
+pearl_necklace
 pendant
 amulet
 locket
 magatama
 pentacle
-neck ribbon
-neck ruff
+neck_ribbon
+neck_ruff
 necktie
-necktie between breasts
-necktie on head
-necktie grab
-necktie removed
+necktie_between_breasts
+necktie_on_head
+necktie_grab
+necktie_removed
 scarf
 stole
-cross tie
+cross_tie

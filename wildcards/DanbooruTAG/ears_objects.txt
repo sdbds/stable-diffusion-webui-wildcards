@@ -1,6 +1,6 @@
-ear piercing
-ear protection
+ear_piercing
+ear_protection
 earrings
-single earring
+single_earring
 headphones
-behind ear
+behind_ear

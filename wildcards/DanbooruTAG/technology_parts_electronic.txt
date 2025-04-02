@@ -1,9 +1,9 @@
 Bolt
 Crank
 Gears
-Mechanical parts
+Mechanical_parts
 Nut
 Piston
-Rotary switch
+Rotary_switch
 Screw
 Tube

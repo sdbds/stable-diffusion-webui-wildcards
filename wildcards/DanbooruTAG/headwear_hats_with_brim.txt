@@ -1,28 +1,28 @@
 bicorne
-boater hat
-bowler hat
-bucket hat
-campaign hat
-cloche hat
-cowboy hat
-straw hat
+boater_hat
+bowler_hat
+bucket_hat
+campaign_hat
+cloche_hat
+cowboy_hat
+straw_hat
 ajirogasa
-rice hat
+rice_hat
 fedora
-female service cap
-flat cap
+female_service_cap
+flat_cap
 gat
-mob cap
-pillow hat
-pirate hat
-pith helmet
-porkpie hat
-shampoo hat
+mob_cap
+pillow_hat
+pirate_hat
+pith_helmet
+porkpie_hat
+shampoo_hat
 sombrero
-sun hat
-top hat
-mini top hat
+sun_hat
+top_hat
+mini_top_hat
 tricorne
-witch hat
-mini witch hat
-wizard hat
+witch_hat
+mini_witch_hat
+wizard_hat

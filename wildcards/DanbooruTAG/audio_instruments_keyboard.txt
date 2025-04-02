@@ -6,11 +6,11 @@ keyboard
 keytar
 synthesizer
 organ
-electric organ
-pipe organ
+electric_organ
+pipe_organ
 piano
-piano keys
-clavia nord
-fender rhodes
-grand piano
-upright piano
+piano_keys
+clavia_nord
+fender_rhodes
+grand_piano
+upright_piano

@@ -1,36 +1,36 @@
-canned food
-cooking oil
+canned_food
+cooking_oil
 crumbs
 curry
-curry rice
+curry_rice
 dumpling
 jiaozi
 shumai
-tang yuan
+tang_yuan
 croquette
-fish and chips
+fish_and_chips
 flour
 fondue
-french fries
-french toast
+french_fries
+french_toast
 burger
 megamac
-hot dog
-corn dog
+hot_dog
+corn_dog
 katsu
 katsudon
 konnyaku
 meal
 breakfast
-dim sum
+dim_sum
 dinner
 feast
 lunch
 bento
-okosama lunch
+okosama_lunch
 party
-birthday party
-tea party
+birthday_party
+tea_party
 baozi
 nabe
 oden
@@ -39,35 +39,35 @@ narutomaki
 okonomiyaki
 omelet
 pizza
-holding pizza
-pizza box
-pizza delivery
-pizza slice
-ribs (food)
+holding_pizza
+pizza_box
+pizza_delivery
+pizza_slice
+ribs_(food)
 salad
 salt
-salt shaker
+salt_shaker
 sandwich
 soup
-miso soup
-zouni soup
+miso_soup
+zouni_soup
 sushi
-conveyor belt sushi
+conveyor_belt_sushi
 gunkanmaki
 inarizushi
 makizushi
 nigirizushi
-sushi geta
+sushi_geta
 taco
 takoyaki
 takuan
-tamagokake gohan
+tamagokake_gohan
 tempura
-shrimp tempura
+shrimp_tempura
 tofu
 aburaage
-mapo tofu
-stinky tofu
-twice cooked pork
-unadon (food)
+mapo_tofu
+stinky_tofu
+twice_cooked_pork
+unadon_(food)
 zongzi

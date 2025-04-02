@@ -3,12 +3,12 @@ chopsticks
 weapons
 gun
 umbrella
-riding crop
+riding_crop
 guitar
 handgun
 dagger
 whip
-yin yang
+yin_yang
 microphone
 teacup
 ofuda
@@ -23,4 +23,4 @@ wand
 arrow
 sword
 chair
-Big stuffed animal,Large with fancy donuts
+Big_stuffed_animal,Large_with_fancy_donuts

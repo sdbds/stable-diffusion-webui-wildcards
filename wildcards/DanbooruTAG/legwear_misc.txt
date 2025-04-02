@@ -1,13 +1,13 @@
-alternate legwear
-uneven legwear
-dirty legwear
-in legwear
-layered legwear
-legwear past ankles
-legwear removed
-legwear under shorts
-mismatched legwear
-no legwear
-taut legwear
-torn legwear
-wet legwear
+alternate_legwear
+uneven_legwear
+dirty_legwear
+in_legwear
+layered_legwear
+legwear_past_ankles
+legwear_removed
+legwear_under_shorts
+mismatched_legwear
+no_legwear
+taut_legwear
+torn_legwear
+wet_legwear

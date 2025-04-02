@@ -7,14 +7,14 @@ Centipede
 Cicada
 Cockroach
 Cricket
-Cave cricket
+Cave_cricket
 Dragonfly
 Firefly
 Fireflies
 Fly
 Grasshopper
 Ladybug
-Leucochloridium paradoxum
+Leucochloridium_paradoxum
 Millipede
 Mosquito
 Moth
@@ -23,7 +23,7 @@ Wasp
 Arachnid
 Spider
 Scorpion
-Camel spider
+Camel_spider
 Amblypygi
 Larva
 Maggot

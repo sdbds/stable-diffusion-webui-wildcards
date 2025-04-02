@@ -1,16 +1,16 @@
 airfield
 runway
-amusement park
+amusement_park
 carousel
-ferris wheel
-roller coaster
+ferris_wheel
+roller_coaster
 aqueduct
 bridge
-rope bridge
-wooden bridge
+rope_bridge
+wooden_bridge
 canal
 city
-floating city
+floating_city
 rural
 town
 village
@@ -22,31 +22,31 @@ garden
 graveyard
 jetty
 field
-flower field
-rice paddy
-wheat field
+flower_field
+rice_paddy
+wheat_field
 fountain
 harbor
 market
-market stall
+market_stall
 pier
-phone booth
+phone_booth
 pool
 poolside
 waterpark
-railroad tracks
-railroad crossing
+railroad_tracks
+railroad_crossing
 road
 alley
 crosswalk
-dirt road
+dirt_road
 highway
 path
 sidewalk
-stone walkway
+stone_walkway
 street
-soccer field
-running track
+soccer_field
+running_track
 trench
 tunnel
 well

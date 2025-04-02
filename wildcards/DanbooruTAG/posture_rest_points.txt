@@ -1,2 +1,2 @@
-arm support
-head rest
+arm_support
+head_rest

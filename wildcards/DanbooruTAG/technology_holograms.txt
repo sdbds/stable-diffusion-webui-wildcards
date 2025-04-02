@@ -1,5 +1,5 @@
 Hologram
-Holographic interface
-Holographic keyboard
-Holographic touchscreen
-Holographic monitor
+Holographic_interface
+Holographic_keyboard
+Holographic_touchscreen
+Holographic_monitor

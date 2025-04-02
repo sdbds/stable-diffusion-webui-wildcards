@@ -1,7 +1,7 @@
 actor
 actress
 alchemist
-artist painter
+artist_painter
 astronaut
 athlete
 bartender
@@ -12,7 +12,7 @@ cashier
 chef
 chemist
 conductor
-construction worker
+construction_worker
 croupier
 cyclist
 dentist
@@ -23,7 +23,7 @@ driver
 engineer
 farmer
 firefighter
-flight attendant
+flight_attendant
 florist
 geisha
 guard
@@ -45,8 +45,8 @@ musician
 ninja
 nun
 nurse
-school nurse
-office lady
+school_nurse
+office_lady
 pilot
 police
 politician
@@ -67,8 +67,8 @@ stripper
 teacher
 terrorist
 trucker
-train attendant
-train conductor
+train_attendant
+train_conductor
 waiter
 waitress
 warrior

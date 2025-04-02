@@ -3,15 +3,15 @@ bowtie
 choker
 collar
 epaulettes
-feather boa
+feather_boa
 lapels
-lapel pin
-neck ruff
+lapel_pin
+neck_ruff
 neckerchief
 necklace
 necktie
-tie clip
-neck ribbon
+tie_clip
+neck_ribbon
 scarf
 shawl
 stole

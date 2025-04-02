@@ -1,4 +1,4 @@
-hugging own legs
-object hug
-tail hug
-wing hug
+hugging_own_legs
+object_hug
+tail_hug
+wing_hug

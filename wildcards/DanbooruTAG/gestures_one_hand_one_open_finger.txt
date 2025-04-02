@@ -1,17 +1,17 @@
 akanbe
-slit throat
-index finger raised
-middle finger
-pinky out
+slit_throat
+index_finger_raised
+middle_finger
+pinky_out
 beckoning
 pointing
-pointing at self
-pointing at viewer
-pointing down
-pointing forward
-pointing up
-kamina pose
-saturday night fever
+pointing_at_self
+pointing_at_viewer
+pointing_down
+pointing_forward
+pointing_up
+kamina_pose
+saturday_night_fever
 shushing
-thumbs down
-thumbs up
+thumbs_down
+thumbs_up

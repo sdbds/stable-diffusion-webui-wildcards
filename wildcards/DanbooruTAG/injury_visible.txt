@@ -1,12 +1,12 @@
 blood
 bleeding
-blood on bandages
+blood_on_bandages
 bruise
-bruised eye
+bruised_eye
 cuts
-deep wound
-head bump
-missing eye
+deep_wound
+head_bump
+missing_eye
 nosebleed
 scar
 scratches
@@ -15,6 +15,6 @@ scrape
 sprain
 stab
 impaled
-severed limb
+severed_limb
 amputee
-track marks
+track_marks

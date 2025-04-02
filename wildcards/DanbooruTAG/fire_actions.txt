@@ -1,4 +1,4 @@
-breathing fire
+breathing_fire
 burning
 explosion
 pyrokinesis

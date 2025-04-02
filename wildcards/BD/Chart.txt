@@ -1,24 +1,24 @@
-girls Line Chart
-girls Conversion Chart
-girls Color Chart
-girls Weight Chart
-girls Control Chart
-girls Depth Chart
-girls Mood Chart
-Mood Chart
-Mood Board
-Size Chart
-Illustration Style Chart
-Sketch Chart
-girls Gradient Chart
-girls Scale Chart
-Texture Chart
-Alignment Chart
-chibi icon chart
-girls Radar Chart
-girls mind map
-car specification table
-Create illustration of girl shown in full body view
-produce image character painted in style of anime, while keeping background in realistic style
-background that appears to extend into the distance, giving impression of three-dimensional space
-infographics,multiple facial expressions
+girls_Line_Chart
+girls_Conversion_Chart
+girls_Color_Chart
+girls_Weight_Chart
+girls_Control_Chart
+girls_Depth_Chart
+girls_Mood_Chart
+Mood_Chart
+Mood_Board
+Size_Chart
+Illustration_Style_Chart
+Sketch_Chart
+girls_Gradient_Chart
+girls_Scale_Chart
+Texture_Chart
+Alignment_Chart
+chibi_icon_chart
+girls_Radar_Chart
+girls_mind_map
+car_specification_table
+Create_illustration_of_girl_shown_in_full_body_view
+produce_image_character_painted_in_style_of_anime,_while_keeping_background_in_realistic_style
+background_that_appears_to_extend_into_the_distance,_giving_impression_of_three-dimensional_space
+infographics,multiple_facial_expressions

@@ -1,6 +1,6 @@
-bad food
+bad_food
 food
-food-themed clothes
-food-themed hair ornament
-food girls
-oversized food
+food-themed_clothes
+food-themed_hair_ornament
+food_girls
+oversized_food

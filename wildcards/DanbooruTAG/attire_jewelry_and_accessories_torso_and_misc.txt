@@ -1,14 +1,14 @@
 aiguillette
 badge
-belly chain
+belly_chain
 belt
 buckle
-sam browne belt
+sam_browne_belt
 boutonniere
 brooch
 buttons
-large buttons
-button badge
+large_buttons
+button_badge
 corsage
 pentacle
 piercing
@@ -16,5 +16,5 @@ sarong
 suspenders
 tassel
 watch
-pocket watch
+pocket_watch
 zipper

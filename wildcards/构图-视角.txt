@@ -1,29 +1,29 @@
-﻿from outside
-breast conscious
+﻿from_outside
+breast_conscious
 sideways
-cowboy shot
-wide shot
+cowboy_shot
+wide_shot
 panorama
-between fingers
+between_fingers
 fisheye
-from below
-from side
+from_below
+from_side
 upside-down
-three sided view
-vanishing point
-first-person view
+three_sided_view
+vanishing_point
+first-person_view
 cut-in
 pov
-hatching \(texture\)
-dutch angle
-multiple views
-between legs
+hatching_\(texture\)
+dutch_angle
+multiple_views
+between_legs
 close-up
-from above
-between thighs
+from_above
+between_thighs
 rotated
 perspective
-from behind
-blurry foreground
-atmospheric perspective
-breast awe
+from_behind
+blurry_foreground
+atmospheric_perspective
+breast_awe

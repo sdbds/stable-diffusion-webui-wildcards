@@ -1,51 +1,51 @@
-Halter bikini
-Bandeau bikini
-Triangle bikini
-Thong bikini
-String bikini
-Cheeky bikini
-Brazilian bikini
-Boyshort bikini
+Halter_bikini
+Bandeau_bikini
+Triangle_bikini
+Thong_bikini
+String_bikini
+Cheeky_bikini
+Brazilian_bikini
+Boyshort_bikini
 Tankini
 Monokini
 Trikini
-Wrap bikini
-High-waisted bikini
-Low-rise bikini
-Mid-rise bikini
-One-piece bikini
-Two-piece bikini
-Strapless bikini
-Push-up bikini
-Underwire bikini
-Molded bikini
-Ruffled bikini
-Lace bikini
-Sheer bikini
-Metallic bikini
-Floral bikini
-Animal print bikini
-Solid color bikini
-Multicolor bikini
-Patterned bikini
-Solid-colored bikini
-White bikini
-Black bikini
-Red bikini
-Blue bikini
-Green bikini
-Yellow bikini
-Pink bikini
-Orange bikini
-Purple bikini
-Teal bikini
-Brown bikini
-Gray bikini
-Beige bikini
-White and black bikini
-White and red bikini
-White and blue bikini
-White and green bikini
-White and yellow bikini
-White and pink bikini
-(sling swimwear:1.4), (underboob:1.45), (sideboob:1.3),
+Wrap_bikini
+High-waisted_bikini
+Low-rise_bikini
+Mid-rise_bikini
+One-piece_bikini
+Two-piece_bikini
+Strapless_bikini
+Push-up_bikini
+Underwire_bikini
+Molded_bikini
+Ruffled_bikini
+Lace_bikini
+Sheer_bikini
+Metallic_bikini
+Floral_bikini
+Animal_print_bikini
+Solid_color_bikini
+Multicolor_bikini
+Patterned_bikini
+Solid-colored_bikini
+White_bikini
+Black_bikini
+Red_bikini
+Blue_bikini
+Green_bikini
+Yellow_bikini
+Pink_bikini
+Orange_bikini
+Purple_bikini
+Teal_bikini
+Brown_bikini
+Gray_bikini
+Beige_bikini
+White_and_black_bikini
+White_and_red_bikini
+White_and_blue_bikini
+White_and_green_bikini
+White_and_yellow_bikini
+White_and_pink_bikini
+(sling_swimwear:1.4),_(underboob:1.45),_(sideboob:1.3),

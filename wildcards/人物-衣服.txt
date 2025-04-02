@@ -1,190 +1,190 @@
 ﻿suit
-playboy bunny leotard
+playboy_bunny_leotard
 swimsuit
 bikini
-frilled dress
-see-through dress
+frilled_dress
+see-through_dress
 dougi
-meiji schoolgirl uniform
-micro bikini
-white dress
-thong bikini
+meiji_schoolgirl_uniform
+micro_bikini
+white_dress
+thong_bikini
 kimono
-striped dress
-sports bikini
+striped_dress
+sports_bikini
 serafuku
-business suit
-sheath dress
-biker clothes
-skirt basket
+business_suit
+sheath_dress
+biker_clothes
+skirt_basket
 striped
-pencil dress
-funeral dress
-school swimsuit
-tube dress
+pencil_dress
+funeral_dress
+school_swimsuit
+tube_dress
 western
-pleated dress
-stile uniform
-open kimono
-china dress
+pleated_dress
+stile_uniform
+open_kimono
+china_dress
 santa
 obi
-off-shoulder dress
-torn dress
-flag dress
-blue dress
-santa costume
+off-shoulder_dress
+torn_dress
+flag_dress
+blue_dress
+santa_costume
 babydoll
-orange dress
-cocktail dress
-eyepatch bikini
-harem outfit
-chinese clothes
-layered skirt
+orange_dress
+cocktail_dress
+eyepatch_bikini
+harem_outfit
+chinese_clothes
+layered_skirt
 pettiskirt
-competition school swimsuit
-torn clothes
+competition_school_swimsuit
+torn_clothes
 crinoline
-backless dress
+backless_dress
 leotard
-polka dot
+polka_dot
 lingerie
 formal
-halter dress
+halter_dress
 sundress
-japanese clothes
-hobble dress
-side-tie bikini
-police uniform
-cake dress
-sailor bikini
-high-low skirt
-side slit
-naked apron
-competition swimsuit
-wedding dress
-bikini under clothes
-shell bikini
-latex dress
-checkered dress
-front-tie bikini
+japanese_clothes
+hobble_dress
+side-tie_bikini
+police_uniform
+cake_dress
+sailor_bikini
+high-low_skirt
+side_slit
+naked_apron
+competition_swimsuit
+wedding_dress
+bikini_under_clothes
+shell_bikini
+latex_dress
+checkered_dress
+front-tie_bikini
 gown
-layered bikini
-grey dress
-virgin killer outfit
+layered_bikini
+grey_dress
+virgin_killer_outfit
 negligee
-lolita fashion
+lolita_fashion
 see-through
 half-dress
 bodysuit
 straitjacket
-short dress
+short_dress
 latex
 sailor
-military uniform
-bow bikini
-front zipper swimsuit
+military_uniform
+bow_bikini
+front_zipper_swimsuit
 bandeau
-casual one-piece swimsuit
-gym uniform
-lace-trimmed dress
-evening gown
+casual_one-piece_swimsuit
+gym_uniform
+lace-trimmed_dress
+evening_gown
 loungewear
-bondage outfit
+bondage_outfit
 corset
-multi-strapped bikini
-layered dress
-strapless dress
-kindergarten uniform
-yellow dress
-wet dress
+multi-strapped_bikini
+layered_dress
+strapless_dress
+kindergarten_uniform
+yellow_dress
+wet_dress
 pajamas
-pinafore dress
-bodysuit under clothes
-baseball uniform
+pinafore_dress
+bodysuit_under_clothes
+baseball_uniform
 hanfu
-plaid dress
-green dress
-dress flip
-tennis dress
-red dress
+plaid_dress
+green_dress
+dress_flip
+tennis_dress
+red_dress
 lace
-bikini lift
-sepia dress
-armored dress
-sleeveless dress
-short kimono
-argyle dress
-bikini skirt
+bikini_lift
+sepia_dress
+armored_dress
+sleeveless_dress
+short_kimono
+argyle_dress
+bikini_skirt
 underwear
 gothic
-purple dress
+purple_dress
 nude
-trapeze dress
-print dress
-two-tone dress
-highleg leotard
-suspender skirt
-mermaid dress
-ribbon-trimmed dress
+trapeze_dress
+print_dress
+two-tone_dress
+highleg_leotard
+suspender_skirt
+mermaid_dress
+ribbon-trimmed_dress
 microskirt
-collared dress
-slingshot swimsuit
-school uniform
-santa dress
-organza lace
-athletic leotard
-plaid skirt
-letterman jacket
-untied bikini
-pencil skirt
-vietnamese dress
-highleg bikini
-pinstripe dress
+collared_dress
+slingshot_swimsuit
+school_uniform
+santa_dress
+organza_lace
+athletic_leotard
+plaid_skirt
+letterman_jacket
+untied_bikini
+pencil_skirt
+vietnamese_dress
+highleg_bikini
+pinstripe_dress
 bikesuit
-varia suit
-ribbed dress
-bikini aside
-volleyball uniform
-cute & girly \(idolmaster\)
-sweater dress
-coat dress
+varia_suit
+ribbed_dress
+bikini_aside
+volleyball_uniform
+cute_&_girly_\(idolmaster\)
+sweater_dress
+coat_dress
 uniform
 uchikake
-fur-trimmed dress
-taut dress
-sailor dress
-kimono skirt
-impossible bodysuit
-maid bikini
-polka dot dress
-living clothes
+fur-trimmed_dress
+taut_dress
+sailor_dress
+kimono_skirt
+impossible_bodysuit
+maid_bikini
+polka_dot_dress
+living_clothes
 nightgown
-denim dress
-dress grab
-lowleg bikini
-strapless bikini
-brown dress
-aqua dress
-sailor senshi uniform
-naked overalls
-naked ribbon
-bikini armor
-black dress
+denim_dress
+dress_grab
+lowleg_bikini
+strapless_bikini
+brown_dress
+aqua_dress
+sailor_senshi_uniform
+naked_overalls
+naked_ribbon
+bikini_armor
+black_dress
 frills
 tartan
-multicolored dress
+multicolored_dress
 dress
 tutu
-vertical-striped dress
-backless outfit
-reverse bunnysuit
-impossible dress
-waist apron
-pink dress
-clothes down
+vertical-striped_dress
+backless_outfit
+reverse_bunnysuit
+impossible_dress
+waist_apron
+pink_dress
+clothes_down
 yukata
-highleg dress
-one-piece swimsuit
-long dress
+highleg_dress
+one-piece_swimsuit
+long_dress
 dirndl

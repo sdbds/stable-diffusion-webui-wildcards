@@ -1,11 +1,11 @@
 bread
 baguette
 biscuit
-bread bun
-bread crust
-bread eating race
-japari bun
-melon bread
+bread_bun
+bread_crust
+bread_eating_race
+japari_bun
+melon_bread
 toast
 cereal
 cracker
@@ -17,28 +17,28 @@ noodles
 pasta
 lasagne
 spaghetti
-black spaghetti
-spaghetti and meatballs
+black_spaghetti
+spaghetti_and_meatballs
 ramen
-cup ramen
+cup_ramen
 jirou
 soba
 yakisoba
-italian (niigata)
+italian_(niigata)
 yakisobapan
 soumen
 udon
-kitsune udon
+kitsune_udon
 pancake
-pancake stack
+pancake_stack
 rice
-curry rice
-fried rice
+curry_rice
+fried_rice
 omurice
 onigiri
-rice on face
-rice paddy
-rice porridge
+rice_on_face
+rice_paddy
+rice_porridge
 nanakusa-no-sekku
 risotto
 scone

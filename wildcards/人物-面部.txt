@@ -1,15 +1,15 @@
 ﻿:q
 uwu
-half-closed eye
+half-closed_eye
 jitome
 grimace
 disappointed
-heart in eye
+heart_in_eye
 c:
 depressed
 :t
 o3o
-food on face
+food_on_face
 expressions
 scowl
 makeup
@@ -17,13 +17,13 @@ evil
 d:
 moaning
 =v=
-facial hair
-long tongue
+facial_hair
+long_tongue
 frustrated
 ;o
 >o<
-covering face
-skin fang
+covering_face
+skin_fang
 horrified
 covering
 0_0
@@ -32,56 +32,56 @@ nervous
 envy
 glaring
 :|
-eyes closed
+eyes_closed
 eyeliner
 ;\)
-expressionless eyes
+expressionless_eyes
 +_-
-wavy mouth
+wavy_mouth
 determined
 naughty
 confused
-glasgow smile
+glasgow_smile
 :>=
 screaming
-split mouth
-constricted pupils
-v-shaped eyebrows
+split_mouth
+constricted_pupils
+v-shaped_eyebrows
 x3
 pain
 drunk
-covering mouth
+covering_mouth
 ^_^
-cheek pinching
+cheek_pinching
 sigh
-heavy breathing
+heavy_breathing
 =^=
 shaded
 ^^^
 sobbing
 tears
-raised eyebrow
-bright pupils
-one eye closed
+raised_eyebrow
+bright_pupils
+one_eye_closed
 sleepy
-cheek poking
+cheek_poking
 ^o^
-cheek bulge
-ear blush
+cheek_bulge
+ear_blush
 eyelashes
 wince
 drooling
 torogao
 ^q^
-oral invitation
-covering eyes
-half-closed eyes
+oral_invitation
+covering_eyes
+half-closed_eyes
 :<
-no nose
+no_nose
 sad
 worried
-aqua eyes
-full-face blush
+aqua_eyes
+full-face_blush
 tsurime
 lips
 smiley
@@ -89,41 +89,41 @@ happy
 smug
 :x
 shy
-nose blush
+nose_blush
 forehead
-blush stickers
+blush_stickers
 ;3
-saliva trail
-stifled laugh
-rape face
-sad smile
+saliva_trail
+stifled_laugh
+rape_face
+sad_smile
 panicking
-endured face
-holding breath
+endured_face
+holding_breath
 eyeball
-nervous smile
+nervous_smile
 yandere
-seductive smile
+seductive_smile
 sulking
-eyes visible through hair
-clenched teeth
+eyes_visible_through_hair
+clenched_teeth
 =_=
 ;<
-tearing up
+tearing_up
 ahegao
 xd
 teeth
-full blush
+full_blush
 \\(^o^\)/
 o_o
 cheek-to-cheek
-eyebrows visible through hair
-parted lips
+eyebrows_visible_through_hair
+parted_lips
 ;q
 flustered
 jealous
-open mouth
-raised eyebrows
+open_mouth
+raised_eyebrows
 bored
 ._.
 face-to-face
@@ -133,11 +133,11 @@ glint
 crazy
 despair
 :c
-sideways mouth
+sideways_mouth
 :<>
 embarrassed
-eyebrows behind hair
-crazy smile
+eyebrows_behind_hair
+crazy_smile
 surprised
 tsundere
 fangs
@@ -145,86 +145,86 @@ doyagao
 :/
 >_<
 :>
-fang out
-no mouth
-mouth hold
+fang_out
+no_mouth
+mouth_hold
 :3
 |_|
 \(-3-\)
-licking lips
+licking_lips
 grin
 laughing
-color drain
+color_drain
 ;p
 disgust
 >:\(
 :d
-crying with eyes open
+crying_with_eyes_open
 smile
 fingersmile
 annoyed
 saliva
 excited
-facing another
+facing_another
 tired
 angry
-kubrick stare
+kubrick_stare
 lipstick
 >:\)
 :i
 guilt
-turn pale
-dot nose
+turn_pale
+dot_nose
 disdain
 blush
-happy tears
-light blush
+happy_tears
+light_blush
 upset
 facepalm
 <o>_<o>
 smirk
-closed mouth
+closed_mouth
 pensive
 forehead-to-forehead
-wide eyed
+wide_eyed
 fang
 :o
 >3<
 fume
 expressionless
-streaming tears
-cheek pull
-upper teeth
-dilated pupils
-flower in mouth
-red lips
-chin grab
-puckered lips
-light smile
-rectangular mouth
-naughty face
+streaming_tears
+cheek_pull
+upper_teeth
+dilated_pupils
+flower_in_mouth
+red_lips
+chin_grab
+puckered_lips
+light_smile
+rectangular_mouth
+naughty_face
 thinking
-gloom \(expression\)
-evil smile
-furrowed brow
-mouth drool
+gloom_\(expression\)
+evil_smile
+furrowed_brow
+mouth_drool
 lonely
 troll
 trembling
-forced smile
-closed eyes
+forced_smile
+closed_eyes
 scared
 smelling
-spit take
+spit_take
 ;d
 3:
 nosebleed
 >_@
 serious
-tongue out
+tongue_out
 crying
-anger vein
+anger_vein
 tongue
 pout
 frown
-dot mouth
+dot_mouth

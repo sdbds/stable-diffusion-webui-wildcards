@@ -1,4 +1,4 @@
-insect wings
-Butterfly wings
-ladybug wings
-moth wings
+insect_wings
+Butterfly_wings
+ladybug_wings
+moth_wings

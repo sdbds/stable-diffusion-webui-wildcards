@@ -1,18 +1,18 @@
-adrian helmet
-american football helmet
-baseball helmet
-bicycle helmet
-brodie helmet
-diving helmet
-dragoon helmet
+adrian_helmet
+american_football_helmet
+baseball_helmet
+bicycle_helmet
+brodie_helmet
+diving_helmet
+dragoon_helmet
 hardhat
 headlamp
 helm
-horned helmet
+horned_helmet
 kabuto
-motorcycle helmet
+motorcycle_helmet
 pickelhaube
-pith helmet
+pith_helmet
 stahlhelm
-tank helmet
-winged helmet
+tank_helmet
+winged_helmet

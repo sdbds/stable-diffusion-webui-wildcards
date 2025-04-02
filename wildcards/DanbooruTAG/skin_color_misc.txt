@@ -1,2 +1,2 @@
-Colored skin
-Shiny skin
+Colored_skin
+Shiny_skin

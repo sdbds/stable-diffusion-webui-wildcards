@@ -1,8 +1,8 @@
-bob cut
+bob_cut
 braid
-french braid
+french_braid
 ponytail
 twintails
-half updo
+half_updo
 pompadour
 afro

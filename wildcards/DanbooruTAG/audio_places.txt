@@ -1,4 +1,4 @@
 concert
-radio booth
-recording studio
+radio_booth
+recording_studio
 stage

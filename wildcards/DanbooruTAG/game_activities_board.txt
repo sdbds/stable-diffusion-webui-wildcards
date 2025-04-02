@@ -1,9 +1,9 @@
-board game
+board_game
 chess
 go
 mahjong
 monopoly
 reversi
 shogi
-tabletop rpg
+tabletop_rpg
 tic-tac-toe

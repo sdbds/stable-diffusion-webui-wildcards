@@ -1,179 +1,179 @@
 Albatross
-Southern Royal Albatross
-Barred Buttonquail
-Blue Jay
+Southern_Royal_Albatross
+Barred_Buttonquail
+Blue_Jay
 Bluebird
-Blue-footed Booby
+Blue-footed_Booby
 Cassowary
-Southern Cassowary
+Southern_Cassowary
 Chick
 Chicken
 Rooster
 Cockatiel
 Cockatoo
-Blue-eyed Cockatoo
-Major Mitchell's Cockatoo
-Palm Cockatoo
-Sulphur-crested Cockatoo
-Yellowtip Cockatoo
+Blue-eyed_Cockatoo
+Major_Mitchell's_Cockatoo
+Palm_Cockatoo
+Sulphur-crested_Cockatoo
+Yellowtip_Cockatoo
 Condor
-Andean Condor
+Andean_Condor
 Cormorant
-Crane (animal)
-Black Crowned Crane
-Grey Crowned Crane
-Red-crowned Crane
-Siberian Crane
+Crane_(animal)
+Black_Crowned_Crane
+Grey_Crowned_Crane
+Red-crowned_Crane
+Siberian_Crane
 Crow
-Carrion Crow
+Carrion_Crow
 Cuckoo
-Dodo (bird)
+Dodo_(bird)
 Duck
 Duckling
 Mallard
-Dusky Thrush
+Dusky_Thrush
 Eagle
-Bald Eagle
-Haast's Eagle
-Little Egret
+Bald_Eagle
+Haast's_Eagle
+Little_Egret
 Emu
 Falcon
-Peregrine Falcon
+Peregrine_Falcon
 Finch
-Eurasian Bullfinch
-Japanese Grosbeak
-Double-barred Finch
-Gouldian Finch
-Java Sparrow
-Zebra Finch
+Eurasian_Bullfinch
+Japanese_Grosbeak
+Double-barred_Finch
+Gouldian_Finch
+Java_Sparrow
+Zebra_Finch
 Flamingo
 Frogmouth
-Blue-and-white Flycatcher
-Hill Blue Flycatcher
-Narcissus Flycatcher
-Verditer Flycatcher
-Yellow-rumped Flycatcher
+Blue-and-white_Flycatcher
+Hill_Blue_Flycatcher
+Narcissus_Flycatcher
+Verditer_Flycatcher
+Yellow-rumped_Flycatcher
 Goose
-Greater White-Fronted Goose
-Canada goose
+Greater_White-Fronted_Goose
+Canada_goose
 Hawk
 Goshawk
-Japanese Sparrowhawk
-Harris's Hawk
+Japanese_Sparrowhawk
+Harris's_Hawk
 Heron
-Chinese Pond Heron
-Great Blue Heron
-Grey Heron
+Chinese_Pond_Heron
+Great_Blue_Heron
+Grey_Heron
 Hummingbird
-Japanese Bush Warbler
-Japanese Robin
-Japanese White-eye
-Common Kingfisher
-Crested Kingfisher
+Japanese_Bush_Warbler
+Japanese_Robin
+Japanese_White-eye
+Common_Kingfisher
+Crested_Kingfisher
 Kookaburra
 Kiwi
-Southern Brown Kiwi
-Kori Bustard
-Lilac-breasted Roller
-Long-tailed Widowbird
+Southern_Brown_Kiwi
+Kori_Bustard
+Lilac-breasted_Roller
+Long-tailed_Widowbird
 Magpie
-Azure-winged Magpie
-Black-throated Magpie-Jay
-Taiwan Blue Magpie
-Meadow Bunting
-Moa (animal)
-South Island Giant Moa
-Nightingale (bird)
-Northern Cardinal
-Northern Lapwing
+Azure-winged_Magpie
+Black-throated_Magpie-Jay
+Taiwan_Blue_Magpie
+Meadow_Bunting
+Moa_(animal)
+South_Island_Giant_Moa
+Nightingale_(bird)
+Northern_Cardinal
+Northern_Lapwing
 Nuthatch
-Oriental Dollarbird
-Black-headed Oriole
-Black-naped Oriole
+Oriental_Dollarbird
+Black-headed_Oriole
+Black-naped_Oriole
 Osprey
 Ostrich
 Owl
-Snowy Owl
-Southern Boobook
+Snowy_Owl
+Southern_Boobook
 Parakeet
-Golden Parakeet
-Jandaya Parakeet
-Rose-ringed Parakeet
+Golden_Parakeet
+Jandaya_Parakeet
+Rose-ringed_Parakeet
 Parrot
-African Grey Parrot
-Black-headed Parrot
-Eclectus Parrot
+African_Grey_Parrot
+Black-headed_Parrot
+Eclectus_Parrot
 Kakapo
-Kea (animal)
+Kea_(animal)
 Lovebird
 Macaw
-Blue-and-yellow Macaw
-Hyacinth Macaw
-Red-and-green Macaw
-Scarlet Macaw
-Pacific Parrotlet
-Yellow-headed Amazon
+Blue-and-yellow_Macaw
+Hyacinth_Macaw
+Red-and-green_Macaw
+Scarlet_Macaw
+Pacific_Parrotlet
+Yellow-headed_Amazon
 Peacock
 Pelican
 Penguin
-Adelie Penguin
-African Penguin
-Emperor Penguin
-Fiordland Penguin
-Galapagos Penguin
-Humboldt Penguin
-Little Penguin
-Rockhopper Penguin
-Yellow-eyed Penguin
+Adelie_Penguin
+African_Penguin
+Emperor_Penguin
+Fiordland_Penguin
+Galapagos_Penguin
+Humboldt_Penguin
+Little_Penguin
+Rockhopper_Penguin
+Yellow-eyed_Penguin
 Anthropornis
 Pheasant
-Copper Pheasant
-Ijima Copper Pheasant
-Golden Pheasant
-Green Pheasant
-Lady Amherst's Pheasant
-Pheasant-tailed Jacana
+Copper_Pheasant
+Ijima_Copper_Pheasant
+Golden_Pheasant
+Green_Pheasant
+Lady_Amherst's_Pheasant
+Pheasant-tailed_Jacana
 Pigeon
 Dove
-Fantail Pigeon
-Passenger Pigeon
-White-bellied Green Pigeon
-Plover (animal)
+Fantail_Pigeon
+Passenger_Pigeon
+White-bellied_Green_Pigeon
+Plover_(animal)
 Puffin
 Quail
-Japanese Quail
-Raggiana Bird-of-paradise
-Red-flanked Bluetail
-Blue-fronted Redstart
-Daurian Redstart
-Resplendent Quetzal
-Roadrunner (animal)
-Ryukyu Minivet
+Japanese_Quail
+Raggiana_Bird-of-paradise
+Red-flanked_Bluetail
+Blue-fronted_Redstart
+Daurian_Redstart
+Resplendent_Quetzal
+Roadrunner_(animal)
+Ryukyu_Minivet
 Seagull
 Secretarybird
 Shoebill
-Siberian Rubythroat
+Siberian_Rubythroat
 Sparrow
-Eurasian Tree Sparrow
-House Sparrow
+Eurasian_Tree_Sparrow
+House_Sparrow
 Stork
-Oriental Stork
+Oriental_Stork
 Swallow
-Tree Swallow
+Tree_Swallow
 Swan
-Black Swan (bird)
+Black_Swan_(bird)
 Takahe
-Great Tit
-Japanese Tit
-Long-tailed Tit
+Great_Tit
+Japanese_Tit
+Long-tailed_Tit
 Toucan
 Vulture
-Black-backed Wagtail
-Grey Wagtail
-White Wagtail
-Japanese Wagtail
-White-bellied Go-away-bird
-White-cheeked Starling
+Black-backed_Wagtail
+Grey_Wagtail
+White_Wagtail
+Japanese_Wagtail
+White-bellied_Go-away-bird
+White-cheeked_Starling
 Woodpecker
-Great Spotted Woodpecker
-Yellow Bittern
+Great_Spotted_Woodpecker
+Yellow_Bittern

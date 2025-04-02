@@ -1,31 +1,31 @@
-Alstroemeria (flower)
-Amaryllis (flower)
+Alstroemeria_(flower)
+Amaryllis_(flower)
 Anemone
-Angel's trumpet
+Angel's_trumpet
 Anthurium
 Azalea
 Baby's-breath
 Begonia
 Bellflower
-Chinese bellflower
-Bird of paradise flower
-Black-eyed Susan
-Bleeding heart
-Blueberry blossoms
+Chinese_bellflower
+Bird_of_paradise_flower
+Black-eyed_Susan
+Bleeding_heart
+Blueberry_blossoms
 Bougainvillea
-Calla lily
+Calla_lily
 Camellia
 Carnation
-Red carnation
+Red_carnation
 Chamomile
-Cherry blossoms
-Chinese lantern
+Cherry_blossoms
+Chinese_lantern
 Chrysanthemum
 Clivia
 Clematis
 Clover
 Columbine
-Cockscomb (flower)
+Cockscomb_(flower)
 Cornflower
 Cosmos
 Crocus
@@ -37,114 +37,114 @@ Dimorphotheca
 Dandelion
 Dianthus
 Dipsacaceae
-Dusty miller
+Dusty_miller
 Edelweiss
 Epiphyllum
 Eustoma
 Flax
 Forget-me-not
 Forsythia
-Four o'clock (flower)
+Four_o'clock_(flower)
 Foxglove
 Freesia
 Fuchsia
-Hawthorn (plant)
+Hawthorn_(plant)
 Hellebore
 Hibiscus
 Heliconia
 Hollyhock
 Hyacinth
 Hydrangea
-Genista (flower)
-Gentiana (flower)
+Genista_(flower)
+Gentiana_(flower)
 Geranium
 Gerbera
 Gladiolus
-Gloriosa (flower)
-Grass lily
-Great burnet
+Gloriosa_(flower)
+Grass_lily
+Great_burnet
 Jasmine
 Iris
 Kalanchoe
-Kerria japonica
-Lantana (flower)
+Kerria_japonica
+Lantana_(flower)
 Larkspur
 Lavender
 Lilac
 Lily
-Tiger lily
-Lily of the valley
-Lisianthus (flower)
+Tiger_lily
+Lily_of_the_valley
+Lisianthus_(flower)
 Magnolia
 Marigold
-Marsh marigold
-Mimosa (flower)
-Morning glory
+Marsh_marigold
+Mimosa_(flower)
+Morning_glory
 Moonflower
-Gourd blossom
+Gourd_blossom
 Nemophila
 Nigella
 Oleander
-Orange blossoms
+Orange_blossoms
 Orchid
 Oncidium
 Osmanthus
-Gold osmanthus
+Gold_osmanthus
 Pansy
-Passion flower
+Passion_flower
 Paulownia
-Peach blossom
-Pentas (flower)
+Peach_blossom
+Pentas_(flower)
 Peony
 Perennial
 Periwinkle
-Petunia (flower)
-Pieris japonica
+Petunia_(flower)
+Pieris_japonica
 Plant
 Clover
 Lotus
-Lily pad
-Potted plant
-Plum blossoms
+Lily_pad
+Potted_plant
+Plum_blossoms
 Plumeria
 Poinsettia
-Pomegranate flower
+Pomegranate_flower
 Poppy
 Portulaca
-Potato flower
+Potato_flower
 Potentilla
 Rafflesia
 Ranunculus
 Buttercup
-Rapeseed blossoms
-Red ginger
+Rapeseed_blossoms
+Red_ginger
 Reimu
 Rhododendron
 Rose
-Black rose
-Blue rose
-Brown rose
-Green rose
-Grey rose
-Orange rose
-Pink rose
-Purple rose
-Red rose
-White rose
-Yellow rose
-Multicolored rose
+Black_rose
+Blue_rose
+Brown_rose
+Green_rose
+Grey_rose
+Orange_rose
+Pink_rose
+Purple_rose
+Red_rose
+White_rose
+Yellow_rose
+Multicolored_rose
 Rudbeckia
 Snapdragon
 Snowdrop
 Spathiphyllum
-Spider lily
-Strawberry blossoms
+Spider_lily
+Strawberry_blossoms
 Sunflower
 Thistle
-Trumpet creeper
+Trumpet_creeper
 Tulip
-Water lily flower
-Wax flower
+Water_lily_flower
+Wax_flower
 Wisteria
 Wolfsbane
 Violet

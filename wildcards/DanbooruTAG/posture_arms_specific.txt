@@ -1,10 +1,10 @@
-airplane arms
-crossed arms
+airplane_arms
+crossed_arms
 flexing
-praise the sun
+praise_the_sun
 reaching
 shrugging
 t-pose
 a-pose
-v arms
-w arms
+v_arms
+w_arms

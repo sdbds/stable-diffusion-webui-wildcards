@@ -1,22 +1,22 @@
-uneven sleeves
-bell sleeves
-detached sleeves
-compression sleeve
-elbow sleeve
-single detached sleeve
-lace-up sleeves
-layered sleeves
-long sleeves
-mismatched sleeves
-puff and slash sleeves
-puffy sleeves
-puffy detached sleeves
-puffy long sleeves
-puffy short sleeves
-raglan sleeves
-ribbed sleeves
-see-through sleeves
-short sleeves
-short over long sleeves
-torn sleeves
-wide sleeves
+uneven_sleeves
+bell_sleeves
+detached_sleeves
+compression_sleeve
+elbow_sleeve
+single_detached_sleeve
+lace-up_sleeves
+layered_sleeves
+long_sleeves
+mismatched_sleeves
+puff_and_slash_sleeves
+puffy_sleeves
+puffy_detached_sleeves
+puffy_long_sleeves
+puffy_short_sleeves
+raglan_sleeves
+ribbed_sleeves
+see-through_sleeves
+short_sleeves
+short_over_long_sleeves
+torn_sleeves
+wide_sleeves

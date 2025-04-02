@@ -1,5 +1,5 @@
-arm out of sleeve
-hands in opposite sleeves
-pinching sleeves
-pinching sleeves
-sleeve grab
+arm_out_of_sleeve
+hands_in_opposite_sleeves
+pinching_sleeves
+pinching_sleeves
+sleeve_grab

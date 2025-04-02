@@ -1,12 +1,12 @@
-aqua-framed eyewear
-black-framed eyewear
-blue-framed eyewear
-brown-framed eyewear
-green-framed eyewear
-grey-framed eyewear
-orange-framed eyewear
-pink-framed eyewear
-purple-framed eyewear
-red-framed eyewear
-white-framed eyewear
-yellow-framed eyewear
+aqua-framed_eyewear
+black-framed_eyewear
+blue-framed_eyewear
+brown-framed_eyewear
+green-framed_eyewear
+grey-framed_eyewear
+orange-framed_eyewear
+pink-framed_eyewear
+purple-framed_eyewear
+red-framed_eyewear
+white-framed_eyewear
+yellow-framed_eyewear

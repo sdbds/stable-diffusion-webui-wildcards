@@ -1,6 +1,6 @@
-arched back
-bent over
-leaning back
-leaning forward
+arched_back
+bent_over
+leaning_back
+leaning_forward
 slouching
-twisted torso
+twisted_torso

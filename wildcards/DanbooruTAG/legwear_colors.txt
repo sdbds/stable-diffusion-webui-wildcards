@@ -1,15 +1,15 @@
-aqua legwear
-beige legwear
-black legwear
-blue legwear
-brown legwear
-green legwear
-grey legwear
-lavender legwear
-orange legwear
-pink legwear
-purple legwear
-red legwear
-tan legwear
-white legwear
-yellow legwear
+aqua_legwear
+beige_legwear
+black_legwear
+blue_legwear
+brown_legwear
+green_legwear
+grey_legwear
+lavender_legwear
+orange_legwear
+pink_legwear
+purple_legwear
+red_legwear
+tan_legwear
+white_legwear
+yellow_legwear

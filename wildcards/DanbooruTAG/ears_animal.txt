@@ -1,27 +1,27 @@
-animal ears
-bat ears
-bear ears
-rabbit ears
-cat ears
-cow ears
-deer ears
-dog ears
-fake animal ears
-ferret ears
-fox ears
-goat ears
-horse ears
-kemonomimi mode
-lion ears
-monkey ears
-mouse ears
-panda ears
-pikachu ears
-pig ears
-raccoon ears
-sheep ears
-squirrel ears
-tiger ears
-wolf ears
-fake animal ears
-hair ears
+animal_ears
+bat_ears
+bear_ears
+rabbit_ears
+cat_ears
+cow_ears
+deer_ears
+dog_ears
+fake_animal_ears
+ferret_ears
+fox_ears
+goat_ears
+horse_ears
+kemonomimi_mode
+lion_ears
+monkey_ears
+mouse_ears
+panda_ears
+pikachu_ears
+pig_ears
+raccoon_ears
+sheep_ears
+squirrel_ears
+tiger_ears
+wolf_ears
+fake_animal_ears
+hair_ears

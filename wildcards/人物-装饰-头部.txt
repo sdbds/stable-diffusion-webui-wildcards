@@ -1,116 +1,116 @@
-﻿mole under mouth
-mouth mask
+﻿mole_under_mouth
+mouth_mask
 jewelry
-cat hair ornament
-food-themed hair ornament
-sailor hat
-heart-shaped eyewear
-purple hairband
-mini top hat
-hood up
-jeweled branch of hourai
-coke-bottle glasses
-mask on head
+cat_hair_ornament
+food-themed_hair_ornament
+sailor_hat
+heart-shaped_eyewear
+purple_hairband
+mini_top_hat
+hood_up
+jeweled_branch_of_hourai
+coke-bottle_glasses
+mask_on_head
 facepaint
 eyepatch
 bespectacled
-hair ribbon
-snowflake hair ornament
-peaked cap
-dragon horns
-tengu mask
-musical note hair ornament
-mask removed
-orange hairband
-surgical mask
-bone hair ornament
-over-rim eyewear
-elbow pads
+hair_ribbon
+snowflake_hair_ornament
+peaked_cap
+dragon_horns
+tengu_mask
+musical_note_hair_ornament
+mask_removed
+orange_hairband
+surgical_mask
+bone_hair_ornament
+over-rim_eyewear
+elbow_pads
 blindfold
-x hair ornament
-winged helmet
+x_hair_ornament
+winged_helmet
 bell
-fox mask
-hair scrunchie
-multiple hair bows
-hair bow
-pink hairband
+fox_mask
+hair_scrunchie
+multiple_hair_bows
+hair_bow
+pink_hairband
 beret
 antlers
 sunglasses
-hair bobbles
-flower on head
+hair_bobbles
+flower_on_head
 hood
-frog hair ornament
-crescent hair ornament
-anchor hair ornament
-goggles on headwear
-hair tie
-hair flower
-head mounted display
-hair beads
+frog_hair_ornament
+crescent_hair_ornament
+anchor_hair_ornament
+goggles_on_headwear
+hair_tie
+hair_flower
+head_mounted_display
+hair_beads
 hairpin
 goggles
-bead necklace
+bead_necklace
 kanzashi
-whistle around neck
-butterfly hair ornament
+whistle_around_neck
+butterfly_hair_ornament
 hairclip
-kamina shades
-carrot hair ornament
-witch hat
-heart hair ornament
-eyewear on head
-tokin hat
-rimless eyewear
-anchor choker
+kamina_shades
+carrot_hair_ornament
+witch_hat
+heart_hair_ornament
+eyewear_on_head
+tokin_hat
+rimless_eyewear
+anchor_choker
 hairpods
 crown
-scar across eye
-scar on cheek
-bandage on
+scar_across_eye
+scar_on_cheek
+bandage_on
 ribbon
-head wreath
-mask pull
-mole under eye
-behind-the-head headphones
-bat hair ornament
-clover hair ornament
-goggles on head
-santa hat
-bandage over one eye
-nurse cap
-leaf hair ornament
-hair ornament
-mouth veil
+head_wreath
+mask_pull
+mole_under_eye
+behind-the-head_headphones
+bat_hair_ornament
+clover_hair_ornament
+goggles_on_head
+santa_hat
+bandage_over_one_eye
+nurse_cap
+leaf_hair_ornament
+hair_ornament
+mouth_veil
 headphones
-bow hairband
-wizard hat
-yellow hairband
-hair bell
-bunny hair ornament
-red hairband
-forehead protector
+bow_hairband
+wizard_hat
+yellow_hairband
+hair_bell
+bunny_hair_ornament
+red_hairband
+forehead_protector
 hairband
 fedora
-maid headdress
+maid_headdress
 tiara
-covered eyes
+covered_eyes
 halo
-hood down
-feather hair ornament
-snake hair ornament
-demon horns
+hood_down
+feather_hair_ornament
+snake_hair_ornament
+demon_horns
 mask
-forehead jewel
-skull hair ornament
-gas mask
-star hair ornament
-black hairband
+forehead_jewel
+skull_hair_ornament
+gas_mask
+star_hair_ornament
+black_hairband
 horns
-blue hairband
-fish hair ornament
-white hairband
-animal hood
-lolita hairband
-forehead mark
+blue_hairband
+fish_hair_ornament
+white_hairband
+animal_hood
+lolita_hairband
+forehead_mark

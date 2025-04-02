@@ -1,2 +1,2 @@
-pack of dogs
-too many cats
+pack_of_dogs
+too_many_cats

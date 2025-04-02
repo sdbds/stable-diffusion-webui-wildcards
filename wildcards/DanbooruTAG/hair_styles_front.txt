@@ -1,12 +1,12 @@
 bangs
-asymmetrical bangs
-blunt bangs
-hair over eyes
-hair over one eye
-parted bangs
-swept bangs
-hair between eyes
-hair intakes
-single hair intake
+asymmetrical_bangs
+blunt_bangs
+hair_over_eyes
+hair_over_one_eye
+parted_bangs
+swept_bangs
+hair_between_eyes
+hair_intakes
+single_hair_intake
 sidelocks
-widow's peak
+widow's_peak

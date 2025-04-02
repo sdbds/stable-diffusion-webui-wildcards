@@ -1,30 +1,30 @@
 bacon
-boned meat
+boned_meat
 chicken
-chicken leg
-chicken nuggets
-fried chicken
+chicken_leg
+chicken_nuggets
+fried_chicken
 yakitori
 crab
 egg
-broken egg
-egg laying
-egg yolk
+broken_egg
+egg_laying
+egg_yolk
 eggshell
-eggshell hat
-fried egg
-century egg
-hardboiled egg
-scrambled egg
+eggshell_hat
+fried_egg
+century_egg
+hardboiled_egg
+scrambled_egg
 roe
 caviar
 ikura
 fish
-fish bone
+fish_bone
 sashimi
-katsuo no tataki
+katsuo_no_tataki
 gyuudon
-hamburger steak
+hamburger_steak
 kamaboko
 kebab
 lobster
@@ -33,9 +33,9 @@ pork
 ham
 sausage
 shrimp
-shrimp tempura
+shrimp_tempura
 steak
-tako-san wiener
-kani-san wiener
+tako-san_wiener
+kani-san_wiener
 turkey
-turkey leg
+turkey_leg

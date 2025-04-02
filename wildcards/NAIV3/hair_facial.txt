@@ -1,7 +1,7 @@
-facial hair
+facial_hair
 beard
-bearded girl
+bearded_girl
 goatee
 mustache
-fake mustache
+fake_mustache
 stubble

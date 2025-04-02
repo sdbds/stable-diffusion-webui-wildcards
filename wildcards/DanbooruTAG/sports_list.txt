@@ -1,4 +1,4 @@
-American football
+American_football
 Badminton
 Baseball
 Basketball
@@ -6,18 +6,18 @@ Billiards
 Boxing
 Bowling
 Croquet
-Field Hockey
+Field_Hockey
 Golf
 Gymnastics
-Rhythmic Gymnastics
-Ice hockey
+Rhythmic_Gymnastics
+Ice_hockey
 Kabaddi
 Kemari
 Lacrosse
 Rugby
-Sepak Takraw
+Sepak_Takraw
 Soccer
-Table tennis
+Table_tennis
 Tennis
 Volleyball
-Water polo
+Water_polo

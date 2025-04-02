@@ -1,17 +1,17 @@
-audio visualizer
+audio_visualizer
 horn
 vuvuzela
 instrument
-instrument case
-guitar case
-playing instrument
+instrument_case
+guitar_case
+playing_instrument
 music
 notes
-musical note
-spoken musical note
-treble clef
-bass clef
-sheet music
-music stand
+musical_note
+spoken_musical_note
+treble_clef
+bass_clef
+sheet_music
+music_stand
 singing
 karaoke

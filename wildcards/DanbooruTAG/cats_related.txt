@@ -1,45 +1,45 @@
-cat bag
-cat band
-cat band footwear
-cat band gloves
-cat ear legwear
-cat boy
-cat bra
-cat button
-cat choker
-cat costume
-cat cutout
-cat cutout panties
-cat ear bikini
-cat ear headphones
-cat ear panties
-cat earrings
-cat ears
-slit pupils
-cat feet
-cat girl
-cat gloves
-cat hair
-cat hair ornament
-cat hat
-cat helmet
-cat hood
-cat lingerie
-cat mask
-cat nose
-cat ornament
-cat pajamas
-cat panties
-cat pasties
-cat paw
-cat paws
-cat pendant
-cat print
-cat skull
-cat slippers
-cat symbol
-cat tail
-cat thigh strap
-barbed tongue
-cat zipper
+cat_bag
+cat_band
+cat_band_footwear
+cat_band_gloves
+cat_ear_legwear
+cat_boy
+cat_bra
+cat_button
+cat_choker
+cat_costume
+cat_cutout
+cat_cutout_panties
+cat_ear_bikini
+cat_ear_headphones
+cat_ear_panties
+cat_earrings
+cat_ears
+slit_pupils
+cat_feet
+cat_girl
+cat_gloves
+cat_hair
+cat_hair_ornament
+cat_hat
+cat_helmet
+cat_hood
+cat_lingerie
+cat_mask
+cat_nose
+cat_ornament
+cat_pajamas
+cat_panties
+cat_pasties
+cat_paw
+cat_paws
+cat_pendant
+cat_print
+cat_skull
+cat_slippers
+cat_symbol
+cat_tail
+cat_thigh_strap
+barbed_tongue
+cat_zipper
 whiskers

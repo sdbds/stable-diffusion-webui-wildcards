@@ -1,32 +1,32 @@
 bottle
-soda bottle
+soda_bottle
 can
 cup
 mug
 sakazuki
 yunomi
-drinking glass
-champagne coupe
-champagne flute
-cocktail glass
-hurricane glass
-shot glass
+drinking_glass
+champagne_coupe
+champagne_flute
+cocktail_glass
+hurricane_glass
+shot_glass
 snifter
-wine glass
-coffee cup
-coffee mug
-coffee pot
-coffee press
+wine_glass
+coffee_cup
+coffee_mug
+coffee_pot
+coffee_press
 gourd
 jar
 jug
-juice box
-beer mug
-canned tea
+juice_box
+beer_mug
+canned_tea
 saucer
 teacup
 teapot
-long spout teapot
-side handle teapot
-tea set
+long_spout_teapot
+side_handle_teapot
+tea_set
 thermos

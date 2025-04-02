@@ -1,116 +1,116 @@
 ﻿cape
-front-tie top
-cat cutout
-black wings
-sleeves past fingers
+front-tie_top
+cat_cutout
+black_wings
+sleeves_past_fingers
 collarbone
 faulds
-detached wings
-latex gloves
+detached_wings
+latex_gloves
 coat
-elbow gloves
-hooded sweater
+elbow_gloves
+hooded_sweater
 bracer
-heart lock \(kantai collection\)
+heart_lock_\(kantai_collection\)
 camisole
-crop top
+crop_top
 barcode
-oversized shirt
+oversized_shirt
 bracelet
-long sleeves
-sleeves past wrists
-cropped shirt
-off shoulder
-sleeves folded up
+long_sleeves
+sleeves_past_wrists
+cropped_shirt
+off_shoulder
+sleeves_folded_up
 armband
-clothes between breasts
+clothes_between_breasts
 robe
-criss-cross halter
-naked shirt
-cat lingerie
-suit jacket
-bare shoulders
+criss-cross_halter
+naked_shirt
+cat_lingerie
+suit_jacket
+bare_shoulders
 mole
-military jacket
-butterfly wings
-virgin killer sweater
-bikini top
+military_jacket
+butterfly_wings
+virgin_killer_sweater
+bikini_top
 wings
-belly chain
+belly_chain
 gathers
-wet shirt
+wet_shirt
 labcoat
 bow
 wristband
 cloak
-naked cape
-number tattoo
-open-chest sweater
-open robe
-half gloves
+naked_cape
+number_tattoo
+open-chest_sweater
+open_robe
+half_gloves
 casual
-whip marks
-fingerless gloves
-center opening
-hooded coat
-duffel coat
-gloves removed
+whip_marks
+fingerless_gloves
+center_opening
+hooded_coat
+duffel_coat
+gloves_removed
 badge
-hooded cloak
-center frills
-heart tattoo
-dragon wings
-detached sleeves
+hooded_cloak
+center_frills
+heart_tattoo
+dragon_wings
+detached_sleeves
 capelet
 dudou
-open clothes
-pant suit
-tank top
+open_clothes
+pant_suit
+tank_top
 jersey
-bikini top removed
-wrist cuffs
-hooded track jacket
-diamond \(gemstone\)
-angel wings
-hooded jacket
-bandaged hands
-bead bracelet
-command spell
+bikini_top_removed
+wrist_cuffs
+hooded_track_jacket
+diamond_\(gemstone\)
+angel_wings
+hooded_jacket
+bandaged_hands
+bead_bracelet
+command_spell
 t-shirt
 cardigan
-gym shirt
+gym_shirt
 armlet
 gloves
-layered sleeves
+layered_sleeves
 coattails
-bat wings
-demon wings
-hooded cape
-collared shirt
+bat_wings
+demon_wings
+hooded_cape
+collared_shirt
 topless
 bandages
 blazer
-sleeves pushed up
-heart cutout
+sleeves_pushed_up
+heart_cutout
 blouse
 muscle
 hoodie
-sailor shirt
+sailor_shirt
 kesa
 lowleg
-cropped vest
-bandaged arm
-load bearing vest
+cropped_vest
+bandaged_arm
+load_bearing_vest
 harness
 heartbeat
-arm belt
-collared jacket
-checkered shirt
+arm_belt
+collared_jacket
+checkered_shirt
 tailcoat
-hat flower
-fairy wings
-dress shirt
-high-waist skirt
+hat_flower
+fairy_wings
+dress_shirt
+high-waist_skirt
 vest
-unbuttoned shirt
+unbuttoned_shirt
 bangle

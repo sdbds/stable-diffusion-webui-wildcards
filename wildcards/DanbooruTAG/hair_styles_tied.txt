@@ -1,46 +1,46 @@
-bow-shaped hair
+bow-shaped_hair
 braid
-braided bangs
-front braid
-side braid
-french braid
-crown braid
-single braid
-multiple braids
-twin braids
-low twin braids
-tri braids
-quad braids
-hair bun
-braided bun
-single hair bun
-double bun
-cone hair bun
-doughnut hair bun
-heart hair bun
-triple bun
-cone hair bun
-hair rings
-half updo
-one side up
-two side up
-low-braided long hair
-low-tied long hair
+braided_bangs
+front_braid
+side_braid
+french_braid
+crown_braid
+single_braid
+multiple_braids
+twin_braids
+low_twin_braids
+tri_braids
+quad_braids
+hair_bun
+braided_bun
+single_hair_bun
+double_bun
+cone_hair_bun
+doughnut_hair_bun
+heart_hair_bun
+triple_bun
+cone_hair_bun
+hair_rings
+half_updo
+one_side_up
+two_side_up
+low-braided_long_hair
+low-tied_long_hair
 mizura
-multi-tied hair
+multi-tied_hair
 nihongami
 ponytail
-folded ponytail
-front ponytail
-high ponytail
-short ponytail
-side ponytail
-split ponytail
+folded_ponytail
+front_ponytail
+high_ponytail
+short_ponytail
+side_ponytail
+split_ponytail
 topknot
 twintails
-low twintails
-short twintails
-uneven twintails
-tri tails
-quad tails
-quin tails
+low_twintails
+short_twintails
+uneven_twintails
+tri_tails
+quad_tails
+quin_tails

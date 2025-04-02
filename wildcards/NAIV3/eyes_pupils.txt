@@ -1,12 +1,12 @@
-star-shaped pupils
-slit pupils
-symbol-shaped pupils
-flower-shaped pupils
-heart-shaped pupils
-constricted pupils
-dilated pupils
-horizontal pupils
-no pupils
-+ +
-diamond-shaped pupils
-mismatched pupils
+star-shaped_pupils
+slit_pupils
+symbol-shaped_pupils
+flower-shaped_pupils
+heart-shaped_pupils
+constricted_pupils
+dilated_pupils
+horizontal_pupils
+no_pupils
++_+
+diamond-shaped_pupils
+mismatched_pupils

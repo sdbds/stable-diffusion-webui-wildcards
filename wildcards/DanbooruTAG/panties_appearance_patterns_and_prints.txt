@@ -1,12 +1,12 @@
-bear panties
-bunny panties
-cat panties
-checkered panties
-lace panties
-lace-trimmed panties
-plaid panties
-polka dot panties
-print panties
-strawberry panties
-striped panties
-vertical-striped panties
+bear_panties
+bunny_panties
+cat_panties
+checkered_panties
+lace_panties
+lace-trimmed_panties
+plaid_panties
+polka_dot_panties
+print_panties
+strawberry_panties
+striped_panties
+vertical-striped_panties

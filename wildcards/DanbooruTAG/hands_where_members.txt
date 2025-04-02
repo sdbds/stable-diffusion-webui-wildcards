@@ -1,3 +1,3 @@
-hands on feet
-holding hands
-hand on another's hand
+hands_on_feet
+holding_hands
+hand_on_another's_hand

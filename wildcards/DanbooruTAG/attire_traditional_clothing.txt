@@ -1,23 +1,23 @@
-chinese clothes
+chinese_clothes
 changpao
-china dress
+china_dress
 fengguan
 hanfu
 longpao
 tangzhuang
 dirndl
-japanese clothes
+japanese_clothes
 fundoshi
 yamakasa
 geta
 hakama
-hakama skirt
-hakama short skirt
-hakama pants
+hakama_skirt
+hakama_short_skirt
+hakama_pants
 kimono
 furisode
-layered kimono
-short kimono
+layered_kimono
+short_kimono
 uchikake
 yukata
 haori
@@ -25,18 +25,18 @@ happi
 chanchanko
 dotera
 hanten
-kimono skirt
+kimono_skirt
 miko
-nontraditional miko
+nontraditional_miko
 sarashi
-Midriff sarashi
-Chest sarashi
-Budget sarashi
-Undone sarashi
-straw cape
-mino boushi
+Midriff_sarashi
+Chest_sarashi
+Budget_sarashi
+Undone_sarashi
+straw_cape
+mino_boushi
 tabi
 tasuki
-korean clothes
+korean_clothes
 hanbok
-vietnamese dress
+vietnamese_dress

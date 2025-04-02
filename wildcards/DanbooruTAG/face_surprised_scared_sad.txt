@@ -1,12 +1,12 @@
 ^^^
-color drain
+color_drain
 depressed
 despair
-gloom (expression)
+gloom_(expression)
 horrified
 screaming
 sobbing
-turn pale
+turn_pale
 trembling
-wavy mouth
+wavy_mouth
 upset

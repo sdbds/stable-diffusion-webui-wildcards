@@ -1,6 +1,6 @@
 board
 chessboard
 cards
-chess piece
+chess_piece
 dice
-living piece
+living_piece

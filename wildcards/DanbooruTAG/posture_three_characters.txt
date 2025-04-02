@@ -1,2 +1,2 @@
-circle formation
-group hug
+circle_formation
+group_hug

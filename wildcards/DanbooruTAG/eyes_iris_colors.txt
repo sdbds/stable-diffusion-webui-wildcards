@@ -1,13 +1,13 @@
-aqua eyes
-black eyes
-blue eyes
-brown eyes
-green eyes
-grey eyes
-orange eyes
-purple eyes
-pink eyes
-red eyes
-white eyes
-yellow eyes
-amber eyes
+aqua_eyes
+black_eyes
+blue_eyes
+brown_eyes
+green_eyes
+grey_eyes
+orange_eyes
+purple_eyes
+pink_eyes
+red_eyes
+white_eyes
+yellow_eyes
+amber_eyes

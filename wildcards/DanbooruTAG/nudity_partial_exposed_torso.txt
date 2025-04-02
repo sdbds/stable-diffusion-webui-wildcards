@@ -1,11 +1,11 @@
 barefoot
-bare legs
-dress lift
-hip vent
-leg cutout
-thigh cutout
-side slit
-no pants
-shoe pull
-sock pull
-zettai ryouiki
+bare_legs
+dress_lift
+hip_vent
+leg_cutout
+thigh_cutout
+side_slit
+no_pants
+shoe_pull
+sock_pull
+zettai_ryouiki

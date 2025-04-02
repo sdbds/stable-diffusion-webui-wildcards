@@ -31,27 +31,27 @@ c:
 o3o
 (-3-)
 >3<
-o o
-0 0
-| |
-. .
-solid circle eyes
-heart-shaped eyes
-^ ^
+o_o
+0_0
+|_|
+._.
+solid_circle_eyes
+heart-shaped_eyes
+^_^
 ^o^
 \(^o^)/
 ^q^
-> <
-xd [ XD ]
+>_<
+xd_[_XD_]
 x3
 >o<
-@ @
-> @
-+ +
-+ -
-= =
+@_@
+>_@
++_+
++_-
+=_=
 =^=
 =v=
-<o> <o>
-<|> <|>
+<o>_<o>
+<|>_<|>
 Drawing

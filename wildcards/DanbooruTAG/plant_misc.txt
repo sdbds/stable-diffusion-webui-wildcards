@@ -1,13 +1,13 @@
-bare tree
-floral arch
+bare_tree
+floral_arch
 foliage
-piranha plant
-plant boy
-plant girl
-plant monster
-plant wings
-potted plant
-flower pot
-hanging plant
+piranha_plant
+plant_boy
+plant_girl
+plant_monster
+plant_wings
+potted_plant
+flower_pot
+hanging_plant
 planter
 topiary

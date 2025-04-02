@@ -1,3 +1,3 @@
-sleeves rolled up
-sleeves pushed up
-sleeves rolled up
+sleeves_rolled_up
+sleeves_pushed_up
+sleeves_rolled_up

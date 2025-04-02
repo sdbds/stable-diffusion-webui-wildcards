@@ -1,24 +1,24 @@
-cake dress
-china dress
-coat dress
-cocktail dress
-denim dress
+cake_dress
+china_dress
+coat_dress
+cocktail_dress
+denim_dress
 dirndl
-evening gown
-flowing dress
-funeral dress
+evening_gown
+flowing_dress
+funeral_dress
 gown
-mermaid dress
+mermaid_dress
 negligee
 nightgown
-pencil dress
-pinafore dress
-sailor dress
-santa dress
+pencil_dress
+pinafore_dress
+sailor_dress
+santa_dress
 sundress
-sweater dress
-tennis dress
-trapeze dress
-tube dress
-vietnamese dress
-wedding dress
+sweater_dress
+tennis_dress
+trapeze_dress
+tube_dress
+vietnamese_dress
+wedding_dress

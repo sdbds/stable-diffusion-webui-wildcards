@@ -1,8 +1,8 @@
-Science fiction
+Science_fiction
 Cyberpunk
 Steampunk
 Fantasy
 Mechanization
 Personification
-Mecha musume
+Mecha_musume
 OS-tan

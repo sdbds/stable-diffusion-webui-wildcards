@@ -1,17 +1,17 @@
-box tie
-bound arms
-bound feet
-bound legs
-bound calves
-bound knees
-bound thighs
-bound torso
-bound wrists
+box_tie
+bound_arms
+bound_feet
+bound_legs
+bound_calves
+bound_knees
+bound_thighs
+bound_torso
+bound_wrists
 frogtie
 hogtie
-separated arms
-separated legs
-separated wrists
-shrimp tie
+separated_arms
+separated_legs
+separated_wrists
+shrimp_tie
 strappado
 suspension

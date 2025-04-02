@@ -1,8 +1,8 @@
 ahoge
-heart ahoge
-huge ahoge
-hair antenna
-comb over
-hair pulled back
-hair slicked back
+heart_ahoge
+huge_ahoge
+hair_antenna
+comb_over
+hair_pulled_back
+hair_slicked_back
 mohawk

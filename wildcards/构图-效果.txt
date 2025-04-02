@@ -1,38 +1,38 @@
-﻿motion lines
-motion blur
-cinematic lighting
+﻿motion_lines
+motion_blur
+cinematic_lighting
 foreshortening
-chromatic aberration
-optical illusion
-multiple monochrome
+chromatic_aberration
+optical_illusion
+multiple_monochrome
 chiaroscuro
-emphasis lines
-chromatic aberration abuse
-jpeg artifacts
-speed lines
+emphasis_lines
+chromatic_aberration_abuse
+jpeg_artifacts
+speed_lines
 halftone
 bokeh
 backlighting
-lens flare abuse
+lens_flare_abuse
 anaglyph
-god rays
+god_rays
 overexposure
 sparkle
 stereogram
-glowing light
+glowing_light
 scanlines
-ray tracing
+ray_tracing
 dithering
 blurry
 bloom
-image fill
-reflection light
+image_fill
+reflection_light
 silhouette
 blending
 caustics
-lens flare
-diffraction spikes
-drop shadow
-film grain
+lens_flare
+diffraction_spikes
+drop_shadow
+film_grain
 vignetting
-depth of field
+depth_of_field

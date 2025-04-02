@@ -1,2 +1,2 @@
 rainbow
-rainbow order
+rainbow_order

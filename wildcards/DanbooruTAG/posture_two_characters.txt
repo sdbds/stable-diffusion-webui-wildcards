@@ -1,7 +1,7 @@
 back-to-back
 cheek-to-cheek
-eye contact
+eye_contact
 forehead-to-forehead
-heads together
-holding hands
-leg lock
+heads_together
+holding_hands
+leg_lock

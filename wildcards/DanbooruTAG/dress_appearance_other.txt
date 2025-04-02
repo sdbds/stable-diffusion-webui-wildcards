@@ -1,26 +1,26 @@
-armored dress
-backless dress
-collared dress
-frilled dress
-fur-trimmed dress
+armored_dress
+backless_dress
+collared_dress
+frilled_dress
+fur-trimmed_dress
 half-dress
-halter dress
-highleg dress
-high-low skirt
-hobble dress
-impossible dress
-lace-trimmed dress
-latex dress
-layered dress
-long dress
-off-shoulder dress
-pleated dress
-plunging neckline
-ribbed dress
-ribbon-trimmed dress
-short dress
-side slit
-taut dress
-see-through dress
-sleeveless dress
-strapless dress
+halter_dress
+highleg_dress
+high-low_skirt
+hobble_dress
+impossible_dress
+lace-trimmed_dress
+latex_dress
+layered_dress
+long_dress
+off-shoulder_dress
+pleated_dress
+plunging_neckline
+ribbed_dress
+ribbon-trimmed_dress
+short_dress
+side_slit
+taut_dress
+see-through_dress
+sleeveless_dress
+strapless_dress

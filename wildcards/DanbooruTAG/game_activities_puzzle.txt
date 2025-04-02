@@ -1,7 +1,7 @@
-crossword puzzle
+crossword_puzzle
 jenga
-metal puzzle
+metal_puzzle
 puzzle
-jigsaw puzzle
-sliding puzzle
-rubik's cube
+jigsaw_puzzle
+sliding_puzzle
+rubik's_cube

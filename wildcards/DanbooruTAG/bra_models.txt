@@ -1,12 +1,12 @@
-adhesive bra
+adhesive_bra
 beltbra
-bow bra
-bridgeless bra
-cupless bra
-frilled bra
-shelf bra
-sports bra
-strapless bra
-training bra
-front-tie bra
-front-hook bra
+bow_bra
+bridgeless_bra
+cupless_bra
+frilled_bra
+shelf_bra
+sports_bra
+strapless_bra
+training_bra
+front-tie_bra
+front-hook_bra

@@ -1,2 +1,2 @@
-Large wings
-mini wings
+Large_wings
+mini_wings

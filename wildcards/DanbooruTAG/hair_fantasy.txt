@@ -1,10 +1,10 @@
-Liquid Hair
-Cloud Hair
-Chocolate Hair
-Plant Hair
-Crystal Hair
-Fiery hair
-Prehensile hair
-helicopter hair
-tentacle hair
-living hair
+Liquid_Hair
+Cloud_Hair
+Chocolate_Hair
+Plant_Hair
+Crystal_Hair
+Fiery_hair
+Prehensile_hair
+helicopter_hair
+tentacle_hair
+living_hair

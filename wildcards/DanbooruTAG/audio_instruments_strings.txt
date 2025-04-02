@@ -1,15 +1,15 @@
 banjo
 balalaika
-bass guitar
+bass_guitar
 bow
 cello
-double bass
-electric double bass
+double_bass
+electric_double_bass
 erhu
 gayageum
 guitar
-acoustic guitar
-electric guitar
+acoustic_guitar
+electric_guitar
 guqin
 guzheng
 harp
@@ -18,9 +18,9 @@ kantele
 kokyuu
 koto
 lute
-biwa lute
+biwa_lute
 mandolin
-morin khuur
+morin_khuur
 pipa
 ruan
 sitar

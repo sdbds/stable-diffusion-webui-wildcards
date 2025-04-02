@@ -1,6 +1,6 @@
 areolae
-large areolae
-glands of montgomery
+large_areolae
+glands_of_montgomery
 armpits
 back
 breasts
@@ -8,12 +8,12 @@ collarbone
 heart
 lungs
 neck
-long neck
+long_neck
 nipples
-covered nipples
-inverted nipples
-no nipples
-puffy nipples
-small nipples
+covered_nipples
+inverted_nipples
+no_nipples
+puffy_nipples
+small_nipples
 pectorals
 ribs

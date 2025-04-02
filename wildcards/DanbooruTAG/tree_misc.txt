@@ -1,5 +1,5 @@
 autumn
-bare tree
-giant tree
+bare_tree
+giant_tree
 treehouse
-tree shade
+tree_shade

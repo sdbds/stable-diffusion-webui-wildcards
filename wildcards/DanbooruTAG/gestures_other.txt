@@ -1,10 +1,10 @@
-air guitar
+air_guitar
 bowing
 curtsey
-heart tail
-heart tail duo
+heart_tail
+heart_tail_duo
 kuji-in
 shrugging
 toe-point
-victory pose
-orchid fingers
+victory_pose
+orchid_fingers

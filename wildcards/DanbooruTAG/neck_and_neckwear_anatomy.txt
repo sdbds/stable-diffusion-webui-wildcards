@@ -1,4 +1,4 @@
 collarbone
 nape
 neck
-long neck
+long_neck

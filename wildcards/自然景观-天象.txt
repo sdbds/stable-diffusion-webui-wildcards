@@ -1,26 +1,26 @@
 ﻿sun
 cloud
-in summer
-sunburst background
-starry sky
-in autumn
+in_summer
+sunburst_background
+starry_sky
+in_autumn
 skyline
 sunset
 stars
 night
 sky
-beautiful detailed sky
+beautiful_detailed_sky
 day
 moonlight
-night sky
-in spring
+night_sky
+in_spring
 dusk
 moon
-blue moon
+blue_moon
 rain
-shooting star
-full moon
-in winter
-rainy days
+shooting_star
+full_moon
+in_winter
+rainy_days
 cloudy
-in the rain
+in_the_rain

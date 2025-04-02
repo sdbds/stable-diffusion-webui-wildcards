@@ -1,2 +1,2 @@
-hand in pocket
-hands in pockets
+hand_in_pocket
+hands_in_pockets

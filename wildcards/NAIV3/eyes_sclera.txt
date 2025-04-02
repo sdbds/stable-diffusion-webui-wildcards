@@ -1,10 +1,10 @@
-blue sclera
-black sclera
-blank eyes
-bloodshot eyes
-green sclera
-mismatched sclera
-no sclera
-orange sclera
-red sclera
-yellow sclera
+blue_sclera
+black_sclera
+blank_eyes
+bloodshot_eyes
+green_sclera
+mismatched_sclera
+no_sclera
+orange_sclera
+red_sclera
+yellow_sclera

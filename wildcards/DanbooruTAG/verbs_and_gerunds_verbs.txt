@@ -1,45 +1,45 @@
 aiming
-aiming at viewer
-animal milking
+aiming_at_viewer
+animal_milking
 apologizing
-applying makeup
+applying_makeup
 balancing
 bathing
 beckoning
 begging
 biting
-ass biting
-breast biting
-cheek biting
-ear biting
-finger biting
-foreskin biting
-glove biting
-hand biting
-head biting
-lip biting
-nail biting
-penis biting
-tail biting
-thumb biting
+ass_biting
+breast_biting
+cheek_biting
+ear_biting
+finger_biting
+foreskin_biting
+glove_biting
+hand_biting
+head_biting
+lip_biting
+nail_biting
+penis_biting
+tail_biting
+thumb_biting
 blinking
 blocking
 bouncing
-bouncing breasts
+bouncing_breasts
 bowing
 breaking
 breastfeeding
 breathing
-heavy breathing
+heavy_breathing
 panting
-bubble blowing
+bubble_blowing
 bumping
 carrying
 catching
 charging
 chasing
 cheering
-stroking own chin
+stroking_own_chin
 cleaning
 dishwashing
 sweeping
@@ -48,7 +48,7 @@ comforting
 concentrating
 cooking
 baking
-chocolate making
+chocolate_making
 roasting
 stirring
 coughing
@@ -61,17 +61,17 @@ sobbing
 cuddling
 cupping
 cutting
-wrist cutting
+wrist_cutting
 dancing
-pole dancing
-diaper changing
+pole_dancing
+diaper_changing
 digging
 diving
 dodging
 dragging
 dreaming
 dressing
-forced dressing
+forced_dressing
 undressing
 drinking
 drinking
@@ -80,33 +80,33 @@ driving
 drooling
 dropping
 drying
-dual wielding
-quadruple wielding
-triple wielding
+dual_wielding
+quadruple_wielding
+triple_wielding
 dying
-ear cleaning
+ear_cleaning
 eating
 chewing
 swallowing
 tasting
 eavesdropping
 elbowing
-drawing on another's face
+drawing_on_another's_face
 fainting
 falling
 fanning
-fan speaking
-fanning crotch
-fanning face
+fan_speaking
+fanning_crotch
+fanning_face
 feeding
-pov feeding
+pov_feeding
 fidgeting
 fighting
 fingering
-anal fingering
+anal_fingering
 firing
 fisting
-anal fisting
+anal_fisting
 flailing
 flapping
 flirting
@@ -119,12 +119,12 @@ glaring
 glowing
 grabbing
 grinding
-double grinding
+double_grinding
 groping
 hairdressing
-brushing hair
-hair tucking
-hair twirling
+brushing_hair
+hair_tucking
+hair_twirling
 hanging
 hatching
 healing
@@ -132,7 +132,7 @@ hiding
 hitting
 holding
 humping
-dry humping
+dry_humping
 imagining
 imitating
 juggling
@@ -148,40 +148,40 @@ giggling
 launching
 leaning
 licking
-licking armpit
-licking breast
-licking another's cheek
-licking cum
-licking ear
-licking eye
-licking another's face
-licking finger
-licking floor
-licking foot
-licking blade
-licking leg
-licking navel
-licking nipple
-licking panties
-licking testicle
-licking thigh
+licking_armpit
+licking_breast
+licking_another's_cheek
+licking_cum
+licking_ear
+licking_eye
+licking_another's_face
+licking_finger
+licking_floor
+licking_foot
+licking_blade
+licking_leg
+licking_navel
+licking_nipple
+licking_panties
+licking_testicle
+licking_thigh
 lifting
 looking
-looking at viewer
-looking away
-looking back
-looking down
-looking up
+looking_at_viewer
+looking_away
+looking_back
+looking_down
+looking_up
 lying
 measuring
-bust measuring
-penis measuring
-waist measuring
+bust_measuring
+penis_measuring
+waist_measuring
 melting
-mind reading
+mind_reading
 moaning
 multitasking
-nose picking
+nose_picking
 opening
 pantsing
 patting
@@ -193,13 +193,13 @@ peeping
 headpat
 petting
 pinching
-cheek pinching
+cheek_pinching
 pitching
 playing
 pointing
-pointing at viewer
+pointing_at_viewer
 poking
-cheek poking
+cheek_poking
 polishing
 pouring
 decantering
@@ -218,18 +218,18 @@ repairing
 resisting
 resting
 riding
-broom riding
-umbrella riding
+broom_riding
+umbrella_riding
 ripping
 roaring
 rolling
 rubbing
-crotch rub
+crotch_rub
 running
 scratching
 screaming
 searching
-shading eyes
+shading_eyes
 shaking
 sharing
 shaving
@@ -247,23 +247,23 @@ sleeping
 sliding
 slipping
 smelling
-smelling clothes
-smelling pantyhose
-smelling underwear
+smelling_clothes
+smelling_pantyhose
+smelling_underwear
 smoking
 sneezing
 snowing
 spanking
 spilling
 spinning
-pen spinning
+pen_spinning
 spitting
 splashing
 spooning
 spraying
 squeezing
 squinting
-squirting liquid
+squirting_liquid
 stacking
 standing
 staring
@@ -273,30 +273,30 @@ strangling
 struggling
 studying
 sucking
-blood sucking
-breast sucking
-self breast sucking
-finger sucking
-thumb sucking
-toe sucking
+blood_sucking
+breast_sucking
+self_breast_sucking
+finger_sucking
+thumb_sucking
+toe_sucking
 sulking
 summoning
 sunbathing
 surfing
-broom surfing
-sky surfing
+broom_surfing
+sky_surfing
 swaying
 swinging
-tail fondling
+tail_fondling
 talking
-sleep talking
+sleep_talking
 tapping
 teaching
-text messaging
+text_messaging
 thinking
 throwing
 tickling
-foot tickling
+foot_tickling
 touching
 training
 trembling
@@ -304,25 +304,25 @@ trolling
 tugging
 twitching
 tying
-scarf tying
-shoe tying
+scarf_tying
+shoe_tying
 untying
 typing
 unsheathing
 unzipping
 vomiting
 wading
-skinny dipping
+skinny_dipping
 waiting
 walking
-dog walking
-rope walking
+dog_walking
+rope_walking
 wallwalking
 warming
 washing
-body soaping
+body_soaping
 watching
-watching television
+watching_television
 waving
 whipping
 whisking

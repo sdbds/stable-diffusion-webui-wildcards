@@ -1,22 +1,22 @@
 Argyle
-Asa No Ha
+Asa_No_Ha
 Camouflage
 Checkered
 Honeycomb
 Houndstooth
-Pinstripe pattern
+Pinstripe_pattern
 Plaid
 Gingham
-Polka dot
+Polka_dot
 Sayagata
 Seigaiha
 Striped
-Vertical stripes
-Diagonal stripes
-Horizontal Stripes
-Colored stripes
-Multicolored stripes
-Tiger stripes
-Double vertical stripe
-Invasion stripes
+Vertical_stripes
+Diagonal_stripes
+Horizontal_Stripes
+Colored_stripes
+Multicolored_stripes
+Tiger_stripes
+Double_vertical_stripe
+Invasion_stripes
 Yagasuri

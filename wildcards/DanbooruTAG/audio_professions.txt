@@ -1,4 +1,4 @@
 conductor
 dj
-guitar girl
+guitar_girl
 idol

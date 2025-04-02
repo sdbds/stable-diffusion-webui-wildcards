@@ -1,18 +1,18 @@
-adjusting headwear
-backwards hat
-sideways hat
-hat removed
-hand on headwear
-hands on headwear
-hat basket
-hat loss
-hat on chest
-hat over eyes
-hat over one eye
-hat removed
-hat tip
-holding hat
-torn hat
-no headwear
-putting on headwear
-tilted headwear
+adjusting_headwear
+backwards_hat
+sideways_hat
+hat_removed
+hand_on_headwear
+hands_on_headwear
+hat_basket
+hat_loss
+hat_on_chest
+hat_over_eyes
+hat_over_one_eye
+hat_removed
+hat_tip
+holding_hat
+torn_hat
+no_headwear
+putting_on_headwear
+tilted_headwear

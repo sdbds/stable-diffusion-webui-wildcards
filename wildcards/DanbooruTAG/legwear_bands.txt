@@ -1,6 +1,6 @@
-animal ear legwear
-bat legwear
-bear band legwear
-bunny ear legwear
-cat ear legwear
-horn band legwear
+animal_ear_legwear
+bat_legwear
+bear_band_legwear
+bunny_ear_legwear
+cat_ear_legwear
+horn_band_legwear

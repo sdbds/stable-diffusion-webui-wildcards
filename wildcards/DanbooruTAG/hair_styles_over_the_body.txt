@@ -1,8 +1,8 @@
-hair bikini
-hair censor
-hair in mouth
-hair over breasts
-hair over one breast
-hair over crotch
-hair over shoulder
-hair scarf
+hair_bikini
+hair_censor
+hair_in_mouth
+hair_over_breasts
+hair_over_one_breast
+hair_over_crotch
+hair_over_shoulder
+hair_scarf

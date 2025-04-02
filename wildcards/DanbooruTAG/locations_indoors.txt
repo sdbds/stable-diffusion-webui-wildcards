@@ -1,36 +1,36 @@
 bathroom
 bathtub
-toilet stall
+toilet_stall
 shower
 bedroom
-hotel room
-messy room
-otaku room
+hotel_room
+messy_room
+otaku_room
 cafeteria
-changing room
+changing_room
 classroom
 clubroom
 conservatory
 courtroom
-dining room
-dressing room
+dining_room
+dressing_room
 dungeon
-prison cell
-fitting room
+prison_cell
+fitting_room
 gym
-locker room
-gym storeroom
+locker_room
+gym_storeroom
 infirmary
 kitchen
 laboratory
 library
-living room
+living_room
 office
 cubicle
 pool
 stage
-staff room
-storage room
+staff_room
+storage_room
 armory
 closet
 workshop

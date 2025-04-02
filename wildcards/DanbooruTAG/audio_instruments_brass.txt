@@ -1,9 +1,9 @@
 bugle
 euphonium
 flugelhorn
-french horn
+french_horn
 sousaphone
 trombone
-bass trombone
+bass_trombone
 trumpet
 tuba

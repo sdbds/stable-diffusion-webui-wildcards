@@ -1,5 +1,5 @@
-Hair wings
-Mechanical wings
-metal wings
-Plant wings
-feathered wings
+Hair_wings
+Mechanical_wings
+metal_wings
+Plant_wings
+feathered_wings

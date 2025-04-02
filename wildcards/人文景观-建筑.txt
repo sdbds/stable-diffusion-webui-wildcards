@@ -1,14 +1,14 @@
 ﻿salon
 prison
 casino
-convenience store
+convenience_store
 bakery
 hangar
 building
 house
 pagoda
 tavern
-bus stop
+bus_stop
 museum
 hotel
 theater
@@ -16,34 +16,34 @@ mosque
 skyscraper
 shack
 treehouse
-guard tower
+guard_tower
 stadium
 pharmacy
-bell tower
-control tower
+bell_tower
+control_tower
 skyscrapers
-neon lights
+neon_lights
 garage
-stilt house
+stilt_house
 fences
 minaret
 warehouse
-floating castle
+floating_castle
 greenhouse
 bookstore
 arena
 school
-gas station
+gas_station
 arcade
-movie theater
+movie_theater
 aquarium
 convention
-train station
+train_station
 supermarket
 apartment
 castle
-flower shop
-skating rink
+flower_shop
+skating_rink
 factory
 barn
 powerplant
@@ -52,31 +52,31 @@ mall
 rooftop
 bunker
 temple
-weapon shop
+weapon_shop
 cafe
 nightclub
-bowling alley
-construction site
+bowling_alley
+construction_site
 gazebo
 izakaya
 onsen
-nuclear powerplant
-cooling tower
+nuclear_powerplant
+cooling_tower
 industrial
-space elevator
+space_elevator
 hut
 ruins
-art gallery
+art_gallery
 hospital
 bar
 cityscape
 windmill
 pool
-sex shop
+sex_shop
 megastructure
-military base
+military_base
 observatory
-clock tower
+clock_tower
 shrine
 church
 airport

@@ -1,8 +1,8 @@
 Crab
 Crayfish
-Hermit crab
-Horseshoe crab
+Hermit_crab
+Horseshoe_crab
 Isopod
-Cymothoa exigua
+Cymothoa_exigua
 Lobster
 Shrimp

@@ -1,50 +1,50 @@
-happy expression, joyful, delighted, cheerful
-sad expression, sorrowful, downcast, melancholic
-angry expression, furious, irritated, annoyed
-surprised expression, astonished, amazed, startled
-confused expression, puzzled, perplexed, bewildered
-disgusted expression, repulsed, revolted, nauseated
-fearful expression, afraid, terrified, panicked
-neutral expression, impassive, stoic, indifferent
-amused expression, entertained, tickled, delighted
-bored expression, uninterested, disinterested, listless
-curious expression, inquisitive, intrigued, interested
-skeptical expression, doubtful, questioning, suspicious
-embarrassed expression, bashful, shy, blushing
-proud expression, confident, self-assured, triumphant
-content expression, satisfied, pleased, gratified
-anxious expression, worried, uneasy, apprehensive
-thoughtful expression, pensive, reflective, contemplative
-determined expression, resolute, purposeful, firm
-focused expression, concentrated, absorbed, engaged
-sleepy expression, drowsy, tired, fatigued
-excited expression, thrilled, eager, enthusiastic
-frustrated expression, agitated, exasperated, annoyed
-overjoyed expression, ecstatic, elated, thrilled
-smug expression, conceited, self-satisfied, arrogant
-concerned expression, troubled, uneasy, fretful
-nervous expression, tense, jumpy, uneasy
-apologetic expression, remorseful, regretful, sorry
-shocked expression, stunned, astonished, astounded
-coy expression, flirtatious, playful, teasing
-regretful expression, remorseful, repentant, rueful
-daydreaming expression, lost in thought, contemplative, pensive
-exhausted expression, worn out, fatigued, drained
-ecstatic expression, jubilant, overjoyed, exuberant
-guilty expression, ashamed, regretful, remorseful
-overwhelmed expression, swamped, flooded, inundated
-relieved expression, reassured, comforted, soothed
-flattered expression, gratified, pleased, complimented
-doubtful expression, uncertain, hesitant, unsure
-humble expression, modest, unassuming, unpretentious
-compassionate expression, empathetic, caring, kind
-irritated expression, annoyed, vexed, exasperated
-mischievous expression, impish, sly, playful
-nostalgic expression, wistful, yearning, sentimental
-insecure expression, uncertain, uneasy, unconfident
-confident expression, self-assured, poised, assertive
-empathetic expression, understanding, compassionate, caring
-envious expression, jealous, covetous, resentful
-affectionate expression, loving, tender, caring
-fantasizing expression, daydreaming, imaginative, creative
-disappointed expression, disheartened, disillusioned, discouraged
+happy_expression,_joyful,_delighted,_cheerful
+sad_expression,_sorrowful,_downcast,_melancholic
+angry_expression,_furious,_irritated,_annoyed
+surprised_expression,_astonished,_amazed,_startled
+confused_expression,_puzzled,_perplexed,_bewildered
+disgusted_expression,_repulsed,_revolted,_nauseated
+fearful_expression,_afraid,_terrified,_panicked
+neutral_expression,_impassive,_stoic,_indifferent
+amused_expression,_entertained,_tickled,_delighted
+bored_expression,_uninterested,_disinterested,_listless
+curious_expression,_inquisitive,_intrigued,_interested
+skeptical_expression,_doubtful,_questioning,_suspicious
+embarrassed_expression,_bashful,_shy,_blushing
+proud_expression,_confident,_self-assured,_triumphant
+content_expression,_satisfied,_pleased,_gratified
+anxious_expression,_worried,_uneasy,_apprehensive
+thoughtful_expression,_pensive,_reflective,_contemplative
+determined_expression,_resolute,_purposeful,_firm
+focused_expression,_concentrated,_absorbed,_engaged
+sleepy_expression,_drowsy,_tired,_fatigued
+excited_expression,_thrilled,_eager,_enthusiastic
+frustrated_expression,_agitated,_exasperated,_annoyed
+overjoyed_expression,_ecstatic,_elated,_thrilled
+smug_expression,_conceited,_self-satisfied,_arrogant
+concerned_expression,_troubled,_uneasy,_fretful
+nervous_expression,_tense,_jumpy,_uneasy
+apologetic_expression,_remorseful,_regretful,_sorry
+shocked_expression,_stunned,_astonished,_astounded
+coy_expression,_flirtatious,_playful,_teasing
+regretful_expression,_remorseful,_repentant,_rueful
+daydreaming_expression,_lost_in_thought,_contemplative,_pensive
+exhausted_expression,_worn_out,_fatigued,_drained
+ecstatic_expression,_jubilant,_overjoyed,_exuberant
+guilty_expression,_ashamed,_regretful,_remorseful
+overwhelmed_expression,_swamped,_flooded,_inundated
+relieved_expression,_reassured,_comforted,_soothed
+flattered_expression,_gratified,_pleased,_complimented
+doubtful_expression,_uncertain,_hesitant,_unsure
+humble_expression,_modest,_unassuming,_unpretentious
+compassionate_expression,_empathetic,_caring,_kind
+irritated_expression,_annoyed,_vexed,_exasperated
+mischievous_expression,_impish,_sly,_playful
+nostalgic_expression,_wistful,_yearning,_sentimental
+insecure_expression,_uncertain,_uneasy,_unconfident
+confident_expression,_self-assured,_poised,_assertive
+empathetic_expression,_understanding,_compassionate,_caring
+envious_expression,_jealous,_covetous,_resentful
+affectionate_expression,_loving,_tender,_caring
+fantasizing_expression,_daydreaming,_imaginative,_creative
+disappointed_expression,_disheartened,_disillusioned,_discouraged

@@ -4,33 +4,33 @@ chaps
 kilt
 pants
 bell-bottoms
-capri pants
-detached pants
+capri_pants
+detached_pants
 jeans
-cutoff jeans
-lowleg pants
-pants rolled up
-pelvic curtain
+cutoff_jeans
+lowleg_pants
+pants_rolled_up
+pelvic_curtain
 petticoat
 sarong
 shorts
-bike shorts
-denim shorts
-dolphin shorts
-gym shorts
-lowleg shorts
-micro shorts
-short shorts
-shorts under skirt
+bike_shorts
+denim_shorts
+dolphin_shorts
+gym_shorts
+lowleg_shorts
+micro_shorts
+short_shorts
+shorts_under_skirt
 skirt
-bubble skirt
-high-waist skirt
-high-low skirt
-long skirt
-lowleg skirt
+bubble_skirt
+high-waist_skirt
+high-low_skirt
+long_skirt
+lowleg_skirt
 microskirt
 miniskirt
-overall skirt
-plaid skirt
-pleated skirt
-suspender skirt
+overall_skirt
+plaid_skirt
+pleated_skirt
+suspender_skirt

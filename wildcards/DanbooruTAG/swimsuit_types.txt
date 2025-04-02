@@ -1,23 +1,23 @@
 bikini
-bikini skirt
-checkered bikini
-leaf bikini
-lowleg bikini
-micro bikini
-o-ring bikini
-o-ring top
-o-ring bottom
-shell bikini
-side-tie bikini bottom
-sports bikini
-string bikini
+bikini_skirt
+checkered_bikini
+leaf_bikini
+lowleg_bikini
+micro_bikini
+o-ring_bikini
+o-ring_top
+o-ring_bottom
+shell_bikini
+side-tie_bikini_bottom
+sports_bikini
+string_bikini
 tankini
-thong bikini
-rash guard
-old-fashioned swimsuit
-one-piece swimsuit
-casual one-piece swimsuit
-dress swimsuit
-competition swimsuit
-school swimsuit
-slingshot swimsuit
+thong_bikini
+rash_guard
+old-fashioned_swimsuit
+one-piece_swimsuit
+casual_one-piece_swimsuit
+dress_swimsuit
+competition_swimsuit
+school_swimsuit
+slingshot_swimsuit

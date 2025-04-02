@@ -1,15 +1,15 @@
 bandaid
-bandaid on knee
-bandaid on arm
-bandaid on leg
-bandaid on face
-bandaid on cheek
-bandaid on ear
-bandaid on forehead
-bandaid on nose
+bandaid_on_knee
+bandaid_on_arm
+bandaid_on_leg
+bandaid_on_face
+bandaid_on_cheek
+bandaid_on_ear
+bandaid_on_forehead
+bandaid_on_nose
 bandages
-bandage on face
-bandage over one eye
+bandage_on_face
+bandage_over_one_eye
 eyepatch
 sarashi
-sling (medical)
+sling_(medical)

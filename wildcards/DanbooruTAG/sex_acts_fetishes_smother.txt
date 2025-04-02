@@ -1,4 +1,4 @@
 smother
 asphyxiation
-breast smother
-sitting on face
+breast_smother
+sitting_on_face

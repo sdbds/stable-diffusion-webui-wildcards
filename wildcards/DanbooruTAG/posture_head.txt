@@ -1,2 +1,2 @@
-head down
-head tilt
+head_down
+head_tilt

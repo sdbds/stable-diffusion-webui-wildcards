@@ -1,16 +1,16 @@
-anime coloring
-flat color
+anime_coloring
+flat_color
 gradient
-ff gradient
+ff_gradient
 greyscale
-high contrast
-inverted colors
+high_contrast
+inverted_colors
 monochrome
-color drain
-multiple monochrome
-spot color
-muted color
-pale color
-partially colored
-pastel colors
+color_drain
+multiple_monochrome
+spot_color
+muted_color
+pale_color
+partially_colored
+pastel_colors
 sepia

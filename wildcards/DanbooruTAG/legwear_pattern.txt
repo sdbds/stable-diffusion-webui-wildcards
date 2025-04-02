@@ -1,13 +1,13 @@
-american flag legwear
-argyle legwear
-camouflage legwear
-checkered legwear
-gingham legwear
-plaid legwear
-polka dot legwear
-print legwear
-rainbow legwear
-striped legwear
-diagonal-striped legwear
-vertical-striped legwear
-pinstripe legwear
+american_flag_legwear
+argyle_legwear
+camouflage_legwear
+checkered_legwear
+gingham_legwear
+plaid_legwear
+polka_dot_legwear
+print_legwear
+rainbow_legwear
+striped_legwear
+diagonal-striped_legwear
+vertical-striped_legwear
+pinstripe_legwear

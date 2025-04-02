@@ -1,5 +1,5 @@
-missing eye
+missing_eye
 one-eyed
-third eye
-extra eyes
-no eyes
+third_eye
+extra_eyes
+no_eyes

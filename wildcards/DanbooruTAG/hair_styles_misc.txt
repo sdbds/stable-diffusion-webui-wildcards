@@ -1,5 +1,5 @@
-alternate hairstyle
-hair down
-hair up
-asymmetrical hair
+alternate_hairstyle
+hair_down
+hair_up
+asymmetrical_hair
 sidecut

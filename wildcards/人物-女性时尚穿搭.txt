@@ -1,43 +1,43 @@
 backpack
 balaclava
-ball gown
-base layer tops
-bathing suit cover-up
-beach bag
+ball_gown
+base_layer_tops
+bathing_suit_cover-up
+beach_bag
 belt
 bikini
 blazer
 blouse
-board shorts
+board_shorts
 boots
 bracelet
 brooch
-cable knit sweater
-capri pants
+cable_knit_sweater
+capri_pants
 cardigan
 clutch
 coat
-cocktail dress
+cocktail_dress
 cover-up
-cropped pants
-cropped top
-crossbody bag
-down jacket
-down vest
+cropped_pants
+cropped_top
+crossbody_bag
+down_jacket
+down_vest
 dress
-dress pants
-ear muffs
+dress_pants
+ear_muffs
 earrings
 espadrilles
-evening bag
-evening gown
+evening_bag
+evening_gown
 flats
-fleece jacket
-flip flops
-fur coat
-fur vest
+fleece_jacket
+flip_flops
+fur_coat
+fur_vest
 gloves
-hair accessory
+hair_accessory
 handbag
 hat
 heels
@@ -48,23 +48,23 @@ jewelry
 jumpsuit
 keychain
 leggings
-linen pants
-linen shirt
-little black dress
-long gloves
-long johns
-maxi dress
-mini dress
+linen_pants
+linen_shirt
+little_black_dress
+long_gloves
+long_johns
+maxi_dress
+mini_dress
 mittens
-neck gaiter
+neck_gaiter
 necklace
-one-piece swimsuit
+one-piece_swimsuit
 pants
 parka
-pea coat
-puffer jacket
+pea_coat
+puffer_jacket
 pumps
-rain boots
+rain_boots
 ring
 romper
 sandals
@@ -73,80 +73,80 @@ scarf
 shawl
 shoes
 shorts
-shoulder bag
-ski mask
+shoulder_bag
+ski_mask
 skirt
-skirt suit
+skirt_suit
 skorts
-sleeveless blouse
-sleeveless shirt
+sleeveless_blouse
+sleeveless_shirt
 sneakers
-snow boots
-snow goggles
-snow pants
+snow_boots
+snow_goggles
+snow_pants
 socks
 stilettos
 stockings
 suit
-summer blouse
-summer capris
-summer flip flops
-summer jewelry
-summer pants
-summer purse
-summer sandals
-summer scarf
-summer shorts
-summer skirt
-summer skirts
-summer sunglasses
-summer t-shirt
-summer tank top
-sun hat
+summer_blouse
+summer_capris
+summer_flip_flops
+summer_jewelry
+summer_pants
+summer_purse
+summer_sandals
+summer_scarf
+summer_shorts
+summer_skirt
+summer_skirts
+summer_sunglasses
+summer_t-shirt
+summer_tank_top
+sun_hat
 sundress
 sunglasses
 sunscreen
 sunshirt
 sweater
-swim trunks
+swim_trunks
 swimsuit
 swimwear
 t-shirt
-tank top
+tank_top
 tankini
-thermal leggings
-thermal socks
-thermal underwear
+thermal_leggings
+thermal_socks
+thermal_underwear
 tights
-tote bag
-touchscreen gloves
-trench coat
-turtleneck sweater
+tote_bag
+touchscreen_gloves
+trench_coat
+turtleneck_sweater
 umbrella
 visor
 wallet
-warm tights
+warm_tights
 watch
 wedges
-winter arm warmers
-winter backpack
-winter boots
-winter coat
-winter facemask
-winter gloves
-winter hand warmers
-winter hat
-winter headband
-winter knee warmers
-winter leg warmers
-winter pants
-winter purse
-winter scarf
-winter shoes
-winter socks
-winter sweater
-winter tote
-winter vest
-wool pants
+winter_arm_warmers
+winter_backpack
+winter_boots
+winter_coat
+winter_facemask
+winter_gloves
+winter_hand_warmers
+winter_hat
+winter_headband
+winter_knee_warmers
+winter_leg_warmers
+winter_pants
+winter_purse
+winter_scarf
+winter_shoes
+winter_socks
+winter_sweater
+winter_tote
+winter_vest
+wool_pants
 wrap
-wrap dress
+wrap_dress

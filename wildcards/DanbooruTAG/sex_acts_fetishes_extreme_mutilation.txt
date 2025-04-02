@@ -1,5 +1,5 @@
 guro
 amputee
-double amputee
-quadruple amputee
-triple amputee
+double_amputee
+quadruple_amputee
+triple_amputee

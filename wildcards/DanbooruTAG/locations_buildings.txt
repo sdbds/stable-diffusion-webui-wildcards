@@ -1,5 +1,5 @@
 airport
-control tower
+control_tower
 hangar
 runway
 apartment
@@ -10,17 +10,17 @@ izakaya
 tavern
 barn
 bunker
-bus stop
-bowling alley
+bus_stop
+bowling_alley
 cafe
 casino
 castle
-floating castle
+floating_castle
 church
-construction site
+construction_site
 convention
 garage
-gas station
+gas_station
 gazebo
 greenhouse
 gym
@@ -32,18 +32,18 @@ industrial
 factory
 refinery
 powerplant
-nuclear powerplant
-cooling tower
+nuclear_powerplant
+cooling_tower
 warehouse
 library
 lighthouse
 mall
 megastructure
-space elevator
-military base
+space_elevator
+military_base
 mosque
 museum
-art gallery
+art_gallery
 nightclub
 observatory
 office
@@ -55,32 +55,32 @@ restaurant
 rooftop
 ruins
 school
-skating rink
+skating_rink
 shack
 shrine
 shop
 bakery
 bookstore
-convenience store
-flower shop
+convenience_store
+flower_shop
 pharmacy
 salon
-sex shop
+sex_shop
 supermarket
-weapon shop
+weapon_shop
 skyscraper
 stadium
 arena
-stilt house
+stilt_house
 temple
 theater
 amphitheater
-movie theater
+movie_theater
 tower
-bell tower
-clock tower
-guard tower
+bell_tower
+clock_tower
+guard_tower
 minaret
-train station
+train_station
 treehouse
 windmill

@@ -1,5 +1,5 @@
-crane game
+crane_game
 pachinko
-pop-up pirate
-video game
+pop-up_pirate
+video_game
 whac-a-mole

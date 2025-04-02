@@ -1,4 +1,4 @@
-Demon tail
-Dragon tail
-Ghost tail
-Pikachu tail
+Demon_tail
+Dragon_tail
+Ghost_tail
+Pikachu_tail

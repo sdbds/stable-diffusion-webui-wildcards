@@ -1,41 +1,41 @@
 afterimage
 border
 framed
-outside border
-fading border
-rounded corners
+outside_border
+fading_border
+rounded_corners
 viewfinder
 chart
-bust chart
-character chart
-reference sheet
+bust_chart
+character_chart
+reference_sheet
 diagram
-move chart
-relationship graph
-seating chart
+move_chart
+relationship_graph
+seating_chart
 stats
 collage
-column lineup
+column_lineup
 cropped
-fake scrollbar
-head out of frame
-out-of-frame censoring
-outside border
+fake_scrollbar
+head_out_of_frame
+out-of-frame_censoring
+outside_border
 glitch
 isometric
 letterboxed
 pillarboxed
 lineup
-mosaic art
+mosaic_art
 photomosaic
-negative space
+negative_space
 omake
-partially underwater shot
-social media composition
+partially_underwater_shot
+social_media_composition
 symmetry
-polar opposites
-rotational symmetry
+polar_opposites
+rotational_symmetry
 tachi-e
-trim marks
-zoom layer
-projected inset
+trim_marks
+zoom_layer
+projected_inset

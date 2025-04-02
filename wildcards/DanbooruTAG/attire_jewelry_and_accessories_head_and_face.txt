@@ -1,12 +1,12 @@
 earrings
-hoop earrings
-stud earrings
+hoop_earrings
+stud_earrings
 earclip
 glasses
 monocle
-hair ornament
+hair_ornament
 hairclip
 hairpin
 mask
-plague doctor mask
-surgical mask
+plague_doctor_mask
+surgical_mask

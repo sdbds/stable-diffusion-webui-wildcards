@@ -1,12 +1,12 @@
-hair bow
-hair ribbon
+hair_bow
+hair_ribbon
 hairband
 headband
-forehead protector
+forehead_protector
 sweatband
 hachimaki
-nejiri hachimaki
+nejiri_hachimaki
 mongkhon
 headdress
-maid headdress
+maid_headdress
 veil

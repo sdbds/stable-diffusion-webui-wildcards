@@ -1,16 +1,16 @@
-pen and ink
+pen_and_ink
 plaster
 watercolor
-oil paint
-acrylic paint
+oil_paint
+acrylic_paint
 charcoal
 pastel
 gouache
 tempera
-graphite pencil
-colored pencil
-digital painting
-spray paint
+graphite_pencil
+colored_pencil
+digital_painting
+spray_paint
 clay
 bronze
 marble
@@ -22,10 +22,10 @@ etching
 lithography
 woodcut
 mosaic
-mixed media
+mixed_media
 photography
-video art
-installation art
+video_art
+installation_art
 ceramics
 metal
 wax
@@ -37,82 +37,82 @@ fiber
 neon
 sand
 ice
-found objects
-performance art
-sound art
+found_objects
+performance_art
+sound_art
 papermaking
 calligraphy
 tapestry
-encaustic painting
+encaustic_painting
 batik
-stained glass
+stained_glass
 beadwork
-sequin art
-digital sculpture
-virtual reality art
-3D printing
-textile art
-conceptual art
-environmental art
+sequin_art
+digital_sculpture
+virtual_reality_art
+3D_printing
+textile_art
+conceptual_art
+environmental_art
 fresco
 scrimshaw
 quilling
 origami
 papier-mâché
 pyrography
-copper etching
+copper_etching
 embroidery
-ink wash painting
+ink_wash_painting
 assemblage
 enamel
-gold leaf
+gold_leaf
 silverpoint
 terra-cotta
-polymer clay
+polymer_clay
 decoupage
-tattoo art
+tattoo_art
 chalk
 airbrush
-miniature painting
-monotype printing
-relief printing
-intaglio printing
-silk painting
+miniature_painting
+monotype_printing
+relief_printing
+intaglio_printing
+silk_painting
 felting
 crochet
 knitting
 weaving
-sculpture welding
-screen printing
-lenticular printing
+sculpture_welding
+screen_printing
+lenticular_printing
 diorama
 collagraphy
-scratchboard art
-body painting
+scratchboard_art
+body_painting
 graffiti
 macrame
-art glass
+art_glass
 stencil
-digital mosaic
-interactive media
-light projection
+digital_mosaic
+interactive_media
+light_projection
 animation
-kinetic art
-foam carving
+kinetic_art
+foam_carving
 photomontage
-cast paper
-wire sculpture
-computer-generated imagery (CGI)
-augmented reality art
-land art
-quilt art
+cast_paper
+wire_sculpture
+computer-generated_imagery_(CGI)
+augmented_reality_art
+land_art
+quilt_art
 metalpoint
 puppetry
 blacksmithing
 bookbinding
-plastic arts
-recycled art
-glitch art
-algorithmic art
-mosaic tile art
-reverse glass painting
+plastic_arts
+recycled_art
+glitch_art
+algorithmic_art
+mosaic_tile_art
+reverse_glass_painting

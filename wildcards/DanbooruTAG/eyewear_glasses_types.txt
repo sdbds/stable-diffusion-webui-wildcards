@@ -1,20 +1,20 @@
-aviator sunglasses
-3d glasses
-coke-bottle glasses
-diving mask
-fancy glasses
-heart-shaped eyewear
-star-shaped eyewear
-teardrop-framed glasses
-flight goggles
-funny glasses
+aviator_sunglasses
+3d_glasses
+coke-bottle_glasses
+diving_mask
+fancy_glasses
+heart-shaped_eyewear
+star-shaped_eyewear
+teardrop-framed_glasses
+flight_goggles
+funny_glasses
 lorgnette
-nodoka glasses
-opaque glasses
-opera glasses
+nodoka_glasses
+opaque_glasses
+opera_glasses
 pince-nez
-safety glasses
-shooting glasses
-ski goggles
-x-ray glasses
+safety_glasses
+shooting_glasses
+ski_goggles
+x-ray_glasses
 scouter

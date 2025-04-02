@@ -1,15 +1,15 @@
-Power suit
+Power_suit
 Plugsuit
 Exoskeleton
 Mecha
 Gundam
 Mechanization
-Sand mecha
-Mechanical broom
-Power glove
+Sand_mecha
+Mechanical_broom
+Power_glove
 Projector
 Jetpack
-Striker unit
-Helicopter ears
-Helicopter hair
-Utility belt
+Striker_unit
+Helicopter_ears
+Helicopter_hair
+Utility_belt

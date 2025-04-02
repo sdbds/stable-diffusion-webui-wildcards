@@ -1,12 +1,12 @@
-bloody wings
-Bowed wings
+bloody_wings
+Bowed_wings
 Flapping
-Glowing wings
-Heart wings
-Torn wings
-Wing censor
-Wing grab
-Wing hug
-Wing umbrella
+Glowing_wings
+Heart_wings
+Torn_wings
+Wing_censor
+Wing_grab
+Wing_hug
+Wing_umbrella
 Wingjob
-wing ribbon
+wing_ribbon

@@ -1,6 +1,6 @@
 circlet
 diadem
-mian guan
-mini crown
+mian_guan
+mini_crown
 saishi
 tiara

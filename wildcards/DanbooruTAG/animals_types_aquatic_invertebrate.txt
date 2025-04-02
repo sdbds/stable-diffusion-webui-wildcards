@@ -4,9 +4,9 @@ Coral
 Cuttlefish
 Octopus
 Oyster
-Sea anemone
-Sea cucumber
-Sea slug
-Sea urchin
+Sea_anemone
+Sea_cucumber
+Sea_slug
+Sea_urchin
 Squid
 Starfish

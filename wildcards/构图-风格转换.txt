@@ -1,59 +1,59 @@
-﻿alternate breast size
-no legwear
-no tail
-no wings
-player 2
-if they mated
-no fire
-age progression
-dark persona
-unusually open eyes
-age comparison
-no eyewear
-no mask
+﻿alternate_breast_size
+no_legwear
+no_tail
+no_wings
+player_2
+if_they_mated
+no_fire
+age_progression
+dark_persona
+unusually_open_eyes
+age_comparison
+no_eyewear
+no_mask
 personification
-alternate costume
+alternate_costume
 humanization
-alternate wings
-aged up
+alternate_wings
+aged_up
 slimification
-alternate color
+alternate_color
 monsterification
 vehicalization
-personality switch
-no animal ears
+personality_switch
+no_animal_ears
 foodification
-no headwear
+no_headwear
 fusion
-hair up
-no horn
-alternate skin color
-role reversal
+hair_up
+no_horn
+alternate_skin_color
+role_reversal
 objectification
-costume combination
-alternate headwear
+costume_combination
+alternate_headwear
 enmaided
 contemporary
-character doll
-genderswap \(ftm\)
-alternate hair length
-alternate hairstyle
+character_doll
+genderswap_\(ftm\)
+alternate_hair_length
+alternate_hairstyle
 zombification
-costume switch
-light persona
+costume_switch
+light_persona
 genderswap
-alternate eye color
+alternate_eye_color
 mechanization
 animalization
-alternate hair color
-alternate weapon
-genderswap \(mtf\)
-alternate universe
-aged down
-alternate element
-headwear switch
+alternate_hair_color
+alternate_weapon
+genderswap_\(mtf\)
+alternate_universe
+aged_down
+alternate_element
+headwear_switch
 furrification
-hair down
-palette swap
-out of character
-adapted costume
+hair_down
+palette_swap
+out_of_character
+adapted_costume

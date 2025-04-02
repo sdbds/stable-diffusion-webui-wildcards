@@ -1,5 +1,5 @@
-dog costume
-dog ears
-dog hat
-dog paws
-dog tail
+dog_costume
+dog_ears
+dog_hat
+dog_paws
+dog_tail

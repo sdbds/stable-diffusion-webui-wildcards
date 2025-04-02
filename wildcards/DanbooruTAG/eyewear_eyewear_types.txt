@@ -1,9 +1,9 @@
-heart-shaped eyewear
-round eyewear
-rectangular eyewear
-rimless eyewear
-semi-rimless eyewear
-over-rim eyewear
-under-rim eyewear
-teardrop-framed glasses
-triangular eyewear
+heart-shaped_eyewear
+round_eyewear
+rectangular_eyewear
+rimless_eyewear
+semi-rimless_eyewear
+over-rim_eyewear
+under-rim_eyewear
+teardrop-framed_glasses
+triangular_eyewear

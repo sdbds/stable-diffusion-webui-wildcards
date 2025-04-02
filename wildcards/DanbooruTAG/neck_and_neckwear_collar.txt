@@ -1,14 +1,14 @@
-collar grab
-collar tug
-adjusting collar
-collared shirt
-detached collar
-fur collar
-high collar
-open collar
-popped collar
-sailor collar
+collar_grab
+collar_tug
+adjusting_collar
+collared_shirt
+detached_collar
+fur_collar
+high_collar
+open_collar
+popped_collar
+sailor_collar
 turtleneck
-sleeveless turtleneck
+sleeveless_turtleneck
 v-neck
-wing collar
+wing_collar

@@ -1,5 +1,5 @@
-against tree
-in tree
-sitting in tree
+against_tree
+in_tree
+sitting_in_tree
 outdoors
-under tree
+under_tree

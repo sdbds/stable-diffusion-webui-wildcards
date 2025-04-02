@@ -1,8 +1,8 @@
 \n/
-crossed fingers
-fox shadow puppet
-finger gun
-finger heart
-inward v
-shaka sign
-two-finger salute
+crossed_fingers
+fox_shadow_puppet
+finger_gun
+finger_heart
+inward_v
+shaka_sign
+two-finger_salute

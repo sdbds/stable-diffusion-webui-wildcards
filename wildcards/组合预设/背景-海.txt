@@ -1,15 +1,15 @@
-golden hour, (warm tones:1.2), soft shadows, sun flare, beachside walking, footprints, peaceful, shoreline
-dark sky, (dense fog:1.2), (thunderstorm :1.3), heavy rain, waves crashing, (lighthouse:1.1), beacon of light, coastal, rugged
-beachside, cozy cottage, sand, seashells, white picket fence, inviting, homey, ocean view
-sunset, calm sea, sailboat, (sailing:1.2), peaceful, water reflections, silhouette, horizon
-rocky cove, hidden, mermaid, (mystical:1.2), underwater, seaweed, sea creatures, sunken treasure
-deserted island, tropical, (picnic:1.2), palm trees, white sand, turquoise water, relaxation, seclusion
-(majestic cliffside:1.3), overlooking the ocean, (vast seascape:1.2), dramatic sky, waves, panoramic view, wind
-coastal village, peaceful harbor, (boats:1.2), fishing nets, sea breeze, quaint homes, shoreline
-boardwalk, dusk, (stroll:1.2), soft lighting, silhouettes, streetlights, calming, seaside
-(romantic sunset cruise:1.3), (warm colors:1.2), sailboat, ocean, silhouette, horizon, tranquility, togetherness
-(crystal clear water:1.4),(anchor:1.4),(blue sky:1.5),(Shipwrecks:1.4),cumulus
-((zero gravity,weightlessness,flying,floating in the air)),((arbor)) ,wonderland,((tropical fish, flock of tropical fish, colorful tropical fish, underwater, in the sea,school of fish, seaweed,jellyfish,pillar of light)), ((large shellfish,coral reef,airbladder:1.5 )), (((larg anchor,Deep sea background ))),goddess,((((large amount of fish)))),((garden)),Visual impact
-colorful,(flying jellyfish:1.5),standing in the ocean,(blue sky:1.2),(large amount of jellyfish:1.3),(Mysterious:1.3),(luminescence:1.3)
-(Many small boats are parked in the harbor where you can see the sky and cumulonimbus clouds:1.3),(piers:1.3),seagulls flying in the distance,twilight
-(beach, palm trees:1.3), beach, clear water,(blue sky, cumulonimbus:1.3),(starfish, seashell:1.2),(island),(hibiscus:1.4)
+golden_hour,_(warm_tones:1.2),_soft_shadows,_sun_flare,_beachside_walking,_footprints,_peaceful,_shoreline
+dark_sky,_(dense_fog:1.2),_(thunderstorm_:1.3),_heavy_rain,_waves_crashing,_(lighthouse:1.1),_beacon_of_light,_coastal,_rugged
+beachside,_cozy_cottage,_sand,_seashells,_white_picket_fence,_inviting,_homey,_ocean_view
+sunset,_calm_sea,_sailboat,_(sailing:1.2),_peaceful,_water_reflections,_silhouette,_horizon
+rocky_cove,_hidden,_mermaid,_(mystical:1.2),_underwater,_seaweed,_sea_creatures,_sunken_treasure
+deserted_island,_tropical,_(picnic:1.2),_palm_trees,_white_sand,_turquoise_water,_relaxation,_seclusion
+(majestic_cliffside:1.3),_overlooking_the_ocean,_(vast_seascape:1.2),_dramatic_sky,_waves,_panoramic_view,_wind
+coastal_village,_peaceful_harbor,_(boats:1.2),_fishing_nets,_sea_breeze,_quaint_homes,_shoreline
+boardwalk,_dusk,_(stroll:1.2),_soft_lighting,_silhouettes,_streetlights,_calming,_seaside
+(romantic_sunset_cruise:1.3),_(warm_colors:1.2),_sailboat,_ocean,_silhouette,_horizon,_tranquility,_togetherness
+(crystal_clear_water:1.4),(anchor:1.4),(blue_sky:1.5),(Shipwrecks:1.4),cumulus
+((zero_gravity,weightlessness,flying,floating_in_the_air)),((arbor))_,wonderland,((tropical_fish,_flock_of_tropical_fish,_colorful_tropical_fish,_underwater,_in_the_sea,school_of_fish,_seaweed,jellyfish,pillar_of_light)),_((large_shellfish,coral_reef,airbladder:1.5_)),_(((larg_anchor,Deep_sea_background_))),goddess,((((large_amount_of_fish)))),((garden)),Visual_impact
+colorful,(flying_jellyfish:1.5),standing_in_the_ocean,(blue_sky:1.2),(large_amount_of_jellyfish:1.3),(Mysterious:1.3),(luminescence:1.3)
+(Many_small_boats_are_parked_in_the_harbor_where_you_can_see_the_sky_and_cumulonimbus_clouds:1.3),(piers:1.3),seagulls_flying_in_the_distance,twilight
+(beach,_palm_trees:1.3),_beach,_clear_water,(blue_sky,_cumulonimbus:1.3),(starfish,_seashell:1.2),(island),(hibiscus:1.4)

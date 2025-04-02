@@ -1,18 +1,18 @@
-aqua hair
-black hair
-blonde hair
-blue hair
-light blue hair
-dark blue hair
-brown hair
-light brown hair
-green hair
-dark green hair
-light green hair
-grey hair
-orange hair
-pink hair
-purple hair
-light purple hair
-red hair
-white hair
+aqua_hair
+black_hair
+blonde_hair
+blue_hair
+light_blue_hair
+dark_blue_hair
+brown_hair
+light_brown_hair
+green_hair
+dark_green_hair
+light_green_hair
+grey_hair
+orange_hair
+pink_hair
+purple_hair
+light_purple_hair
+red_hair
+white_hair

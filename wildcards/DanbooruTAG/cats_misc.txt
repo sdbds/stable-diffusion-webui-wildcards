@@ -1,4 +1,4 @@
 cathead
-giant cat
+giant_cat
 kitten
-too many cats
+too_many_cats

@@ -1,12 +1,12 @@
 skinny
-skinny, ribs, slim legs, narrow waist
+skinny,_ribs,_slim_legs,_narrow_waist
 petite
 curvy
 plump
 fat
 obese
-curvy, belly, stomach, thick thighs, wide hips
+curvy,_belly,_stomach,_thick_thighs,_wide_hips
 toned
 abs
 muscular
-abs, obliques, biceps, pectorals
+abs,_obliques,_biceps,_pectorals

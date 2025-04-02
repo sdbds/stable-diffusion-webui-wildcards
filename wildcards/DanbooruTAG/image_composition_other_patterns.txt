@@ -1,17 +1,17 @@
-animal print
-cow print
-leopard print
-tiger print
-zebra print
-shark print
+animal_print
+cow_print
+leopard_print
+tiger_print
+zebra_print
+shark_print
 argyle
 checkered
-fleur de lis
-floral print
+fleur_de_lis
+floral_print
 gingham
 houndstooth
 meandros
 paisley
 plaid
-polka dot
+polka_dot
 striped

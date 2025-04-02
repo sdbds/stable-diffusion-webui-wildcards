@@ -1,28 +1,28 @@
 kneeling
-one knee
+one_knee
 lying
-crossed legs
-fetal position
-on back
-on side
-on stomach
+crossed_legs
+fetal_position
+on_back
+on_side
+on_stomach
 sitting
-butterfly sitting
-crossed legs
-figure four sitting
-indian style
-hugging own legs
-lotus position
+butterfly_sitting
+crossed_legs
+figure_four_sitting
+indian_style
+hugging_own_legs
+lotus_position
 seiza
-sitting on lap
-sitting on person
+sitting_on_lap
+sitting_on_person
 straddling
-thigh straddling
-upright straddle
+thigh_straddling
+upright_straddle
 wariza
 yokozuwari
 standing
 balancing
-crossed legs
-legs apart
-standing on one leg
+crossed_legs
+legs_apart
+standing_on_one_leg

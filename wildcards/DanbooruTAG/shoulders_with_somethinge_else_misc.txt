@@ -1,3 +1,3 @@
-Hair over shoulder
-Over shoulder
-Shoulder bag
+Hair_over_shoulder
+Over_shoulder
+Shoulder_bag

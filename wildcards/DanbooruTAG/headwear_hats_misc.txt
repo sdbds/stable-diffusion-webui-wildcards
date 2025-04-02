@@ -1,14 +1,14 @@
-animal hat
-hat with ears
-deviruchi hat
-bear hat
-bunny hat
-cat hat
-dog hat
-fox hat
+animal_hat
+hat_with_ears
+deviruchi_hat
+bear_hat
+bunny_hat
+cat_hat
+dog_hat
+fox_hat
 pelt
-penguin hat
-wolf hat
-eggshell hat
-pumpkin hat
+penguin_hat
+wolf_hat
+eggshell_hat
+pumpkin_hat
 Helmets

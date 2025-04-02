@@ -1,5 +1,5 @@
-detached hair
-severed hair
-floating hair
-hair spread out
-wet hair
+detached_hair
+severed_hair
+floating_hair
+hair_spread_out
+wet_hair

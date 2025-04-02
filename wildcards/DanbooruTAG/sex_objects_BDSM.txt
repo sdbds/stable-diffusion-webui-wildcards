@@ -1,41 +1,41 @@
 blindfold
-bondage outfit
+bondage_outfit
 chain
-nipple chain
-chastity belt
-chastity bra
-chastity cage
+nipple_chain
+chastity_belt
+chastity_bra
+chastity_cage
 Clamp
-clitoris clamp
-nipple clamps
-tongue clamp
+clitoris_clamp
+nipple_clamps
+tongue_clamp
 collar
 cuffs
 shackles
 handcuffs
 hobble
 gag
-ball gag
-bit gag
-cleave gag
-panty gag
-plug gag
-ring gag
-tape gag
-gimp suit
+ball_gag
+bit_gag
+cleave_gag
+panty_gag
+plug_gag
+ring_gag
+tape_gag
+gimp_suit
 leash
-clitoris leash
-leash on penis
-nipple leash
-nose hook
+clitoris_leash
+leash_on_penis
+nipple_leash
+nose_hook
 piercing
 pillory
 stocks
 rope
-crotch rope
+crotch_rope
 sounding
-spreader bar
+spreader_bar
 whip
-riding crop
-wooden horse
-judas cradle
+riding_crop
+wooden_horse
+judas_cradle

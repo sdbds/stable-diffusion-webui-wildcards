@@ -1,2 +1,2 @@
-solo focus
-text focus
+solo_focus
+text_focus

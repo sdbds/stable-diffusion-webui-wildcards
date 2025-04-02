@@ -1,10 +1,10 @@
-Ankle wings
-Detached wings
-Head wings
-Low wings
-Leg wings
-wing ears
-Winged bag
-winged hat
-Winged helmet
-Winged footwear
+Ankle_wings
+Detached_wings
+Head_wings
+Low_wings
+Leg_wings
+wing_ears
+Winged_bag
+winged_hat
+Winged_helmet
+Winged_footwear

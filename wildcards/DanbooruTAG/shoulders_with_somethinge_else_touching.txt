@@ -1,5 +1,5 @@
-Carrying over shoulder
-Fireman's carry
+Carrying_over_shoulder
+Fireman's_carry
 Piggyback
-Shoulder carry
-Standing on shoulder
+Shoulder_carry
+Standing_on_shoulder

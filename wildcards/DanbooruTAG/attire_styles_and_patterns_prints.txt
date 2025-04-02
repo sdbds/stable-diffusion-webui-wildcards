@@ -1,40 +1,40 @@
-animal print
-bat print
-bear print
-butterfly print
-cow print
-leopard print
-tiger print
-snake print
-clover print
-crescent print
-floral print
-rose print
-cherry blossom print
-sunflower print
-morning glory print
-food print
-fruit pattern
-apple print
-blueberry print
-cherry print
-kiwi print
-lemon print
-pineapple print
-orange print
-strawberry print
-watermelon print
-leaf print
-maple leaf print
-moon print
-musical note print
-paw print
-petal print
-piano print
-sparkle print
-triangle print
-space print
-starry sky print
-star print
-wave print
-wing print
+animal_print
+bat_print
+bear_print
+butterfly_print
+cow_print
+leopard_print
+tiger_print
+snake_print
+clover_print
+crescent_print
+floral_print
+rose_print
+cherry_blossom_print
+sunflower_print
+morning_glory_print
+food_print
+fruit_pattern
+apple_print
+blueberry_print
+cherry_print
+kiwi_print
+lemon_print
+pineapple_print
+orange_print
+strawberry_print
+watermelon_print
+leaf_print
+maple_leaf_print
+moon_print
+musical_note_print
+paw_print
+petal_print
+piano_print
+sparkle_print
+triangle_print
+space_print
+starry_sky_print
+star_print
+wave_print
+wing_print

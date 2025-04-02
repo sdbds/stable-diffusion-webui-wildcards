@@ -1,14 +1,14 @@
 bell
 cowbell
 handbell
-jingle bell
+jingle_bell
 castanets
 cymbals
 drum
-bongo drums
-conga drums
+bongo_drums
+conga_drums
 drumsticks
-taiko drum
+taiko_drum
 timpani
 tsuzumi
 maracas

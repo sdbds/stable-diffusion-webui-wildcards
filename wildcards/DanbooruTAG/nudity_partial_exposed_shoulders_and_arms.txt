@@ -1,12 +1,12 @@
 armpits
-armpit cutout
-bare arms
-arm cutout
-bare shoulders
-off shoulder
-shoulder cutout
-sleeves rolled up
+armpit_cutout
+bare_arms
+arm_cutout
+bare_shoulders
+off_shoulder
+shoulder_cutout
+sleeves_rolled_up
 sleeveless
-low-cut armhole
-sleeves pushed up
-sleeves rolled up
+low-cut_armhole
+sleeves_pushed_up
+sleeves_rolled_up

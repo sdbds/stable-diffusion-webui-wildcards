@@ -1,20 +1,20 @@
-bun cover
+bun_cover
 hairpods
 chopsticks
 comb
-hair ornament
-hair bell
-hair bobbles
-hair bow
-hair ribbon
+hair_ornament
+hair_bell
+hair_bobbles
+hair_bow
+hair_ribbon
 hairclip
 hairpin
-hair flower
-hair tubes
+hair_flower
+hair_tubes
 kanzashi
-hair tie
+hair_tie
 hairband
-hair weapon
+hair_weapon
 headband
 scrunchie
 wig

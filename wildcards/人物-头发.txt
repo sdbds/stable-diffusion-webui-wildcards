@@ -1,261 +1,261 @@
-﻿folded ponytail
-hair rings
-side bun
+﻿folded_ponytail
+hair_rings
+side_bun
 bald
-front ponytail
-beehive hairdo
-hair scarf
-asymmetrical bangs
-low-braided long hair
-side braid
-low-tied long hair
-streaked hair
-multi-tied hair
-hair over shoulder
-hair slicked back
-low twin braids
-low twintails
-quad tails
-single sidelock
-wavy hair
-quin tails
-buzz cut
-short twintails
+front_ponytail
+beehive_hairdo
+hair_scarf
+asymmetrical_bangs
+low-braided_long_hair
+side_braid
+low-tied_long_hair
+streaked_hair
+multi-tied_hair
+hair_over_shoulder
+hair_slicked_back
+low_twin_braids
+low_twintails
+quad_tails
+single_sidelock
+wavy_hair
+quin_tails
+buzz_cut
+short_twintails
 flattop
-hair bikini
-swept bangs
+hair_bikini
+swept_bangs
 pompadour
-bob cut
-short bob
-medium bob hair
-long bob
-short choppy pixie cut
-crew cut
-bowl cut
+bob_cut
+short_bob
+medium_bob_hair
+long_bob
+short_choppy_pixie_cut
+crew_cut
+bowl_cut
 skinhead
-big layered hair
-wave perm hair
-short shaggy perm hair
-volume perm hair
-long wave hair
-natural wave hair
-high ponytail hair
-low ponytail hair
-messy ponytail hair
-twin tails hair
-messy bun hair
-top knot hair
-bouquet arrangement hair
-big curl hair
-long curl hair
-natural curl hair
-long dreadlocks hair
-braided hair
-crown braid hair
-milkmaid braid hair
-half-up braided hair
-long afro hair
-big afro hair
-side undercut hair
-long streaked highlights hair
-face line streaked highlights hair
-big wave long hair
-long straight perm
-medium shaggy hair
-short shaggy hair
-layered shaggy hair
-short men's hair
-medium men's hair
-skin fade men's hair
-frog cut men's hair
-ponytail men's hair
-messy men's hair
-short hair wig
-color hair extensions
-ponytail hair extensions
-volume hair extensions
-chignon hair
-French twist hairstyle
-donut bun hairstyle
-feathered haircuts
-rough up hairstyle
-light brown hair
-asymmetrical hair
-shouten pegasus mix mori
-huge ahoge
-one side up
-absurdly long hair
-tied hair
-hair spread out
+big_layered_hair
+wave_perm_hair
+short_shaggy_perm_hair
+volume_perm_hair
+long_wave_hair
+natural_wave_hair
+high_ponytail_hair
+low_ponytail_hair
+messy_ponytail_hair
+twin_tails_hair
+messy_bun_hair
+top_knot_hair
+bouquet_arrangement_hair
+big_curl_hair
+long_curl_hair
+natural_curl_hair
+long_dreadlocks_hair
+braided_hair
+crown_braid_hair
+milkmaid_braid_hair
+half-up_braided_hair
+long_afro_hair
+big_afro_hair
+side_undercut_hair
+long_streaked_highlights_hair
+face_line_streaked_highlights_hair
+big_wave_long_hair
+long_straight_perm
+medium_shaggy_hair
+short_shaggy_hair
+layered_shaggy_hair
+short_men's_hair
+medium_men's_hair
+skin_fade_men's_hair
+frog_cut_men's_hair
+ponytail_men's_hair
+messy_men's_hair
+short_hair_wig
+color_hair_extensions
+ponytail_hair_extensions
+volume_hair_extensions
+chignon_hair
+French_twist_hairstyle
+donut_bun_hairstyle
+feathered_haircuts
+rough_up_hairstyle
+light_brown_hair
+asymmetrical_hair
+shouten_pegasus_mix_mori
+huge_ahoge
+one_side_up
+absurdly_long_hair
+tied_hair
+hair_spread_out
 bangs
 afro
-hair one side up
+hair_one_side_up
 ahoge
-two side up
-braided bun
-grey hair
+two_side_up
+braided_bun
+grey_hair
 twintails
 ponytail
-spiked hair
-diagonal bangs
-braided ponytail
-bald girl
-crown braid
-hair behind ear
-heart ahoge
-bow-shaped hair
-messy hair
-floating hair
-single braid
-pink hair
+spiked_hair
+diagonal_bangs
+braided_ponytail
+bald_girl
+crown_braid
+hair_behind_ear
+heart_ahoge
+bow-shaped_hair
+messy_hair
+floating_hair
+single_braid
+pink_hair
 mizura
-rainbow hair
+rainbow_hair
 okappa
-braided bangs
-quad braids
-curly hair
-curl inside hair
+braided_bangs
+quad_braids
+curly_hair
+curl_inside_hair
 nihongami
-crystal hair
-triple bun
-hair strand
-hime cut
-short ponytail
-very short hair
-shiny hair
-uneven twintails
-widow's peak
+crystal_hair
+triple_bun
+hair_strand
+hime_cut
+short_ponytail
+very_short_hair
+shiny_hair
+uneven_twintails
+widow's_peak
 cornrows
-tri tails
-short hair
-single hair ring
-double bun
-hair two side up
-purple hair
-flipped hair
-expressive hair
+tri_tails
+short_hair
+single_hair_ring
+double_bun
+hair_two_side_up
+purple_hair
+flipped_hair
+expressive_hair
 braid
 dreadlocks
-straight hair
-hair intakes
-comb over
-multicolored hair
-twin drills
-long braid
-twin braids
-low twin braids
-french braid
-dutch braid
+straight_hair
+hair_intakes
+comb_over
+multicolored_hair
+twin_drills
+long_braid
+twin_braids
+low_twin_braids
+french_braid
+dutch_braid
 undercut
-hair bun
-antenna hair
-long hair
-split ponytail
-folded ponytail
-front ponytail
-multiple braids
-hair ears
+hair_bun
+antenna_hair
+long_hair
+split_ponytail
+folded_ponytail
+front_ponytail
+multiple_braids
+hair_ears
 mullet
-hair in mouth
-high ponytail
-pointy hair
-half updo
+hair_in_mouth
+high_ponytail
+pointy_hair
+half_updo
 topknot
-parted bangs
-tentacle hair
-crossed bangs
-crew cut
+parted_bangs
+tentacle_hair
+crossed_bangs
+crew_cut
 chonmage
-big hair
-heart hair bun
-very long hair
+big_hair
+heart_hair_bun
+very_long_hair
 ringlets
-hair over one eye
-hair flaps
-wet hair
-tri braids
-side braids
-quad braids
-lone nape hair
-hair over eyes
-side swept bangs
-swept bangs
-gradient hair
-hair between eyes
-cone hair bun
-doughnut hair bun
-braided bun
-single hair bun
-triple bun
-hair rings
-hair pulled back
-blunt bangs
-asymmetrical bangs
-low-braided long hair
-low-tied long hair
+hair_over_one_eye
+hair_flaps
+wet_hair
+tri_braids
+side_braids
+quad_braids
+lone_nape_hair
+hair_over_eyes
+side_swept_bangs
+swept_bangs
+gradient_hair
+hair_between_eyes
+cone_hair_bun
+doughnut_hair_bun
+braided_bun
+single_hair_bun
+triple_bun
+hair_rings
+hair_pulled_back
+blunt_bangs
+asymmetrical_bangs
+low-braided_long_hair
+low-tied_long_hair
 mizura
-multi-tied hair
+multi-tied_hair
 nihongami
 afro
-huge afro
-beehive hairdo
+huge_afro
+beehive_hairdo
 pompadour
-cloud hair
-medium hair
+cloud_hair
+medium_hair
 quiff
-shouten pegasus mix mori
-silver hair
-quad drills
-side ponytail
-side drill
-low ponytail
-short ponytail
-bowl cut
-buzz cut
+shouten_pegasus_mix_mori
+silver_hair
+quad_drills
+side_ponytail
+side_drill
+low_ponytail
+short_ponytail
+bowl_cut
+buzz_cut
 chonmage
-crew cut
+crew_cut
 flattop
 okappa
 undercut
-drill hair
-curtained hair
-colored inner hair
+drill_hair
+curtained_hair
+colored_inner_hair
 sidelocks
-bangs pinned back
-single hair intake
-front braid
-pixie cut
+bangs_pinned_back
+single_hair_intake
+front_braid
+pixie_cut
 mohawk
-Hair that transitions into a puzzle
-frizzy hair
-kinky hair
-fishtail braid
-braided crown
-crown braid
-single braid
-braided bangs
-widow's peak
-bow-shaped hair
+Hair_that_transitions_into_a_puzzle
+frizzy_hair
+kinky_hair
+fishtail_braid
+braided_crown
+crown_braid
+single_braid
+braided_bangs
+widow's_peak
+bow-shaped_hair
 twintails
-low twintails
-short twintails
-uneven twintails
-tri tails
-quad tails
-quin tails
+low_twintails
+short_twintails
+uneven_twintails
+tri_tails
+quad_tails
+quin_tails
 ahoge
-heart ahoge
-huge ahoge
-hair slicked back
+heart_ahoge
+huge_ahoge
+hair_slicked_back
 cornrows
-bob cut
-alternate hairstyle
-asymmetrical hair
+bob_cut
+alternate_hairstyle
+asymmetrical_hair
 sidecut
-hair bikini
-hair censor
-hair over breasts
-hair over one breast
-hair over crotch
-hair over shoulder
-hair scarf
+hair_bikini
+hair_censor
+hair_over_breasts
+hair_over_one_breast
+hair_over_crotch
+hair_over_shoulder
+hair_scarf

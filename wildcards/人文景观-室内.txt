@@ -1,35 +1,35 @@
 ﻿workshop
-staff room
+staff_room
 office
 courtroom
-otaku room
+otaku_room
 laboratory
 cafeteria
 infirmary
-storage room
-living room
+storage_room
+living_room
 kitchen
 stage
-messy room
+messy_room
 cubicle
 dungeon
 library
-toilet stall
+toilet_stall
 clubroom
 shower
 closet
 bedroom
 bathtub
-dining room
-changing room
-gym storeroom
-locker room
-fitting room
+dining_room
+changing_room
+gym_storeroom
+locker_room
+fitting_room
 classroom
-hotel room
+hotel_room
 bathroom
-dressing room
-prison cell
+dressing_room
+prison_cell
 gym
 armory
 conservatory

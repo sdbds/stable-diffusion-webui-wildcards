@@ -1,18 +1,18 @@
-Bear tail
-Rabbit tail
-Cat tail
-Cow tail
-Deer tail
-Dog tail
-Ermine tail
-Fox tail
-Horse tail
-Leopard tail
-Lion tail
-Monkey tail
-Mouse tail
-Pig tail
-Sheep tail
-Squirrel tail
-Tiger tail
-Wolf tail
+Bear_tail
+Rabbit_tail
+Cat_tail
+Cow_tail
+Deer_tail
+Dog_tail
+Ermine_tail
+Fox_tail
+Horse_tail
+Leopard_tail
+Lion_tail
+Monkey_tail
+Mouse_tail
+Pig_tail
+Sheep_tail
+Squirrel_tail
+Tiger_tail
+Wolf_tail

@@ -1,66 +1,66 @@
 blouse
-frilled shirt
-sleeveless shirt
+frilled_shirt
+sleeveless_shirt
 bustier
-crop top
+crop_top
 camisole
 cardigan
-cardigan vest
+cardigan_vest
 coat
-duffel coat
-fur coat
-fur-trimmed coat
-long coat
+duffel_coat
+fur_coat
+fur-trimmed_coat
+long_coat
 overcoat
 peacoat
 raincoat
-yellow raincoat
-transparent raincoat
-trench coat
-winter coat
-compression shirt
+yellow_raincoat
+transparent_raincoat
+trench_coat
+winter_coat
+compression_shirt
 corset
 dress
 halterneck
-criss-cross halter
+criss-cross_halter
 halterneck
 hoodie
 jacket
 blazer
-cropped jacket (bolero)
-letterman jacket
-safari jacket
-suit jacket
+cropped_jacket_(bolero)
+letterman_jacket
+safari_jacket
+suit_jacket
 sukajan
-trench coat
+trench_coat
 poncho
-raglan sleeves
+raglan_sleeves
 sash
-shoulder sash
+shoulder_sash
 stole
 shirt
-collared shirt
-dress shirt
-off-shoulder shirt
-sleeveless shirt
-striped shirt
+collared_shirt
+dress_shirt
+off-shoulder_shirt
+sleeveless_shirt
+striped_shirt
 t-shirt
 shrug
 surcoat
 sweater
 pullover
 turtleneck
-sleeveless turtleneck
-sweater dress
-ribbed sweater
-aran sweater
+sleeveless_turtleneck
+sweater_dress
+ribbed_sweater
+aran_sweater
 tabard
 tailcoat
-tank top
+tank_top
 stringer
-tube top
+tube_top
 bandeau
 underbust
 vest
-sweater vest
+sweater_vest
 waistcoat

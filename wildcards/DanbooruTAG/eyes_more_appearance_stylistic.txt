@@ -1,11 +1,11 @@
-crazy eyes
-empty eyes
-dashed eyes
-heart-shaped eyes
+crazy_eyes
+empty_eyes
+dashed_eyes
+heart-shaped_eyes
 Nonowa
-solid circle eyes
-o o
-0 0
+solid_circle_eyes
+o_o
+0_0
 jitome
 tareme
 tsurime

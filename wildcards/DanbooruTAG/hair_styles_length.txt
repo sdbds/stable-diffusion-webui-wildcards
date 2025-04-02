@@ -1,9 +1,9 @@
-very short hair
-short hair
-medium hair
-long hair
-very long hair
-absurdly long hair
-big hair
+very_short_hair
+short_hair
+medium_hair
+long_hair
+very_long_hair
+absurdly_long_hair
+big_hair
 bald
-bald girl
+bald_girl

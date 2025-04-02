@@ -2,9 +2,9 @@ bagpipes
 bassoon
 clarinet
 crumhorn
-electric wind instrument
+electric_wind_instrument
 flute
-bass flute
+bass_flute
 fife
 harmonica
 oboe

@@ -1,5 +1,5 @@
-hand on another's chest
-hand on own chest
-hands on hips
-hand on another's shoulder
-hand on own shoulder
+hand_on_another's_chest
+hand_on_own_chest
+hands_on_hips
+hand_on_another's_shoulder
+hand_on_own_shoulder

@@ -1,84 +1,84 @@
-baking sheet
-bamboo steamer
+baking_sheet
+bamboo_steamer
 basket
-picnic basket
-shopping basket
-shopping cart
+picnic_basket
+shopping_basket
+shopping_cart
 bottle
-squeeze bottle
+squeeze_bottle
 bowl
 plate
 saucer
 sakazuki
-cake pan
+cake_pan
 chopsticks
-chopstick rest
-coffee grinder
-cookie cutter
-cutting board
+chopstick_rest
+coffee_grinder
+cookie_cutter
+cutting_board
 dishes
-drinking straw
-bendy straw
-crazy straw
-heart straw
-egg carton
-food wrapper
+drinking_straw
+bendy_straw
+crazy_straw
+heart_straw
+egg_carton
+food_wrapper
 fork
 spork
-frying pan
-gravy boat
+frying_pan
+gravy_boat
 griddle
 grill
 kabayaki
 shichirin
-honey dipper
-hot plate
-ice cream scoop
-kitchen scale
+honey_dipper
+hot_plate
+ice_cream_scoop
+kitchen_scale
 knife
-butter knife
+butter_knife
 cleaver
 kettle
 ladle
 lunchbox
 bento
 makisu
-measuring cup
-mess kit
+measuring_cup
+mess_kit
 microwave
-milking machine
-mini flag
+milking_machine
+mini_flag
 mixer
 napkin
 oven
-brick oven
-oven mitts
-pastry bag
+brick_oven
+oven_mitts
+pastry_bag
 peel
 plate
-holding plate
-plate stack
+holding_plate
+plate_stack
 pot
 honeypot
 cauldron
 recipe
 refrigerator
-rice cooker
-rolling pin
-serving dome
+rice_cooker
+rolling_pin
+serving_dome
 sink
 spatula
-serving spatula
+serving_spatula
 spoon
 shamoji
-chinese spoon
+chinese_spoon
 stove
-takeout container
-oyster pail
+takeout_container
+oyster_pail
 toaster
 tongs
 tray
-cake stand
-tiered tray
+cake_stand
+tiered_tray
 whisk
 wok

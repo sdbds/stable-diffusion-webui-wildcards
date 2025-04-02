@@ -1,27 +1,27 @@
-air quotes
-bunny pose
-carry me
-clenched hands
-cupping hands
-double v
+air_quotes
+bunny_pose
+carry_me
+clenched_hands
+cupping_hands
+double_v
 fidgeting
-finger counting
-finger frame
-fist bump
-fist in hand
-hand glasses
-own hands clasped
-heart arms
-heart hands
-heart hands duo
-heart hands trio
-high five
-horns pose
+finger_counting
+finger_frame
+fist_bump
+fist_in_hand
+hand_glasses
+own_hands_clasped
+heart_arms
+heart_hands
+heart_hands_duo
+heart_hands_trio
+high_five
+horns_pose
 noogie
-palm-fist greeting
-palm-fist tap
-penetration gesture
-pinky swear
-shadow puppet
-tsuki ni kawatte oshioki yo
-steepled fingers
+palm-fist_greeting
+palm-fist_tap
+penetration_gesture
+pinky_swear
+shadow_puppet
+tsuki_ni_kawatte_oshioki_yo
+steepled_fingers

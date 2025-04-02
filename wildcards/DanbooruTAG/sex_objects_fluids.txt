@@ -1,5 +1,5 @@
 aphrodisiac
 enema
 lotion
-lotion bottle
+lotion_bottle
 lube

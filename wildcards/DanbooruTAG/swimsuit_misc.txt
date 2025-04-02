@@ -1,16 +1,16 @@
-adjusting swimsuit
-bikini lift
-bikini bottom only
-bikini top only
-hand under swimsuit
-impossible swimsuit
-swim cap
-swimsuit aside
-bikini aside
-swimsuit costume
-swimsuit pull
-bikini pull
-swimsuit under clothes
-swimsuit cover-up
-torn swimsuit
+adjusting_swimsuit
+bikini_lift
+bikini_bottom_only
+bikini_top_only
+hand_under_swimsuit
+impossible_swimsuit
+swim_cap
+swimsuit_aside
+bikini_aside
+swimsuit_costume
+swimsuit_pull
+bikini_pull
+swimsuit_under_clothes
+swimsuit_cover-up
+torn_swimsuit
 sarong

@@ -1,4 +1,4 @@
-Alligator gar
+Alligator_gar
 Angelfish
 Anglerfish
 Arapaima
@@ -13,32 +13,32 @@ Clownfish
 Coelacanth
 Dunkleosteus
 Eel
-Leopard eel
-Moray eel
-Flying fish
+Leopard_eel
+Moray_eel
+Flying_fish
 Lamprey
-Leafy Seadragon
-Manta ray
+Leafy_Seadragon
+Manta_ray
 Needlefish
 Oarfish
 Oilfish
-Puffer fish
+Puffer_fish
 Sailfish
 Saury
 Sawfish
 Seahorse
 Shark
 Edestus
-Goblin shark
-Great white shark
-Hammerhead shark
+Goblin_shark
+Great_white_shark
+Hammerhead_shark
 Helicoprion
-Saw shark
-Whale shark
-Siamese fighting fish
+Saw_shark
+Whale_shark
+Siamese_fighting_fish
 Swordfish
 Sunfish
 Surgeonfish
-Regal blue tang
-Yellow tang
+Regal_blue_tang
+Yellow_tang
 Tuna

@@ -10,17 +10,17 @@ glacier
 lake
 park
 plain
-ocean bottom
+ocean_bottom
 water
 desert
-flower field
+flower_field
 wetland
 wasteland
 stream
 geyser
 cliff
 nature
-floating island
+floating_island
 forest
 savannah
 pond
@@ -30,6 +30,6 @@ canyon
 meadow
 oasis
 shore
-parking lot
-bamboo forest
+parking_lot
+bamboo_forest
 playground

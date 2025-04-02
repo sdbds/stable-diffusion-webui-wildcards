@@ -1,77 +1,77 @@
-﻿art nouveau
-tempera \(medium\)
-ligne claire
-watercolor pencil \(medium\)
-coupy pencil \(medium\)
+﻿art_nouveau
+tempera_\(medium\)
+ligne_claire
+watercolor_pencil_\(medium\)
+coupy_pencil_\(medium\)
 ukiyo-e
-ballpoint pen \(medium\)
-chalk \(medium\)
-graffiti \(medium\)
-painting \(medium\)
+ballpoint_pen_\(medium\)
+chalk_\(medium\)
+graffiti_\(medium\)
+painting_\(medium\)
 abstract
-color trace
+color_trace
 variations
-flat color
+flat_color
 unfinished
 minimalism
-faux figurine
+faux_figurine
 cyberpunk
-oil painting \(medium\)
-whiteboard \(medium\)
-airbrush \(medium\)
-color ink \(medium\)
+oil_painting_\(medium\)
+whiteboard_\(medium\)
+airbrush_\(medium\)
+color_ink_\(medium\)
 sketch
 cosplay
-acrylic paint \(medium\)
+acrylic_paint_\(medium\)
 realistic
 photorealistic
 impressionism
-millipen \(medium\)
-clay \(medium\)
-retro artstyle
-brushpen \(medium\)
-pen \(medium\)
-fourth wall
-crayon \(medium\)
-illustrator \(medium\)
-lego \(medium\)
-nib pen \(medium\)
-traditional media
-flame painter
-faux traditional media
+millipen_\(medium\)
+clay_\(medium\)
+retro_artstyle
+brushpen_\(medium\)
+pen_\(medium\)
+fourth_wall
+crayon_\(medium\)
+illustrator_\(medium\)
+lego_\(medium\)
+nib_pen_\(medium\)
+traditional_media
+flame_painter
+faux_traditional_media
 nihonga
-print \(medium\)
-dakimakura \(medium\)
-disc \(medium\)
-charcoal \(medium\)
-amigurumi \(medium\)
-marker \(medium\)
-theatre \(medium\)
-pastel \(medium\)
-watercolor \(medium\)
-google sketchup \(medium\)
-washi tape \(medium\)
-calligraphy brush \(medium\)
-style parody
-cursor \(medium\)
-fudepen \(medium\)
-brush \(medium\)
-alphonse mucha
-porcelain \(medium\)
-leaf \(medium\)
-book cover \(medium\)
-gouache \(medium\)
-fine art parody
+print_\(medium\)
+dakimakura_\(medium\)
+disc_\(medium\)
+charcoal_\(medium\)
+amigurumi_\(medium\)
+marker_\(medium\)
+theatre_\(medium\)
+pastel_\(medium\)
+watercolor_\(medium\)
+google_sketchup_\(medium\)
+washi_tape_\(medium\)
+calligraphy_brush_\(medium\)
+style_parody
+cursor_\(medium\)
+fudepen_\(medium\)
+brush_\(medium\)
+alphonse_mucha
+porcelain_\(medium\)
+leaf_\(medium\)
+book_cover_\(medium\)
+gouache_\(medium\)
+fine_art_parody
 sumi-e
-g-pen \(medium\)
-graphite \(medium\)
-canvas \(medium\)
-art deco
-calligraphy pen \(medium\)
-swapnote \(medium\)
-ink \(medium\)
+g-pen_\(medium\)
+graphite_\(medium\)
+canvas_\(medium\)
+art_deco
+calligraphy_pen_\(medium\)
+swapnote_\(medium\)
+ink_\(medium\)
 surreal
-colored pencil \(medium\)
-mousepad \(medium\)
-expression chart
-pastel color
+colored_pencil_\(medium\)
+mousepad_\(medium\)
+expression_chart
+pastel_color

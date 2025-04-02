@@ -1,8 +1,8 @@
-bowl cut
-buzz cut
+bowl_cut
+buzz_cut
 chonmage
-crew cut
+crew_cut
 flattop
 okappa
-pixie cut
+pixie_cut
 undercut

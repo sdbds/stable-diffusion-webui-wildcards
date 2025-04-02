@@ -1,8 +1,8 @@
 freckles
 makeup
 lipstick
-thick eyebrows
-mole under eye
-mole under mouth
-scar onface
+thick_eyebrows
+mole_under_eye
+mole_under_mouth
+scar_onface
 facepaint

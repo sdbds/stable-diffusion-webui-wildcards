@@ -1,51 +1,51 @@
-md5 mismatch
+md5_mismatch
 ai-generated
 ai-assisted
 duplicate
-pixel-perfect duplicate
-derivative work
-reference photo
+pixel-perfect_duplicate
+derivative_work
+reference_photo
 photo-referenced
-anime screencap
+anime_screencap
 screencap-referenced
-game screenshot
+game_screenshot
 screenshot
 redrawn
-album cover redraw
-manga panel redraw
-screencap redraw
-end card
-game cg
-novel illustration
-official art
-game model
-key visual
-promotional art
-production art
+album_cover_redraw
+manga_panel_redraw
+screencap_redraw
+end_card
+game_cg
+novel_illustration
+official_art
+game_model
+key_visual
+promotional_art
+production_art
 animatic
-disc menu
-cd (source)
+disc_menu
+cd_(source)
 spoilers
-check spoilers
-paid reward
-patreon reward
-enty reward
-fantia reward
-fanbox reward
-gumroad reward
-paid reward available
-line sticker available
+check_spoilers
+paid_reward
+patreon_reward
+enty_reward
+fantia_reward
+fanbox_reward
+gumroad_reward
+paid_reward_available
+line_sticker_available
 scan
-color halftone
-magazine scan
-scan artifacts
-scan dust
-self scan
-bleed through
-binding discoloration
+color_halftone
+magazine_scan
+scan_artifacts
+scan_dust
+self_scan
+bleed_through
+binding_discoloration
 fixed
-avatar generator
+avatar_generator
 off-topic
 jav
-self upload
+self_upload
 revision

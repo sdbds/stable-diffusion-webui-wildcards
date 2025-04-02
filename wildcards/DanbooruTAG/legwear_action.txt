@@ -1,5 +1,5 @@
-adjusting legwear
-holding legwear
-pulling off legwear
-putting on legwear
-removing legwear
+adjusting_legwear
+holding_legwear
+pulling_off_legwear
+putting_on_legwear
+removing_legwear

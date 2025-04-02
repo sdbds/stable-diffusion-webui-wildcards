@@ -1,29 +1,29 @@
 bouquet
-coughing flowers
+coughing_flowers
 field
-flower field
+flower_field
 meadow
-flower (symbol)
-flower bed
-flower bracelet
-flower in mouth
-flower necklace
-flower on head
-flower on liquid
-flower trim
-floral print
-hair flower
+flower_(symbol)
+flower_bed
+flower_bracelet
+flower_in_mouth
+flower_necklace
+flower_on_head
+flower_on_liquid
+flower_trim
+floral_print
+hair_flower
 hanafuda
-hat flower
-holding flower
+hat_flower
+holding_flower
 garden
 gardening
 lei
-on flower
+on_flower
 outdoors
 petals
-rose petals
-petals on liquid
-smelling flower
+rose_petals
+petals_on_liquid
+smelling_flower
 wreath
-head wreath
+head_wreath

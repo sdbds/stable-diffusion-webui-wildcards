@@ -1,7 +1,7 @@
-flat chest
-small breasts
-medium breasts
-large breasts
-big breasts
-huge breasts
-gigantic breasts
+flat_chest
+small_breasts
+medium_breasts
+large_breasts
+big_breasts
+huge_breasts
+gigantic_breasts

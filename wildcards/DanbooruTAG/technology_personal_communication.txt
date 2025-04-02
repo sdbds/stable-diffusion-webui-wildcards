@@ -1,21 +1,21 @@
 Microphone
-Microphone stand
-Studio microphone
-Vintage microphone
+Microphone_stand
+Studio_microphone
+Vintage_microphone
 Phone
 Cellphone
-Cordless phone
-Cellphone radio bar
-Cellphone strap
-Corded phone
+Cordless_phone
+Cellphone_radio_bar
+Cellphone_strap
+Corded_phone
 Payphone
-Phone booth
+Phone_booth
 Smartphone
 iPhone
 Phonecard
 Speaker
 Earpiece
-Robot ears
+Robot_ears
 Earphones
 Headphones
 Walkie-talkie

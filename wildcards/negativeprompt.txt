@@ -1,5 +1,5 @@
-﻿missing arms
-bad hands
-bad anatomy
-extra digit
-fewer digits
+﻿missing_arms
+bad_hands
+bad_anatomy
+extra_digit
+fewer_digits

@@ -1,19 +1,19 @@
-Lace bra, High waist girdle, Puff sleeve blouse
-Balconette bra, Shapewear skirt, Flare topBalconette bra, Shapewear skirt, Flare top
-Plunge bra, Long girdle, Satin camisole
-Full cover bra, Petticoat, Bustier top
-Wired bra, Body shaper, Rib top
-Racerback bra, Wrap around girdle, Frill blouse
-Multiway bra, Control panties, Wrap top
-Sports bra, Bodysuit, Lace top
-Strapless bra, High waist shorts, Tube top
-Push up bra, Shapewear leggings, Off shoulder top
-Demi bra, Control slip, French sleeve blouse
-Nursing bra, Shapewear jumpsuit, Babydoll top
-Front closure bra, Petticoat skirt, Bustier dress
-Minimizer bra, High waist shaper, Peplum top
-Plus size bra, Body control dress, Velvet top
-Bralette, Wrap around shaper, Ribbed dress
-T-shirt bra, Shapewear shorts, Flared dress
-Memory foam bra, Body shaper top, Balloon top
-Convertible bra, Shapewear pants, Satin dress
+Lace_bra,_High_waist_girdle,_Puff_sleeve_blouse
+Balconette_bra,_Shapewear_skirt,_Flare_topBalconette_bra,_Shapewear_skirt,_Flare_top
+Plunge_bra,_Long_girdle,_Satin_camisole
+Full_cover_bra,_Petticoat,_Bustier_top
+Wired_bra,_Body_shaper,_Rib_top
+Racerback_bra,_Wrap_around_girdle,_Frill_blouse
+Multiway_bra,_Control_panties,_Wrap_top
+Sports_bra,_Bodysuit,_Lace_top
+Strapless_bra,_High_waist_shorts,_Tube_top
+Push_up_bra,_Shapewear_leggings,_Off_shoulder_top
+Demi_bra,_Control_slip,_French_sleeve_blouse
+Nursing_bra,_Shapewear_jumpsuit,_Babydoll_top
+Front_closure_bra,_Petticoat_skirt,_Bustier_dress
+Minimizer_bra,_High_waist_shaper,_Peplum_top
+Plus_size_bra,_Body_control_dress,_Velvet_top
+Bralette,_Wrap_around_shaper,_Ribbed_dress
+T-shirt_bra,_Shapewear_shorts,_Flared_dress
+Memory_foam_bra,_Body_shaper_top,_Balloon_top
+Convertible_bra,_Shapewear_pants,_Satin_dress

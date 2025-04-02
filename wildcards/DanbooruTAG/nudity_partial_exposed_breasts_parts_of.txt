@@ -1,6 +1,6 @@
 backboob
 cleavage
-cleavage cutout
+cleavage_cutout
 sideboob
 underboob
-underboob cutout
+underboob_cutout

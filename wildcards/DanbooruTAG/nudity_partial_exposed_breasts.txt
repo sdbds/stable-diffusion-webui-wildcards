@@ -1,8 +1,8 @@
-breastless clothes
-one breast out
-breast slip
-breasts out
-bra lift
-no bra
-bra pull
+breastless_clothes
+one_breast_out
+breast_slip
+breasts_out
+bra_lift
+no_bra
+bra_pull
 topless

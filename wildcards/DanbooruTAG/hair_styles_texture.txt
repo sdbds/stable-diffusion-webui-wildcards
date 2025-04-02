@@ -1,9 +1,9 @@
-curly hair
-drill hair
-twin drills
-hair flaps
-messy hair
-pointy hair
+curly_hair
+drill_hair
+twin_drills
+hair_flaps
+messy_hair
+pointy_hair
 ringlets
-spiked hair
-wavy hair
+spiked_hair
+wavy_hair

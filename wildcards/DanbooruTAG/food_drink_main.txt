@@ -1,11 +1,11 @@
 alcohol
 beer
-non-alcoholic beer
-guinness (beer)
+non-alcoholic_beer
+guinness_(beer)
 champagne
 cocktail
-caesar (drink)
-cocktail umbrella
+caesar_(drink)
+cocktail_umbrella
 margarita
 martini
 liquor
@@ -15,43 +15,43 @@ vodka
 whiskey
 wine
 coffee
-cafe au lait
-canned coffee
-coffee beans
-dandelion coffee
-georgia max coffee
-latte art
+cafe_au_lait
+canned_coffee
+coffee_beans
+dandelion_coffee
+georgia_max_coffee
+latte_art
 starbucks
 juice
 amazake
 lemonade
-orange juice
+orange_juice
 milk
 soda
 7up
 calpis
 coca-cola
-dr pepper
+dr_pepper
 fanta
-melon soda
-mountain dew
+melon_soda
+mountain_dew
 pepsi
-pepsi ice cucumber
+pepsi_ice_cucumber
 ramune
-root beer
-soda can
+root_beer
+soda_can
 tea
-barley tea
-black tea
-bubble tea
-darjeeling tea
-earl grey tea
-green tea
-herbal tea
-iced tea
-milk tea
-rose hip tea
-spear mint tea
-tropical drink
-blue hawaii
+barley_tea
+black_tea
+bubble_tea
+darjeeling_tea
+earl_grey_tea
+green_tea
+herbal_tea
+iced_tea
+milk_tea
+rose_hip_tea
+spear_mint_tea
+tropical_drink
+blue_hawaii
 water

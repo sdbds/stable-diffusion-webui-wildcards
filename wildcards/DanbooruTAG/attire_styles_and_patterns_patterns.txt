@@ -1,10 +1,10 @@
 argyle
 camouflage
 checkered
-floral print
-pinstripe pattern
+floral_print
+pinstripe_pattern
 plaid
-polka dot
+polka_dot
 striped
-multicolored stripes
-double vertical stripe
+multicolored_stripes
+double_vertical_stripe

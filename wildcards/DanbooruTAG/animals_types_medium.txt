@@ -1,7 +1,7 @@
 Boar
 Echidna
 Fox
-Red fox
+Red_fox
 Goat
 Hedgehog
 Monkey
@@ -9,6 +9,6 @@ Platypus
 Pig
 Piglet
 Rabbit
-Angora rabbit
+Angora_rabbit
 Sheep
 Lamb

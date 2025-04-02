@@ -5,12 +5,12 @@ space
 asteroid
 moon
 planet
-space station
-vehicle interior
-airplane interior
-bus interior
-car interior
+space_station
+vehicle_interior
+airplane_interior
+bus_interior
+car_interior
 cockpit
-spacecraft interior
-tank interior
-train interior
+spacecraft_interior
+tank_interior
+train_interior

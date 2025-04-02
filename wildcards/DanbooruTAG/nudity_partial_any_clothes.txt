@@ -1,7 +1,7 @@
-clothing aside
-clothes down
-open clothes
-revealing clothes
+clothing_aside
+clothes_down
+open_clothes
+revealing_clothes
 see-through
 unbuttoned
 undressing

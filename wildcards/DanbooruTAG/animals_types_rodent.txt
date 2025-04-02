@@ -2,9 +2,9 @@ Beaver
 Capybara
 Chipmunk
 Ferret
-Guinea pig
+Guinea_pig
 Hamster
 Mouse
-Naked mole rat
+Naked_mole_rat
 Squirrel
 Weasel

@@ -1,21 +1,21 @@
 airsoft
-Daruma-san ga koronda
-goldfish scooping
+Daruma-san_ga_koronda
+goldfish_scooping
 hanetsuki
-hide and seek
+hide_and_seek
 hopscotch
-jump rope
-double dutch
+jump_rope
+double_dutch
 kendama
 kibasen
-king game
-leap frog
-obi spin
+king_game
+leap_frog
+obi_spin
 paintball
-playing games
-playing sports
+playing_games
+playing_sports
 olympics
 racing
-scavenger hunt
-tug of war
+scavenger_hunt
+tug_of_war
 twister

@@ -1,5 +1,5 @@
-cd player
-digital media player
+cd_player
+digital_media_player
 ipod
 iphone
 phonograph

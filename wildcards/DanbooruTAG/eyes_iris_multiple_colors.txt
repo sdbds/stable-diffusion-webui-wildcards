@@ -1,2 +1,2 @@
 heterochromia
-multicolored eyes
+multicolored_eyes

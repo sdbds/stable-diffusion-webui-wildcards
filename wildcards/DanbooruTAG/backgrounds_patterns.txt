@@ -1,14 +1,14 @@
-argyle background
-checkered background
-food-themed background
-halftone background
-honeycomb background
-paw print background
-plaid background
-polka dot background
-simple background
-snowflake background
-spiral background
-strawberry background
-striped background
-sunburst background
+argyle_background
+checkered_background
+food-themed_background
+halftone_background
+honeycomb_background
+paw_print_background
+plaid_background
+polka_dot_background
+simple_background
+snowflake_background
+spiral_background
+strawberry_background
+striped_background
+sunburst_background

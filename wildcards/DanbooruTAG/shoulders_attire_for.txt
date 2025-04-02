@@ -1,4 +1,4 @@
 Epaulettes
 Pauldrons
-Puffy sleeves
-Shoulder pads
+Puffy_sleeves
+Shoulder_pads

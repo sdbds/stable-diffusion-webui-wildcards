@@ -1,12 +1,12 @@
 covering
-covering anus
-covering ass
-covering breasts
-covering crotch
-covering head
-covering ears
-covering one eye
-covering eyes
-covering face
-covering mouth
-nude cover
+covering_anus
+covering_ass
+covering_breasts
+covering_crotch
+covering_head
+covering_ears
+covering_one_eye
+covering_eyes
+covering_face
+covering_mouth
+nude_cover

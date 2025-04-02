@@ -1,12 +1,12 @@
-dress flower
-flower trim
+dress_flower
+flower_trim
 frills
-fur trim
+fur_trim
 gathers
-gold trim
-lace trim
-ribbon trim
+gold_trim
+lace_trim
+ribbon_trim
 see-through
-silver trim
-taut shirt
-torn clothes
+silver_trim
+taut_shirt
+torn_clothes

@@ -1,9 +1,9 @@
 animal
 pet
 animalization
-dog on head
-dog walking
-guide dog
-no humans
-pack of dogs
+dog_on_head
+dog_walking
+guide_dog
+no_humans
+pack_of_dogs
 puppy

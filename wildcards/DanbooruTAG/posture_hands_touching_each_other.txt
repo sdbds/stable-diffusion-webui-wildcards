@@ -1,4 +1,4 @@
-interlocked fingers
-own hands clasped
-own hands together
-star hands
+interlocked_fingers
+own_hands_clasped
+own_hands_together
+star_hands

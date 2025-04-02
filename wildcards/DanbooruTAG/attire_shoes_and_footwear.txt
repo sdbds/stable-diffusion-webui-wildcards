@@ -1,44 +1,44 @@
 boots
-ankle boots
-armored boots
-knee boots
-high heel boots
-lace-up boots
-rubber boots
-thigh boots
-cowboy boots
+ankle_boots
+armored_boots
+knee_boots
+high_heel_boots
+lace-up_boots
+rubber_boots
+thigh_boots
+cowboy_boots
 spurs
-cross-laced footwear
+cross-laced_footwear
 flats
-footwear ribbon
-high heels
+footwear_ribbon
+high_heels
 loafers
-kiltie loafers
-mary janes
-platform footwear
-pointy footwear
+kiltie_loafers
+mary_janes
+platform_footwear
+pointy_footwear
 pumps
 sandals
-clog sandals
-cross-laced sandals
+clog_sandals
+cross-laced_sandals
 flip-flops
-gladiator sandals
+gladiator_sandals
 geta
 okobo
 waraji
 zouri
 oxfords
-saddle shoes
-monk shoes
+saddle_shoes
+monk_shoes
 slippers
-animal slippers
-ballet slippers
+animal_slippers
+ballet_slippers
 crocs
 uwabaki
 sneakers
-high tops
+high_tops
 converse
-toeless footwear
+toeless_footwear
 uwabaki
-winged footwear
-wedge heels
+winged_footwear
+wedge_heels

@@ -1,23 +1,23 @@
-animal focus
-armpit focus
-ass focus
-back focus
-book focus
-breast focus
-cloud focus
-eye focus
-food focus
-foot focus
-hand focus
-hip focus
-male focus
-navel focus
-other focus
-pectoral focus
-solo focus
-tank focus
-text focus
-thigh focus
-weapon focus
-vehicle focus
-wind chime focus
+animal_focus
+armpit_focus
+ass_focus
+back_focus
+book_focus
+breast_focus
+cloud_focus
+eye_focus
+food_focus
+foot_focus
+hand_focus
+hip_focus
+male_focus
+navel_focus
+other_focus
+pectoral_focus
+solo_focus
+tank_focus
+text_focus
+thigh_focus
+weapon_focus
+vehicle_focus
+wind_chime_focus

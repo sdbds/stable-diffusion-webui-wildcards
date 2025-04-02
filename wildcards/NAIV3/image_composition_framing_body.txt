@@ -1,18 +1,18 @@
 face
 portrait
-upper body
-lower body
-cowboy shot
-feet out of frame
-full body
-wide shot
-very wide shot
+upper_body
+lower_body
+cowboy_shot
+feet_out_of_frame
+full_body
+wide_shot
+very_wide_shot
 close-up
 cut-in
-cropped legs
-head out of frame
-cropped torso
-cropped arms
-cropped shoulders
+cropped_legs
+head_out_of_frame
+cropped_torso
+cropped_arms
+cropped_shoulders
 profile
-group profile
+group_profile

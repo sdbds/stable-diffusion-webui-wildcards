@@ -1,7 +1,7 @@
-bags under eyes
-aegyo sal
-bruised eye
-flaming eyes
-glowing eyes
-glowing eye
-mako eyes
+bags_under_eyes
+aegyo_sal
+bruised_eye
+flaming_eyes
+glowing_eyes
+glowing_eye
+mako_eyes

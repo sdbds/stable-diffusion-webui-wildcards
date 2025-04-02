@@ -1,4 +1,4 @@
 cornrows
 dreadlocks
-hime cut
+hime_cut
 mullet

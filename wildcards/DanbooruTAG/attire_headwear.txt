@@ -1,15 +1,15 @@
 balaclava
 crown
-hair bow
-hair ribbon
+hair_bow
+hair_ribbon
 hairband
 headband
-forehead protector
+forehead_protector
 sweatband
 hachimaki
 mongkhon
 headdress
-maid headdress
+maid_headdress
 tiara
 veil
 honggaitou

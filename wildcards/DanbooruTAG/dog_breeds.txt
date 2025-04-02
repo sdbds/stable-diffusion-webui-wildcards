@@ -1,38 +1,38 @@
-Afghan hound
-Akita Inu
-Australian Kelpie
+Afghan_hound
+Akita_Inu
+Australian_Kelpie
 Beagle
-Bernese mountain dog
-Border collie
+Bernese_mountain_dog
+Border_collie
 Borzoi
-Boston terrier
+Boston_terrier
 Briard
 Bulldog
-Bull terrier
+Bull_terrier
 Chihuahua
-Chinese crested dog
-Chow Chow
+Chinese_crested_dog
+Chow_Chow
 Dachshund
 Dalmatian
 Dingo
 Doberman
-English springer spaniel
-German shepherd
-Golden retriever
-Great Dane
+English_springer_spaniel
+German_shepherd
+Golden_retriever
+Great_Dane
 Greyhound
 Husky
-Irish setter
-Japanese spitz
+Irish_setter
+Japanese_spitz
 Maltese
 Mastiff
-Old English Sheepdog
+Old_English_Sheepdog
 Papillon
 Pomeranian
 Poodle
 Pug
-Shar Pei
-Shiba inu
-St. Bernard
-Welsh corgi
-Yorkshire Terrier
+Shar_Pei
+Shiba_inu
+St._Bernard
+Welsh_corgi
+Yorkshire_Terrier

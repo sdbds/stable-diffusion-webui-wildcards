@@ -1,9 +1,9 @@
-checkered bra
-lace bra
-lace-trimmed bra
-plaid bra
-polka dot bra
-print bra
-strawberry bra
-striped bra
-vertical-striped bra
+checkered_bra
+lace_bra
+lace-trimmed_bra
+plaid_bra
+polka_dot_bra
+print_bra
+strawberry_bra
+striped_bra
+vertical-striped_bra

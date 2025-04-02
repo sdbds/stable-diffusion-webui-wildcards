@@ -1,9 +1,9 @@
 cityscape
 everyone
-absolutely everyone
+absolutely_everyone
 landscape
 nature
-no humans
+no_humans
 off-topic
 scenery
-still life
+still_life

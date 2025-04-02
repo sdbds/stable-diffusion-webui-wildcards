@@ -1,16 +1,16 @@
-eye contact
-looking afar
-looking at another
-looking at breasts
-looking at hand
-looking at mirror
-looking at phone
-looking at viewer
-looking away
-looking back
-looking down
-looking outside
-looking over eyewear
-looking through legs
-looking to the side
-looking up
+eye_contact
+looking_afar
+looking_at_another
+looking_at_breasts
+looking_at_hand
+looking_at_mirror
+looking_at_phone
+looking_at_viewer
+looking_away
+looking_back
+looking_down
+looking_outside
+looking_over_eyewear
+looking_through_legs
+looking_to_the_side
+looking_up

@@ -1,4 +1,4 @@
-color connection
+color_connection
 colorized
 colorful
-spot color
+spot_color

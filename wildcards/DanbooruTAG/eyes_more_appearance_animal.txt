@@ -1,5 +1,5 @@
-amphibian eyes
-button eyes
-cephalopod eyes
-compound eyes
-horizontal pupils
+amphibian_eyes
+button_eyes
+cephalopod_eyes
+compound_eyes
+horizontal_pupils

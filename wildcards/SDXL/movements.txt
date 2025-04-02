@@ -1,4 +1,4 @@
-Abstract Expressionism
+Abstract_Expressionism
 Baroque
 Rococo
 Romanticism
@@ -13,10 +13,10 @@ Futurism
 Symbolism
 Expressionism
 Minimalism
-Pop Art
+Pop_Art
 Constructivism
-Art Nouveau
-Art Deco
+Art_Nouveau
+Art_Deco
 Neoclassicism
 Mannerism
 Gothic
@@ -25,45 +25,45 @@ Byzantine
 Medieval
 Contemporary
 Modern
-Naïve Art
-Primitive Art
-Outsider Art
-Folk Art
+Naïve_Art
+Primitive_Art
+Outsider_Art
+Folk_Art
 Bauhaus
 Suprematism
 Pointillism
 Neo-expressionism
-Academic Art
-Street Art
+Academic_Art
+Street_Art
 Stuckism
 Photorealism
 Tonalism
-Magic Realism
-Op Art
+Magic_Realism
+Op_Art
 Tachisme
 Neo-Romanticism
-Arte Povera
-Abstract Illusionism
-Metaphysical Painting
+Arte_Povera
+Abstract_Illusionism
+Metaphysical_Painting
 Hyperrealism
 Vorticism
-De Stijl
+De_Stijl
 Divisionism
 Synchromism
-Pre-Raphaelite Brotherhood
-Digital Art
-Kinetic Art
-Video Art
-Installation Art
-Environmental Art
-Land Art
-Graffiti Art
-Performance Art
-Conceptual Art
-Pixel Art
-Lowbrow Art
-Virtual Art
-Haptic Art
+Pre-Raphaelite_Brotherhood
+Digital_Art
+Kinetic_Art
+Video_Art
+Installation_Art
+Environmental_Art
+Land_Art
+Graffiti_Art
+Performance_Art
+Conceptual_Art
+Pixel_Art
+Lowbrow_Art
+Virtual_Art
+Haptic_Art
 Neo-Plasticism
 Neo-Dada
 Neo-Fauvism
@@ -71,23 +71,23 @@ Intimism
 Purism
 Cloisonnism
 Orphism
-Social Realism
-New Objectivity
+Social_Realism
+New_Objectivity
 Verism
 Kitsch
 Brutalism
-Lyrical Abstraction
-Computer Art
-Psychedelic Art
-Bio Art
+Lyrical_Abstraction
+Computer_Art
+Psychedelic_Art
+Bio_Art
 Japonism
-Art Informel
-Action Painting
-Color Field
+Art_Informel
+Action_Painting
+Color_Field
 Automatism
-Visionary Art
+Visionary_Art
 Regionalism
-Ashcan School
+Ashcan_School
 Chiaroscuro
 Tenebrism
 Spatialism
@@ -95,50 +95,50 @@ Situationism
 Classicism
 Lettrism
 Precisionism
-Analytic Cubism
-Synthetic Cubism
-Hard-edge Painting
+Analytic_Cubism
+Synthetic_Cubism
+Hard-edge_Painting
 Monochromism
-Street Photography
-Narrative Art
-Socialist Realism
+Street_Photography
+Narrative_Art
+Socialist_Realism
 Transavantgarde
-Young British Artists
+Young_British_Artists
 Arabesque
 Trompe-l'oeil
-Acid Art
+Acid_Art
 Spectralism
 Wabi-sabi
-Neo-Figurative Art
-Feminist Art
-Art Photography
-Cobra (art movement)
-CoBrA (Copenhagen, Brussels, Amsterdam)
-Art and Language
-Russian Futurism
-Italian Futurism
+Neo-Figurative_Art
+Feminist_Art
+Art_Photography
+Cobra_(art_movement)
+CoBrA_(Copenhagen,_Brussels,_Amsterdam)
+Art_and_Language
+Russian_Futurism
+Italian_Futurism
 Luminism
-Post-Painterly Abstraction
-New Media Art
-Mail Art
+Post-Painterly_Abstraction
+New_Media_Art
+Mail_Art
 Outrenoir
-Appropriation Art
+Appropriation_Art
 Toyism
-Generative Art
+Generative_Art
 Dataism
-Mingei (Japanese Folk Art)
-Gongbi (meticulous Chinese painting)
-Zhe School (traditional Chinese)
-Literati Painting (Chinese Scholar Painting)
-Gutai Group (Japanese avant-garde)
-Nihonga (Japanese traditional painting)
-Mono-ha (Japanese Material School)
-Superflat (postmodern art movement in Japan)
-Yamato-e (classical Japanese painting)
-Muralism (Mexican)
-Lowbrow Art Movement
+Mingei_(Japanese_Folk_Art)
+Gongbi_(meticulous_Chinese_painting)
+Zhe_School_(traditional_Chinese)
+Literati_Painting_(Chinese_Scholar_Painting)
+Gutai_Group_(Japanese_avant-garde)
+Nihonga_(Japanese_traditional_painting)
+Mono-ha_(Japanese_Material_School)
+Superflat_(postmodern_art_movement_in_Japan)
+Yamato-e_(classical_Japanese_painting)
+Muralism_(Mexican)
+Lowbrow_Art_Movement
 Calligraffiti
-Glitch Art
-Sound Art
-New Leipzig School
+Glitch_Art
+Sound_Art
+New_Leipzig_School
 vector

@@ -1,2 +1,2 @@
-artificial wings
-Fake wings
+artificial_wings
+Fake_wings

@@ -1,19 +1,19 @@
-all fours
-top-down bottom-up
+all_fours
+top-down_bottom-up
 prostration
-chest stand
+chest_stand
 cowering
 crucifixion
 faceplant
-fighting stance
-battoujutsu stance
-full scorpion
+fighting_stance
+battoujutsu_stance
+full_scorpion
 reclining
 squatting
 stretching
-superhero landing
+superhero_landing
 upside-down
 handstand
 headstand
 yoga
-scorpion pose
+scorpion_pose

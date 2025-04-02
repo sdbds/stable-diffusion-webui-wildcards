@@ -1,11 +1,11 @@
-ear focus
+ear_focus
 face
 forehead
-forehead mark
+forehead_mark
 beard
 mustache
-head wings
+head_wings
 lips
 nape
 tongue
-long tongue
+long_tongue

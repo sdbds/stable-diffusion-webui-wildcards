@@ -1,86 +1,86 @@
 3d
 animated
-animated png
+animated_png
 flash
 video
-music video
-animated gif
+music_video
+animated_gif
 easytoon
-non-repeating animation
-looping animation
-roulette animation
+non-repeating_animation
+looping_animation
+roulette_animation
 live2d
-archived file
+archived_file
 artbook
-calendar (medium)
-card (medium)
+calendar_(medium)
+card_(medium)
 comic
 1koma
 2koma
 3koma
 4koma
-multiple 4koma
+multiple_4koma
 5koma
-borderless panels
+borderless_panels
 manga
 eromanga
-left-to-right manga
-right-to-left comic
-silent comic
-corrupted file
+left-to-right_manga
+right-to-left_comic
+silent_comic
+corrupted_file
 cover
-album cover
-character single
-cover page
-doujin cover
-dvd cover
-fake cover
-video game cover
-magazine cover
-manga cover
-fake screenshot
-game cg
-gyotaku (medium)
+album_cover
+character_single
+cover_page
+doujin_cover
+dvd_cover
+fake_cover
+video_game_cover
+magazine_cover
+manga_cover
+fake_screenshot
+game_cg
+gyotaku_(medium)
 highres
 absurdres
-incredibly absurdres
+incredibly_absurdres
 lowres
 icon
 logo
 kirigami
 lineart
-no lineart
+no_lineart
 outline
-tall image
-wide image
-mosaic art
+tall_image
+wide_image
+mosaic_art
 photomosaic
 oekaki
-official art
+official_art
 phonecard
 photo
 papercraft
-paper child
-paper cutout
-pixel art
+paper_child
+paper_cutout
+pixel_art
 postcard
 poster
 revision
-has bad revision
-has artifacted revision
-has censored revision
-has cropped revision
-has downscaled revision
-has lossy revision
-has watermarked revision
+has_bad_revision
+has_artifacted_revision
+has_censored_revision
+has_cropped_revision
+has_downscaled_revision
+has_lossy_revision
+has_watermarked_revision
 scan
-anime screencap
+anime_screencap
 shitajiki
 tegaki
-transparent background
-triptych (art)
-vector trace
+transparent_background
+triptych_(art)
+vector_trace
 tileable
-wallpaper forced
+wallpaper_forced
 widescreen
-official wallpaper
+official_wallpaper

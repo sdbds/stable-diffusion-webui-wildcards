@@ -1,18 +1,18 @@
-garter belt
-garter straps
-legwear garter
+garter_belt
+garter_straps
+legwear_garter
 kneehighs
 leggings
-leg warmers
+leg_warmers
 over-kneehighs
 pantyhose
-thighband pantyhose
+thighband_pantyhose
 socks
-ankle socks
-bobby socks
-loose socks
+ankle_socks
+bobby_socks
+loose_socks
 tabi
-toe socks
-tube socks
+toe_socks
+tube_socks
 thighhighs
-thigh strap
+thigh_strap

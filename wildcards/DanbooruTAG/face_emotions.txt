@@ -1,15 +1,15 @@
 angry
-anger vein
+anger_vein
 annoyed
-clenched teeth
+clenched_teeth
 annoyed
 blush
-blush stickers
+blush_stickers
 embarrassed
-full-face blush
-nose blush
+full-face_blush
+nose_blush
 bored
-closed eyes
+closed_eyes
 confused
 crazy
 determined
@@ -24,26 +24,26 @@ evil
 facepalm
 flustered
 frustrated
-furrowed brow
+furrowed_brow
 grimace
 guilt
 happy
-kubrick stare
+kubrick_stare
 lonely
 nervous
 nosebleed
-one eye closed
-open mouth
-parted lips
+one_eye_closed
+open_mouth
+parted_lips
 pain
 pout
-raised eyebrow
-rape face
-rolling eyes
+raised_eyebrow
+rape_face
+rolling_eyes
 sad
 depressed
 frown
-gloom (expression)
+gloom_(expression)
 tears
 scared
 panicking
@@ -56,6 +56,6 @@ sulking
 surprised
 thinking
 pensive
-v-shaped eyebrows
+v-shaped_eyebrows
 wince
 upset

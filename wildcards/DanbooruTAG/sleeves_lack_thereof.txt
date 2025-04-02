@@ -1,9 +1,9 @@
 sleeveless
-sleeveless shirt
-sleeveless dress
-sleeveless duster
-sleeveless hoodie
-sleeveless jacket
-sleeveless kimono
-sleeveless shirt
-sleeveless turtleneck
+sleeveless_shirt
+sleeveless_dress
+sleeveless_duster
+sleeveless_hoodie
+sleeveless_jacket
+sleeveless_kimono
+sleeveless_shirt
+sleeveless_turtleneck

@@ -1,5 +1,5 @@
-fire body
-fiery hair
-fiery tail
-fiery wings
-flame-tipped tail
+fire_body
+fiery_hair
+fiery_tail
+fiery_wings
+flame-tipped_tail

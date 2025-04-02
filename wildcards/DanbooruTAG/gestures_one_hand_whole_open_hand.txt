@@ -1,11 +1,11 @@
 \||/
-claw pose
-open hand
+claw_pose
+open_hand
 ohikaenasutte
 facepalm
 reaching
 salute
-spread fingers
-straight-arm salute
-vulcan salute
+spread_fingers
+straight-arm_salute
+vulcan_salute
 waving

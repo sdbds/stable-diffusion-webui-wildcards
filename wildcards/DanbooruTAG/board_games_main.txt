@@ -1,10 +1,10 @@
 chess
-game of life
+game_of_life
 go
 kai-awase
 mahjong
 monopoly
 reversi
-settlers of catan
+settlers_of_catan
 shogi
 tic-tac-toe

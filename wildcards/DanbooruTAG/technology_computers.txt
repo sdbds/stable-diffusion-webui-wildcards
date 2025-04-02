@@ -1,18 +1,18 @@
 Computer
 Laptop
-Computer chip
+Computer_chip
 Keyboard
 Mouse
-Mousepad (object)
-Ass mousepad
-Breast mousepad
+Mousepad_(object)
+Ass_mousepad
+Breast_mousepad
 Monitor
-Curved monitor
-Multiple monitors
+Curved_monitor
+Multiple_monitors
 RAM
 Tablet
 Trackball
 Screen
-Floating screen
+Floating_screen
 Touchscreen
 USB

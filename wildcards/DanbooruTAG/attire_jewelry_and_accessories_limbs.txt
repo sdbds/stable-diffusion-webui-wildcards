@@ -1,29 +1,29 @@
 anklet
-arm belt
+arm_belt
 armband
 armlet
 bracelet
 bangle
-spiked bracelet
-bridal gauntlets
-detached sleeves
-arm warmers
+spiked_bracelet
+bridal_gauntlets
+detached_sleeves
+arm_warmers
 fingernails
 gloves
-boxing gloves
-elbow gloves
-fingerless gloves
-bridal gauntlets
-spiked gloves
+boxing_gloves
+elbow_gloves
+fingerless_gloves
+bridal_gauntlets
+spiked_gloves
 yugake
 mittens
-leg belt
+leg_belt
 ring
-claw ring
-wedding ring
-wedding ring
+claw_ring
+wedding_ring
+wedding_ring
 thighlet
-wide sleeves
+wide_sleeves
 wristband
-wrist cuffs
-wrist scrunchie
+wrist_cuffs
+wrist_scrunchie

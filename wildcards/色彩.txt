@@ -1,36 +1,36 @@
-﻿partially colored
+﻿partially_colored
 colorized
 greyscale
-orange theme
-red theme
-grey theme
+orange_theme
+red_theme
+grey_theme
 colorful
-spot color
-yellow theme
-limited palette
-green theme
-rainbow order
-ff gradient
+spot_color
+yellow_theme
+limited_palette
+green_theme
+rainbow_order
+ff_gradient
 sepia
 rainbow
-pastel colors
-color connection
-high contrast
-pale color
-cel shading
-aqua theme
-greyscale with colored background
+pastel_colors
+color_connection
+high_contrast
+pale_color
+cel_shading
+aqua_theme
+greyscale_with_colored_background
 gradient
-colored with greyscale background
-white theme
-purple theme
-inverted colors
-black theme
-muted color
-neon palette
-anime coloring
+colored_with_greyscale_background
+white_theme
+purple_theme
+inverted_colors
+black_theme
+muted_color
+neon_palette
+anime_coloring
 monochrome
-brown theme
-blue theme
-pink theme
-Selective Color
+brown_theme
+blue_theme
+pink_theme
+Selective_Color

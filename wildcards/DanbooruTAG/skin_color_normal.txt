@@ -1,5 +1,5 @@
-Dark skin
-Pale skin
+Dark_skin
+Pale_skin
 Tan
 Tanlines
-Sun tattoo
+Sun_tattoo

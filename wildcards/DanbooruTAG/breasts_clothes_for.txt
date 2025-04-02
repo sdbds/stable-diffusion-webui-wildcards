@@ -1,27 +1,27 @@
 bandeau
 bikini
-bikini bottom only
-cupless bikini
+bikini_bottom_only
+cupless_bikini
 bra
-cupless bra
-hand in bra
-no bra
-nursing bra
-shelf bra
-breastless clothes
-breast curtain
+cupless_bra
+hand_in_bra
+no_bra
+nursing_bra
+shelf_bra
+breastless_clothes
+breast_curtain
 bustier
-center opening
-chest binder
-Cinderella bust
-cleavage cutout
+center_opening
+chest_binder
+Cinderella_bust
+cleavage_cutout
 corset
-framed breasts
-nipple cutout
-nippleless clothes
-panties on breasts
-plunging neckline
-rei no himo
+framed_breasts
+nipple_cutout
+nippleless_clothes
+panties_on_breasts
+plunging_neckline
+rei_no_himo
 sarashi
-taut shirt
+taut_shirt
 underbust

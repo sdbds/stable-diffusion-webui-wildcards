@@ -1,70 +1,70 @@
-﻿neck bell
+﻿neck_bell
 scarf
 lei
-sailor collar
+sailor_collar
 v-neck
 halterneck
-neck ruff
+neck_ruff
 bowtie
-neck ring
-pet cone
-high collar
-goggles around neck
-green neckwear
+neck_ring
+pet_cone
+high_collar
+goggles_around_neck
+green_neckwear
 locket
-pearl necklace
-purple neckwear
+pearl_necklace
+purple_neckwear
 magatama
-headphones around neck
+headphones_around_neck
 stole
 turtleneck
-pink neckwear
+pink_neckwear
 pentacle
-popped collar
-detached collar
+popped_collar
+detached_collar
 amulet
-sleeveless turtleneck
-necktie between breasts
-cross tie
-flower necklace
-ribbon choker
+sleeveless_turtleneck
+necktie_between_breasts
+cross_tie
+flower_necklace
+ribbon_choker
 jabot
-yellow neckwear
-bolo tie
-wing collar
-open collar
-aqua neckwear
-blue neckwear
-collar grab
-necktie removed
-plunging neckline
+yellow_neckwear
+bolo_tie
+wing_collar
+open_collar
+aqua_neckwear
+blue_neckwear
+collar_grab
+necktie_removed
+plunging_neckline
 lanyard
-striped neckwear
-grey neckwear
-spiked collar
-fur collar
-dog collar
-adjusting collar
+striped_neckwear
+grey_neckwear
+spiked_collar
+fur_collar
+dog_collar
+adjusting_collar
 choker
 necklace
-plaid neckwear
-neck ribbon
-metal collar
-feather boa
-checkered neckwear
-collar tug
-red neckwear
-white neckwear
-animal collar
-chain necklace
+plaid_neckwear
+neck_ribbon
+metal_collar
+feather_boa
+checkered_neckwear
+collar_tug
+red_neckwear
+white_neckwear
+animal_collar
+chain_necklace
 collar
-heart choker
+heart_choker
 necktie
 pendant
-orange neckwear
-black neckwear
-brown neckwear
+orange_neckwear
+black_neckwear
+brown_neckwear
 neckerchief
-necktie on head
-friendship charm
+necktie_on_head
+friendship_charm
 ascot

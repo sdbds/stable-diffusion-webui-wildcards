@@ -1,8 +1,8 @@
-covering ears
-ear biting
-ear grab
-ear pull
-ear wiggle
-hand on ear
-holding ears
-licking ear
+covering_ears
+ear_biting
+ear_grab
+ear_pull
+ear_wiggle
+hand_on_ear
+holding_ears
+licking_ear

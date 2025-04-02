@@ -1,5 +1,5 @@
-Sleeveless shirt
-Sleeveless dress
-Sleeveless sweater
-Sleeveless jacket
-Sleeveless coat
+Sleeveless_shirt
+Sleeveless_dress
+Sleeveless_sweater
+Sleeveless_jacket
+Sleeveless_coat

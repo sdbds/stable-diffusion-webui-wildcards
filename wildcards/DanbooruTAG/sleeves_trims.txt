@@ -1,5 +1,5 @@
-feather-trimmed sleeves
-frilled sleeves
-fur-trimmed sleeves
-lace-trimmed sleeves
-ribbon-trimmed sleeves
+feather-trimmed_sleeves
+frilled_sleeves
+fur-trimmed_sleeves
+lace-trimmed_sleeves
+ribbon-trimmed_sleeves

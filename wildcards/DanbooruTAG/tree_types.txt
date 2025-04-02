@@ -1,14 +1,14 @@
 baobab
 bonsai
-cherry blossoms
-christmas tree
-fir tree
-fruit tree
+cherry_blossoms
+christmas_tree
+fir_tree
+fruit_tree
 ginkgo
-ginkgo nut
-maple leaf
-palm tree
-coconut tree
-pine tree
-plum blossoms
+ginkgo_nut
+maple_leaf
+palm_tree
+coconut_tree
+pine_tree
+plum_blossoms
 willow

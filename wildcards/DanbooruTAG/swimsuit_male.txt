@@ -1,6 +1,6 @@
 jammers
 legskin
-swim briefs
-swim trunks
+swim_briefs
+swim_trunks
 loincloth
 fundoshi

@@ -1,9 +1,9 @@
-animal focus
-book focus
-cloud focus
-food focus
-text focus
-vehicle focus
-tank focus
-weapon focus
-wind chime focus
+animal_focus
+book_focus
+cloud_focus
+food_focus
+text_focus
+vehicle_focus
+tank_focus
+weapon_focus
+wind_chime_focus

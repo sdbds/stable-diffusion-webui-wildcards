@@ -5,15 +5,15 @@ marmalade
 ketchup
 mayonnaise
 mustard
-peanut butter
-pepper shaker
-salt shaker
+peanut_butter
+pepper_shaker
+salt_shaker
 sauce
-hot sauce
-soy sauce
-sugar (food)
-sugar cube
+hot_sauce
+soy_sauce
+sugar_(food)
+sugar_cube
 syrup
-chocolate syrup
-strawberry syrup
+chocolate_syrup
+strawberry_syrup
 wasabi

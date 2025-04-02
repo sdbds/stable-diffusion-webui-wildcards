@@ -1,11 +1,11 @@
-Ear piercing
-Industrial piercing
-Eyebrow piercing
-Anti-eyebrow piercing
-Eyelid piercing
-Lip piercing
-Labret piercing
-Neck Piercing
-Nose piercing
-Bridge piercing
-Tongue piercing
+Ear_piercing
+Industrial_piercing
+Eyebrow_piercing
+Anti-eyebrow_piercing
+Eyelid_piercing
+Lip_piercing
+Labret_piercing
+Neck_Piercing
+Nose_piercing
+Bridge_piercing
+Tongue_piercing

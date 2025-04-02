@@ -1,6 +1,6 @@
 Clockwork
 Glowing
 Mechanical
-Neon trim
+Neon_trim
 Radioactive
 Transformation

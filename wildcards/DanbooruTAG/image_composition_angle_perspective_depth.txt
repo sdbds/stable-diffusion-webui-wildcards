@@ -1,13 +1,13 @@
-atmospheric perspective
-dutch angle
+atmospheric_perspective
+dutch_angle
 fisheye
-from above
-from behind
-from below
+from_above
+from_behind
+from_below
 panorama
 perspective
 pov
 rotated
 sideways
 upside-down
-vanishing point
+vanishing_point

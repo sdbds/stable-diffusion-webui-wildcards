@@ -1,4 +1,4 @@
-cat's cradle
-forehead flick
-rock paper scissors
-pen spinning
+cat's_cradle
+forehead_flick
+rock_paper_scissors
+pen_spinning

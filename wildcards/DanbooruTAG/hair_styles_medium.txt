@@ -1,2 +1,2 @@
-bob cut
-flipped hair
+bob_cut
+flipped_hair

@@ -1,5 +1,5 @@
-bow panties
-crotch seam
-frilled panties
-side-tie panties
-string panties
+bow_panties
+crotch_seam
+frilled_panties
+side-tie_panties
+string_panties

@@ -1,6 +1,6 @@
 Bath
 Bathtub
-Mixed bathing
+Mixed_bathing
 Drinking
 Freediving
 Hydrokinesis
@@ -10,7 +10,7 @@ Glass
 Bottle
 Cup
 Mug
-Shower (place)
+Shower_(place)
 Showering
 Spilling
 Splashing

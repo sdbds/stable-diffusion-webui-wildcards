@@ -1,18 +1,18 @@
 Satellite
-Satellite cannon
-Space station
-International space station
-Space Elevator
-Space fountain
-Black Hole
-Space helmet
-Space sword
-Space colony
+Satellite_cannon
+Space_station
+International_space_station
+Space_Elevator
+Space_fountain
+Black_Hole
+Space_helmet
+Space_sword
+Space_colony
 Spacecraft
-Spacecraft interior
-Space capsule
-Space train
+Spacecraft_interior
+Space_capsule
+Space_train
 Spacesuit
-Space uniform
-Space shuttle
+Space_uniform
+Space_shuttle
 Space

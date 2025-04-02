@@ -3,88 +3,88 @@ mitsumame
 batter
 bread
 anpan
-cinnamon roll
+cinnamon_roll
 gumball
-hot cross bun
-melon bread
-noppo bread
-pastry box
+hot_cross_bun
+melon_bread
+noppo_bread
+pastry_box
 cake
 baumkuchen
-birthday cake
-black forest cake
-charlotte cake
+birthday_cake
+black_forest_cake
+charlotte_cake
 cheesecake
-rare cheesecake
+rare_cheesecake
 brownie
-chocolate cake
-chocolate framboise
-christmas cake
+chocolate_cake
+chocolate_framboise
+christmas_cake
 cupcake
-fondant au chocolat
-layer cake
+fondant_au_chocolat
+layer_cake
 madeleine
 mille-feuille
-mont blanc
-opera cake
-pound cake
-red velvet cake
-cake slice
+mont_blanc
+opera_cake
+pound_cake
+red_velvet_cake
+cake_slice
 stollen
-strawberry shortcake
-swiss roll
-strawberry swiss roll
+strawberry_shortcake
+swiss_roll
+strawberry_swiss_roll
 tiramisu
-wedding cake
-yule log
+wedding_cake
+yule_log
 candy
-candy cane
-chitose ame
-cigarette candy
-creme egg
-jelly bean
+candy_cane
+chitose_ame
+cigarette_candy
+creme_egg
+jelly_bean
 kitkat
 konpeitou
 lollipop
-chupa chups
-shaped lollipop
-swirl lollipop
+chupa_chups
+shaped_lollipop
+swirl_lollipop
 m&m's
-marble chocolate
+marble_chocolate
 nerunerunerune
 pinata
 tootsweets
-candy apple
+candy_apple
 caramel
-chewing gum
+chewing_gum
 chocolate
-apollo chocolate
-chocolate bar
-chocolate cake
-chocolate fountain
-heart-shaped chocolate
-chocolate marquise
-chocolate syrup
-kinoko no yama
-takenoko no sato
-white chocolate
+apollo_chocolate
+chocolate_bar
+chocolate_cake
+chocolate_fountain
+heart-shaped_chocolate
+chocolate_marquise
+chocolate_syrup
+kinoko_no_yama
+takenoko_no_sato
+white_chocolate
 churro
 cookie
-checkerboard cookie
-chocolate chip cookie
-country ma'am
-gingerbread cookie
-gingerbread house
-gingerbread man
+checkerboard_cookie
+chocolate_chip_cookie
+country_ma'am
+gingerbread_cookie
+gingerbread_house
+gingerbread_man
 pocky
-sandwich cookie
+sandwich_cookie
 oreo
-thumbprint cookie
-thumbprint cookie
+thumbprint_cookie
+thumbprint_cookie
 toppo
 wafer
-wafer stick
-cotton candy
+wafer_stick
+cotton_candy
 cream
 bavarois
 icing
@@ -92,26 +92,26 @@ crepe
 dorayaki
 dough
 doughnut
-chocolate doughnut
-french cruller
-sakura french
-old-fashioned doughnut
+chocolate_doughnut
+french_cruller
+sakura_french
+old-fashioned_doughnut
 gelatin
-ice cream
-banana split
+ice_cream
+banana_split
 coolish
-ice cream cone
-waffle cone
-ice cream float
-ice cream sandwich
+ice_cream_cone
+waffle_cone
+ice_cream_float
+ice_cream_sandwich
 parfait
-strawberry parfait
-single scoop
-double scoop
-triple scoop
-quadruple scoop
-too many scoops
-soft serve
+strawberry_parfait
+single_scoop
+double_scoop
+triple_scoop
+quadruple_scoop
+too_many_scoops
+soft_serve
 sprinkles
 sundae
 imagawayaki
@@ -119,35 +119,35 @@ marshmallow
 mooncake
 muffin
 pastry
-chocolate cornet
-cream puff
+chocolate_cornet
+cream_puff
 eclair
 macaron
 pie
-apple pie
+apple_pie
 popsicle
-popsicle stick
+popsicle_stick
 tupet
-watermelon bar
+watermelon_bar
 pudding
 custard
-pudding a la mode
-shaved ice
+pudding_a_la_mode
+shaved_ice
 slushie
 tanghulu
 tart
-blueberry tart
-fruit tart
-strawberry tart
+blueberry_tart
+fruit_tart
+strawberry_tart
 wagashi
 baozi
-momiji manjuu
+momiji_manjuu
 mochi
 dango
-ichigo daifuku
-kashiwa mochi
+ichigo_daifuku
+kashiwa_mochi
 namagashi
-sakura mochi
+sakura_mochi
 songpyeon
 suama
 taiyaki

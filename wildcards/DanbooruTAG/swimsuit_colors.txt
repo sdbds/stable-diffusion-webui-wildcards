@@ -1,14 +1,14 @@
-aqua one-piece swimsuit
-black one-piece swimsuit
-blue one-piece swimsuit
-brown one-piece swimsuit
-green one-piece swimsuit
-grey one-piece swimsuit
-orange one-piece swimsuit
-pink one-piece swimsuit
-red one-piece swimsuit
-purple one-piece swimsuit
-white one-piece swimsuit
-yellow one-piece swimsuit
-gold one-piece swimsuit
-silver one-piece swimsuit
+aqua_one-piece_swimsuit
+black_one-piece_swimsuit
+blue_one-piece_swimsuit
+brown_one-piece_swimsuit
+green_one-piece_swimsuit
+grey_one-piece_swimsuit
+orange_one-piece_swimsuit
+pink_one-piece_swimsuit
+red_one-piece_swimsuit
+purple_one-piece_swimsuit
+white_one-piece_swimsuit
+yellow_one-piece_swimsuit
+gold_one-piece_swimsuit
+silver_one-piece_swimsuit

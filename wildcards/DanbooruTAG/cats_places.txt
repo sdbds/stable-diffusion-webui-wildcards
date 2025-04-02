@@ -1,7 +1,7 @@
-cat between legs
-cat in mouth
-cat on ass
-cat on head
-cat on lap
-cat on person
-cat on shoulder
+cat_between_legs
+cat_in_mouth
+cat_on_ass
+cat_on_head
+cat_on_lap
+cat_on_person
+cat_on_shoulder

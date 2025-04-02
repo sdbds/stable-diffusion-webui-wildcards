@@ -4,30 +4,30 @@ bloom
 bokeh
 caustics
 chiaroscuro
-chromatic aberration
-chromatic aberration abuse
-diffraction spikes
-depth of field
+chromatic_aberration
+chromatic_aberration_abuse
+diffraction_spikes
+depth_of_field
 dithering
-drop shadow
-emphasis lines
-film grain
+drop_shadow
+emphasis_lines
+film_grain
 foreshortening
 gradient
 halftone
-image fill
-lens flare
-lens flare abuse
-motion blur
-motion lines
-multiple monochrome
-optical illusion
+image_fill
+lens_flare
+lens_flare_abuse
+motion_blur
+motion_lines
+multiple_monochrome
+optical_illusion
 anaglyph
-exif thumbnail surprise
-open in internet explorer
-open in winamp
+exif_thumbnail_surprise
+open_in_internet_explorer
+open_in_winamp
 stereogram
 scanlines
 silhouette
-speed lines
+speed_lines
 vignetting

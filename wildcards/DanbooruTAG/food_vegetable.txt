@@ -1,11 +1,11 @@
 asparagus
 beans
-red bean paste
+red_bean_paste
 nattou
-bitter melon
+bitter_melon
 broccoli
 cabbage
-bok choy
+bok_choy
 carrot
 cauliflower
 coconut
@@ -19,22 +19,22 @@ lettuce
 mint
 mushroom
 onion
-onion rings
-spring onion
+onion_rings
+spring_onion
 parsley
 plant
 almond
 chestnut
 peanut
 pepper
-bell pepper
-green pepper
-red pepper
-yellow pepper
-chili pepper
-habanero pepper
-jalapeno pepper
-pepper shaker
+bell_pepper
+green_pepper
+red_pepper
+yellow_pepper
+chili_pepper
+habanero_pepper
+jalapeno_pepper
+pepper_shaker
 potato
 radish
 daikon
@@ -44,9 +44,9 @@ nori
 squash
 pumpkin
 jack-o'-lantern
-sweet potato
+sweet_potato
 yakiimo
 tomato
-cherry tomato
+cherry_tomato
 turnip
 warabi

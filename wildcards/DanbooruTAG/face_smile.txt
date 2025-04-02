@@ -1,11 +1,11 @@
-crazy smile
-evil smile
+crazy_smile
+evil_smile
 fingersmile
-forced smile
-glasgow smile
+forced_smile
+glasgow_smile
 grin
-evil grin
-light smile
-sad smile
-seductive smile
-stifled laugh
+evil_grin
+light_smile
+sad_smile
+seductive_smile
+stifled_laugh

@@ -1,5 +1,5 @@
-clenched hand
-fig sign
-paw pose
-power fist
-raised fist
+clenched_hand
+fig_sign
+paw_pose
+power_fist
+raised_fist

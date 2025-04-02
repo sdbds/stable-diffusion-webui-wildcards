@@ -1,46 +1,46 @@
-akebia fruit
+akebia_fruit
 apple
-apple bunny
-apple core
-apple peel
-bitten apple
-candy apple
-golden apple
-green apple
-red apple
+apple_bunny
+apple_core
+apple_peel
+bitten_apple
+candy_apple
+golden_apple
+green_apple
+red_apple
 avocado
 banana
-banana boat
-banana peel
-banana popsicle
-banana slice
-chocolate banana
-gel banana
-on banana
+banana_boat
+banana_peel
+banana_popsicle
+banana_slice
+chocolate_banana
+gel_banana
+on_banana
 berry
 blackberry
 blueberry
 raspberry
 strawberry
-cacao fruit
+cacao_fruit
 cherry
-chinese lantern
-dragon fruit
+chinese_lantern
+dragon_fruit
 fig
-fruit bowl
-fruit cup
+fruit_bowl
+fruit_cup
 gooseberry
 grapefruit
 grapes
 currant
-grape stomping
+grape_stomping
 kiwi
-kiwi slice
+kiwi_slice
 lemon
-lemon slice
+lemon_slice
 lemonade
 lime
-lime slice
+lime_slice
 lychee
 mango
 mangosteen
@@ -51,14 +51,14 @@ muskmelon
 watermelon
 olive
 orange
-mandarin orange
+mandarin_orange
 orangette
-orange juice
-orange slice
+orange_juice
+orange_slice
 papaya
 peach
 pear
-nashi pear
+nashi_pear
 persimmon
 pineapple
 plum
@@ -66,4 +66,4 @@ pomegranate
 rambutan
 starfruit
 umeboshi
-yuzu (fruit)
+yuzu_(fruit)

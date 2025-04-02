@@ -1,24 +1,24 @@
-thick arms
+thick_arms
 biceps
 feet
-bad feet
+bad_feet
 barefoot
-dirty feet
+dirty_feet
 soles
 hands
 palms
-doll joints
-robot joints
+doll_joints
+robot_joints
 knees
 kneepits
 legs
-long legs
-slim legs
+long_legs
+slim_legs
 tail
 tentacles
 thighs
-groin tendon
-thick thighs
+groin_tendon
+thick_thighs
 toes
-ninja toes
+ninja_toes
 wings

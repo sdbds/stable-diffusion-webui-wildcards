@@ -1,4 +1,4 @@
-@ @
-dashed eyes
-Pac-man eyes
-ringed eyes
+@_@
+dashed_eyes
+Pac-man_eyes
+ringed_eyes

@@ -1,8 +1,8 @@
-baseball cap
+baseball_cap
 budenovka
-cabbie hat
+cabbie_hat
 deerstalker
 kepi
-mao cap
-peaked cap
-shako cap
+mao_cap
+peaked_cap
+shako_cap

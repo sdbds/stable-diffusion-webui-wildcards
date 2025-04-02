@@ -1,34 +1,34 @@
 bikesuit
-racing suit
+racing_suit
 bodystocking
 bodysuit
 jumpsuit
-short jumpsuit
+short_jumpsuit
 leotard
-strapless leotard
-playboy bunny
+strapless_leotard
+playboy_bunny
 swimsuit
-competition swimsuit
-slingshot swimsuit
-school swimsuit
+competition_swimsuit
+slingshot_swimsuit
+school_swimsuit
 bikini
-leaf bikini
-string bikini
-micro bikini
-side-tie bikini bottom
-lowleg bikini
-thong bikini
-venus bikini
-sports bikini
+leaf_bikini
+string_bikini
+micro_bikini
+side-tie_bikini_bottom
+lowleg_bikini
+thong_bikini
+venus_bikini
+sports_bikini
 tankini
-criss-cross halter
-swim briefs
+criss-cross_halter
+swim_briefs
 jammers
 legskin
-rash guard
+rash_guard
 robe
 bathrobe
-open robe
+open_robe
 kesa
 romper
 sarong

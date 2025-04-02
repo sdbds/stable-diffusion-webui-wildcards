@@ -1,8 +1,8 @@
 bush
-rose bush
-carnivorous plant
-pitcher plant
-venus flytrap
+rose_bush
+carnivorous_plant
+pitcher_plant
+venus_flytrap
 clover
 flower
 grass
@@ -13,7 +13,7 @@ marijuana
 holly
 moss
 seaweed
-succulent plant
+succulent_plant
 agave
 cactus
 tree

@@ -1,15 +1,15 @@
 ﻿indoors
 outdoors
 valentine
-transparent background
+transparent_background
 feather
-simple background
-white background
-beautiful detailed water
+simple_background
+white_background
+beautiful_detailed_water
 christmas
 landscape
-science fiction
-magic circle
+science_fiction
+magic_circle
 pentagram
-gradient background
+gradient_background
 halloween

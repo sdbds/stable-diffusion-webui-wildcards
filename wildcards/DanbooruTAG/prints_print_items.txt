@@ -1,14 +1,14 @@
-Print eyepatch
-Print footwear
-Print gloves
-Print hakama
-Print headwear
-Print kimono
-Print legwear
-Print neckwear
-Print panties
-Print shirt
-Print shorts
-Print swimsuit
-Print bikini
-Print umbrella
+Print_eyepatch
+Print_footwear
+Print_gloves
+Print_hakama
+Print_headwear
+Print_kimono
+Print_legwear
+Print_neckwear
+Print_panties
+Print_shirt
+Print_shorts
+Print_swimsuit
+Print_bikini
+Print_umbrella

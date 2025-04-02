@@ -1,22 +1,22 @@
-foggy, ancient castle, (mysterious:1.2), stone walls, hidden secrets, eerie, gothic architecture
-moonlit forest, adventure, (enchantment:1.2), shadows, magical, mystical creatures, night
-lost civilization, ruins, (ancient:1.2), overgrown, secrets, history, archeology, exploration
-haunted mansion, (ghosts:1.2), eerie, creaky floors, spooky, paranormal, dark corners, shadows
-mysterious cave exploration, (unknown:1.2), torchlight, stalactites, subterranean, hidden treasures, darkness
-secret spaceship base, (sci-fi:1.2), futuristic, hidden, extraterrestrial, advanced technology, otherworldly
-abandoned town, (desolate:1.2), overgrown, decaying buildings, silent, post-apocalyptic, ghostly
-secret world hidden in a magical book, (fantasy:1.2), enchantment, mystical creatures, adventure, otherworldly
-ancient tomb excavation, (archeology:1.2), hieroglyphics, sarcophagus, dusty, mysterious, historical
-(((Visual impact,flying shadow))),((((flying bats, bats shadow,grow pink moon)))),((round frame:1.3)),full moon,(City of night,in street),(lamp),(large gate:1.3)
-((yumekawa,yumekawaii,pastel color)),(((wonderland garden:1.3))),rainbow waterfall,(((dripping ink))),imagination,(Castle:1.4)
-(above the clouds:1.4), (in the sky:1.3) , (large full moon:1.2), round frame background,circle frame background, best illuminate,wonderland,(some floating island,floating city:1.5),(floating girl:1.5), weightlessness,zero gravity ,giant scales
-(many gears:1.3),(one huge gear:1.5),filigree and gorgeous,in the dark night,(huge gear halo:1.3),(facing forward:1.5),(The center of the gear that confined the universe:1.3),(big gear machine:1.5),glitch art,revolve round ,circle
-Visual impact ,(spooky:1.5),imagination,(glitch art:1.3),(revolve round:1.3),fluorescent ,( Fibonacci spiral :1.3),(galaxy:1.5),(extreme detailed effect:1.5),(Lightning and body Interweave:1.5),(milky way:1.3),(goddess:1.5)
-(fantasy,castle and town:1.5),(castle town,beautiful building:1.3),(how people live),(flowers, trees, nature:1.3),romantic,(shopping street,street stall:1.2),(blue sky)
-((tile floor)),((pink moon:1.3)), (🦋,some butterflies are flying,flying glowing butterfly:1.3),(night sky ,a lot of space:1.3)
-(white background:1.3),(wonderland), (Minimalism:1.5),(lots of macarons background:1.5),(Candy,cake,heart,star:1.3),(Large amount of macarons:1.3),(sweets and kawaii and cute:1.3),(magical effect:1.3)
-(electric current,Magic Circle,Explosive lightning:1.5),(revolve round:1.5),(goddess:1.3),(lightning effect:1.5)
-(in forest:1.5), (giant mushrooms, many mushrooms:1.3), (glowing mushrooms:1.3),(starry sky,night:1.3), moon,(fantastic sight:1.3),fire Fly,(big mushroom forest:1.3)
-(water temple,crystal clear water:1.3),(crystal, reflective, glowing, waterlogged floor,fountain:1.5),(waterfall),(crystal textured interior),(water ripples:1.3),(clear blue crystal pillars:1.2),(geyser,indoor),(ice floor, ice wall:1.2),(light blue glowing:1.3)
-(dark flame:1.3),burn circle,((clear and heavy)),((burn the sky, vortex of fire, fire magic:1.5)), hand of fire,((melt and mix:1.8)), ((flame and burning:1.3)),black fog,wind,((( fusion of flame and hair:1.3))),weightlessness,eddy, (burn eddy effect:1.5),(round flame background:1.5),(round frame:1.4),(huge halo:1.4),(flame blast:1.3)
-(cyberpunk atmosphere:1.2) , gasmasks, neon lights, (skyscraper:0.7), near future
+foggy,_ancient_castle,_(mysterious:1.2),_stone_walls,_hidden_secrets,_eerie,_gothic_architecture
+moonlit_forest,_adventure,_(enchantment:1.2),_shadows,_magical,_mystical_creatures,_night
+lost_civilization,_ruins,_(ancient:1.2),_overgrown,_secrets,_history,_archeology,_exploration
+haunted_mansion,_(ghosts:1.2),_eerie,_creaky_floors,_spooky,_paranormal,_dark_corners,_shadows
+mysterious_cave_exploration,_(unknown:1.2),_torchlight,_stalactites,_subterranean,_hidden_treasures,_darkness
+secret_spaceship_base,_(sci-fi:1.2),_futuristic,_hidden,_extraterrestrial,_advanced_technology,_otherworldly
+abandoned_town,_(desolate:1.2),_overgrown,_decaying_buildings,_silent,_post-apocalyptic,_ghostly
+secret_world_hidden_in_a_magical_book,_(fantasy:1.2),_enchantment,_mystical_creatures,_adventure,_otherworldly
+ancient_tomb_excavation,_(archeology:1.2),_hieroglyphics,_sarcophagus,_dusty,_mysterious,_historical
+(((Visual_impact,flying_shadow))),((((flying_bats,_bats_shadow,grow_pink_moon)))),((round_frame:1.3)),full_moon,(City_of_night,in_street),(lamp),(large_gate:1.3)
+((yumekawa,yumekawaii,pastel_color)),(((wonderland_garden:1.3))),rainbow_waterfall,(((dripping_ink))),imagination,(Castle:1.4)
+(above_the_clouds:1.4),_(in_the_sky:1.3)_,_(large_full_moon:1.2),_round_frame_background,circle_frame_background,_best_illuminate,wonderland,(some_floating_island,floating_city:1.5),(floating_girl:1.5),_weightlessness,zero_gravity_,giant_scales
+(many_gears:1.3),(one_huge_gear:1.5),filigree_and_gorgeous,in_the_dark_night,(huge_gear_halo:1.3),(facing_forward:1.5),(The_center_of_the_gear_that_confined_the_universe:1.3),(big_gear_machine:1.5),glitch_art,revolve_round_,circle
+Visual_impact_,(spooky:1.5),imagination,(glitch_art:1.3),(revolve_round:1.3),fluorescent_,(_Fibonacci_spiral_:1.3),(galaxy:1.5),(extreme_detailed_effect:1.5),(Lightning_and_body_Interweave:1.5),(milky_way:1.3),(goddess:1.5)
+(fantasy,castle_and_town:1.5),(castle_town,beautiful_building:1.3),(how_people_live),(flowers,_trees,_nature:1.3),romantic,(shopping_street,street_stall:1.2),(blue_sky)
+((tile_floor)),((pink_moon:1.3)),_(🦋,some_butterflies_are_flying,flying_glowing_butterfly:1.3),(night_sky_,a_lot_of_space:1.3)
+(white_background:1.3),(wonderland),_(Minimalism:1.5),(lots_of_macarons_background:1.5),(Candy,cake,heart,star:1.3),(Large_amount_of_macarons:1.3),(sweets_and_kawaii_and_cute:1.3),(magical_effect:1.3)
+(electric_current,Magic_Circle,Explosive_lightning:1.5),(revolve_round:1.5),(goddess:1.3),(lightning_effect:1.5)
+(in_forest:1.5),_(giant_mushrooms,_many_mushrooms:1.3),_(glowing_mushrooms:1.3),(starry_sky,night:1.3),_moon,(fantastic_sight:1.3),fire_Fly,(big_mushroom_forest:1.3)
+(water_temple,crystal_clear_water:1.3),(crystal,_reflective,_glowing,_waterlogged_floor,fountain:1.5),(waterfall),(crystal_textured_interior),(water_ripples:1.3),(clear_blue_crystal_pillars:1.2),(geyser,indoor),(ice_floor,_ice_wall:1.2),(light_blue_glowing:1.3)
+(dark_flame:1.3),burn_circle,((clear_and_heavy)),((burn_the_sky,_vortex_of_fire,_fire_magic:1.5)),_hand_of_fire,((melt_and_mix:1.8)),_((flame_and_burning:1.3)),black_fog,wind,(((_fusion_of_flame_and_hair:1.3))),weightlessness,eddy,_(burn_eddy_effect:1.5),(round_flame_background:1.5),(round_frame:1.4),(huge_halo:1.4),(flame_blast:1.3)
+(cyberpunk_atmosphere:1.2)_,_gasmasks,_neon_lights,_(skyscraper:0.7),_near_future

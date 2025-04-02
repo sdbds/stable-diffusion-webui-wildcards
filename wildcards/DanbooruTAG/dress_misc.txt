@@ -1,11 +1,11 @@
 crinoline
-dress flip
-dress grab
-dress lift
-dress pull
-dress tug
-open dress
-skirt basket
-tied dress
-torn dress
-wet dress
+dress_flip
+dress_grab
+dress_lift
+dress_pull
+dress_tug
+open_dress
+skirt_basket
+tied_dress
+torn_dress
+wet_dress

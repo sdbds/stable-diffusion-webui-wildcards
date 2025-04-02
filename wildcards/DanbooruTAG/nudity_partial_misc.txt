@@ -1,16 +1,16 @@
-bikini aside
-bikini pull
-cape lift
-lifting covers
-open bikini
-open bra
-open kimono
-robe slip
-strap lift
-strap pull
-strap slip
-swimsuit aside
-swimsuit pull
-open towel
-towel slip
-male underwear pull
+bikini_aside
+bikini_pull
+cape_lift
+lifting_covers
+open_bikini
+open_bra
+open_kimono
+robe_slip
+strap_lift
+strap_pull
+strap_slip
+swimsuit_aside
+swimsuit_pull
+open_towel
+towel_slip
+male_underwear_pull

@@ -1,4 +1,4 @@
 \m/
-middle w
-ok sign
-money gesture
+middle_w
+ok_sign
+money_gesture

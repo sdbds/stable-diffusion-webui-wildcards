@@ -1,5 +1,5 @@
-gradient background
-multicolored background
-rainbow background
-heaven condition
-two-tone background
+gradient_background
+multicolored_background
+rainbow_background
+heaven_condition
+two-tone_background

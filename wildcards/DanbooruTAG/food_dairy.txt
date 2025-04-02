@@ -1,20 +1,20 @@
 butter
 cheese
-smoked cheese
-swiss cheese
+smoked_cheese
+swiss_cheese
 cream
-whipped cream
+whipped_cream
 eggnog
 kefir
 milk
-baby bottle
-condensed milk
-chocolate milk
-milk bottle
-milk carton
-milk churn
-milk mustache
+baby_bottle
+condensed_milk
+chocolate_milk
+milk_bottle
+milk_carton
+milk_churn
+milk_mustache
 milkshake
-strawberry milk
+strawberry_milk
 yakult
 yogurt

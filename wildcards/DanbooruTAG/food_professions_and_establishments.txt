@@ -1,13 +1,13 @@
 apron
-naked apron
+naked_apron
 bakery
 butler
 chef
-chef hat
-toque blanche
-flat top chef hat
-food stand
-ice cream stand
+chef_hat
+toque_blanche
+flat_top_chef_hat
+food_stand
+ice_cream_stand
 yatai
 kitchen
 maid
@@ -16,16 +16,16 @@ bar
 bartender
 cafe
 barista
-maid cafe
+maid_cafe
 cafeteria
-conveyor belt sushi
+conveyor_belt_sushi
 diner
-fast food
+fast_food
 izakaya
 menu
-angel mort
-anna miller
-bronze parrot
+angel_mort
+anna_miller
+bronze_parrot
 hooters
 koubeya
 yoshinoya

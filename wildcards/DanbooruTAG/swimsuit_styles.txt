@@ -1,13 +1,13 @@
-bow swimsuit
-frilled swimsuit
-frilled bikini
-highleg swimsuit
-highleg bikini
-polka dot swimsuit
-polka dot bikini
-striped one-piece swimsuit
-striped bikini
-white one-piece swimsuit
-white bikini
+bow_swimsuit
+frilled_swimsuit
+frilled_bikini
+highleg_swimsuit
+highleg_bikini
+polka_dot_swimsuit
+polka_dot_bikini
+striped_one-piece_swimsuit
+striped_bikini
+white_one-piece_swimsuit
+white_bikini
 g-string
 thong

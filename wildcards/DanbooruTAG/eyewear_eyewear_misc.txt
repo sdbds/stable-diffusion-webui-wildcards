@@ -1,16 +1,16 @@
-adjusting eyewear
-crooked eyewear
-eyewear on head
-eyewear on headwear
-eyewear removed
-eyewear hang
-eyewear in mouth
-holding eyewear
-looking for glasses
-eyewear strap
-eyewear switch
-eyewear view
-hand on eyewear
-looking over eyewear
-no eyewear
-removing eyewear
+adjusting_eyewear
+crooked_eyewear
+eyewear_on_head
+eyewear_on_headwear
+eyewear_removed
+eyewear_hang
+eyewear_in_mouth
+holding_eyewear
+looking_for_glasses
+eyewear_strap
+eyewear_switch
+eyewear_view
+hand_on_eyewear
+looking_over_eyewear
+no_eyewear
+removing_eyewear

@@ -1,41 +1,41 @@
-﻿rotational symmetry
+﻿rotational_symmetry
 omake
-social media composition
+social_media_composition
 photomosaic
 lineup
 pillarboxed
 chart
-projected inset
-fake scrollbar
-bust chart
-negative space
-relationship graph
-mosaic art
-seating chart
-reference sheet
-trim marks
+projected_inset
+fake_scrollbar
+bust_chart
+negative_space
+relationship_graph
+mosaic_art
+seating_chart
+reference_sheet
+trim_marks
 afterimage
 isometric
 framed
 symmetry
 stats
 letterboxed
-column lineup
+column_lineup
 viewfinder
 tachi-e
-head out of frame
-fading border
-outside border
-zoom layer
-partially underwater shot
+head_out_of_frame
+fading_border
+outside_border
+zoom_layer
+partially_underwater_shot
 glitch
 collage
-rounded corners
+rounded_corners
 cropped
 diagram
-move chart
-out of frame
-character chart
-feet out of frame
-polar opposites
+move_chart
+out_of_frame
+character_chart
+feet_out_of_frame
+polar_opposites
 border

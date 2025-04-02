@@ -1,5 +1,5 @@
-breast slip
-breastless clothes
-breasts out
-impossible shirt
-one breast out
+breast_slip
+breastless_clothes
+breasts_out
+impossible_shirt
+one_breast_out

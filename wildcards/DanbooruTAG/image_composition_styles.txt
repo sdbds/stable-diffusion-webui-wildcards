@@ -1,10 +1,10 @@
 abstract
-art deco
-art nouveau
-fine art parody
-flame painter
+art_deco
+art_nouveau
+fine_art_parody
+flame_painter
 impressionism
-ligne claire
+ligne_claire
 nihonga
 sumi-e
 ukiyo-e
@@ -12,10 +12,10 @@ minimalism
 realistic
 photorealistic
 sketch
-style parody
-List of style parodies
+style_parody
+List_of_style_parodies
 surreal
-traditional media
-* (medium)
-faux traditional media
+traditional_media
+*_(medium)
+faux_traditional_media
 unfinished

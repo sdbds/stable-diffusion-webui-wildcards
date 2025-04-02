@@ -1,11 +1,11 @@
-Areola piercing
-Back piercing
-Corset piercing
-Collarbone piercing
-Navel piercing
-Nipple piercing
-Nipple bar
-Nipple chain
-Nipple lock
-Nipple rings
-Nipple stretcher
+Areola_piercing
+Back_piercing
+Corset_piercing
+Collarbone_piercing
+Navel_piercing
+Nipple_piercing
+Nipple_bar
+Nipple_chain
+Nipple_lock
+Nipple_rings
+Nipple_stretcher

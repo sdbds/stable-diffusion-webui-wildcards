@@ -1,23 +1,23 @@
 Ambulance
 Bus
 Car
-Police car
+Police_car
 Taxi
 Jeep
 Tank
 Trailer
 Train
 Streetcar
-Aerial tram
+Aerial_tram
 Truck
-Concrete mixer truck
-Dump truck
-Haul truck
-Flatbed truck
-Fire truck
-Garbage truck
-Monster truck
-Pickup truck
-Semi truck
-Tank truck
+Concrete_mixer_truck
+Dump_truck
+Haul_truck
+Flatbed_truck
+Fire_truck
+Garbage_truck
+Monster_truck
+Pickup_truck
+Semi_truck
+Tank_truck
 Van

@@ -1,64 +1,64 @@
 apron
 armor
-armored dress
-bikini armor
-band uniform
+armored_dress
+bikini_armor
+band_uniform
 cape
 capelet
 hood
-shoulder cape
+shoulder_cape
 cassock
 cheerleader
 costume
-ghost costume
-gym uniform
+ghost_costume
+gym_uniform
 buruma
 habit
-harem outfit
+harem_outfit
 loincloth
-hazmat suit
-hev suit
+hazmat_suit
+hev_suit
 kigurumi
-animal costume
-bear costume
-boar costume
-cat costume
-cow costume
-dog costume
-monkey costume
-mouse costume
-panda costume
-penguin costume
-pig costume
-rabbit costume
-reindeer costume
-seal costume
-sheep costume
-tiger costume
+animal_costume
+bear_costume
+boar_costume
+cat_costume
+cow_costume
+dog_costume
+monkey_costume
+mouse_costume
+panda_costume
+penguin_costume
+pig_costume
+rabbit_costume
+reindeer_costume
+seal_costume
+sheep_costume
+tiger_costume
 maid
 miko
-nontraditional miko
-military uniform
+nontraditional_miko
+military_uniform
 overalls
 pajamas
-pilot suit
+pilot_suit
 plugsuit
 sailor
-santa costume
-school uniform
+santa_costume
+school_uniform
 serafuku
-sailor dress
+sailor_dress
 gakuran
-meiji schoolgirl uniform
+meiji_schoolgirl_uniform
 shosei
 suit
-business suit
-pant suit
-skirt suit
+business_suit
+pant_suit
+skirt_suit
 tuxedo
-track suit
+track_suit
 sweatpants
 sweatshirt
 tutu
 waitress
-cowboy western
+cowboy_western

@@ -1,5 +1,5 @@
-short sleeves
-long sleeves
-sleeves past wrists
-sleeves past fingers
-sleeves past elbows
+short_sleeves
+long_sleeves
+sleeves_past_wrists
+sleeves_past_fingers
+sleeves_past_elbows

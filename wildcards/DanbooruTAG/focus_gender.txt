@@ -1,2 +1,2 @@
-male focus
-other focus
+male_focus
+other_focus

@@ -1,4 +1,4 @@
-food awe
-breast awe
-penis awe
+food_awe
+breast_awe
+penis_awe
 staring

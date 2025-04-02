@@ -1,8 +1,8 @@
 ponytail
-high ponytail
-low ponytail
-side ponytail
-short ponytail
-folded ponytail
-braided ponytail
+high_ponytail
+low_ponytail
+side_ponytail
+short_ponytail
+folded_ponytail
+braided_ponytail
 topknot

@@ -1,53 +1,53 @@
 Artifacts
-gif artifacts
-jpeg artifacts
+gif_artifacts
+jpeg_artifacts
 aliasing
-scan artifacts
-bleed through
+scan_artifacts
+bleed_through
 crease
-vhs artifacts
-bad aspect ratio
+vhs_artifacts
+bad_aspect_ratio
 blurry
 censored
 uncensored
 decensored
-derivative work
+derivative_work
 photo-referenced
-reference photo
-reference work
-screencap redraw
+reference_photo
+reference_work
+screencap_redraw
 duplicate
-pixel-perfect duplicate
+pixel-perfect_duplicate
 error
-bad reflection
-extra digits
+bad_reflection
+extra_digits
 typo
 lossless-lossy
 lossy-lossless
-image macro
-md5 mismatch
+image_macro
+md5_mismatch
 moire
-third-party edit
+third-party_edit
 detexted
-hard translated
-nude filter
-poorly drawn
-anatomical nonsense
-bad anatomy
-bad feet
-bad hands
-bad proportions
+hard_translated
+nude_filter
+poorly_drawn
+anatomical_nonsense
+bad_anatomy
+bad_feet
+bad_hands
+bad_proportions
 quality
 ranguage
 resized
 downscaled
-image sample
+image_sample
 upscaled
 waifu2x
 reversed
-solid color thumbnail
-unmoving pattern
+solid_color_thumbnail
+unmoving_pattern
 watermark
-third-party watermark
-web address
+third-party_watermark
+web_address
 extraction

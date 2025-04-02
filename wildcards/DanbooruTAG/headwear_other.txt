@@ -1,24 +1,24 @@
-aviator cap
+aviator_cap
 balaclava
 bandana
 bonnet
 dalachi
 habit
-head scarf
+head_scarf
 hijab
-jester cap
+jester_cap
 keffiyeh
 okosozukin
-shower cap
-shufa guan
-visor cap
+shower_cap
+shufa_guan
+visor_cap
 veil
-object on head
-bowl hat
-bloomers on head
-book on head
-bra on head
-bucket on head
-food on head
-panties on head
-traffic cone on head
+object_on_head
+bowl_hat
+bloomers_on_head
+book_on_head
+bra_on_head
+bucket_on_head
+food_on_head
+panties_on_head
+traffic_cone_on_head

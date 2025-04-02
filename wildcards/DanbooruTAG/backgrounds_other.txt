@@ -1,22 +1,22 @@
-background text
+background_text
 backlighting
 blending
-blurry background
-card background
-chibi inset
-drama layer
-fiery background
-flag background
-floral background
-fruit background
-heart background
-imageboard colors
-lace background
-mosaic background
-paneled background
-photo background
-projected inset
-simple background
-starry background
-transparent background
-zoom layer
+blurry_background
+card_background
+chibi_inset
+drama_layer
+fiery_background
+flag_background
+floral_background
+fruit_background
+heart_background
+imageboard_colors
+lace_background
+mosaic_background
+paneled_background
+photo_background
+projected_inset
+simple_background
+starry_background
+transparent_background
+zoom_layer

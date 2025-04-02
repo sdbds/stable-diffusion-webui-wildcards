@@ -1,20 +1,20 @@
-animal pose
-bunny pose
-horns pose
-paw pose
-claw pose
-archer pose
-bras d'honneur
-body bridge
+animal_pose
+bunny_pose
+horns_pose
+paw_pose
+claw_pose
+archer_pose
+bras_d'honneur
+body_bridge
 contrapposto
-dojikko pose
-gendou pose
-inugami-ke no ichizoku pose
-jojo pose
-letter pose
-ojou-sama pose
-saboten pose
-symmetrical hand pose
-victory pose
-villain pose
-zombie pose
+dojikko_pose
+gendou_pose
+inugami-ke_no_ichizoku_pose
+jojo_pose
+letter_pose
+ojou-sama_pose
+saboten_pose
+symmetrical_hand_pose
+victory_pose
+villain_pose
+zombie_pose

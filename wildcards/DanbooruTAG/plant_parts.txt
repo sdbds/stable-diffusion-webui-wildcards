@@ -3,9 +3,9 @@ branch
 flower
 fruit
 petals
-rose petals
-plant cell
+rose_petals
+plant_cell
 roots
-aerial root
+aerial_root
 seed
-tree stump
+tree_stump

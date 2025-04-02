@@ -1,2 +1,2 @@
-multicolored dress
-two-tone dress
+multicolored_dress
+two-tone_dress

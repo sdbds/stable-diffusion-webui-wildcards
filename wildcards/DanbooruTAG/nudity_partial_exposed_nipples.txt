@@ -1,4 +1,4 @@
-areola slip
-nipple slip
-nippleless clothes
+areola_slip
+nipple_slip
+nippleless_clothes
 nipples

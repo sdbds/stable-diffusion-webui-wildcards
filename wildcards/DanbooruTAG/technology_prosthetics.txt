@@ -1,9 +1,9 @@
 Automail
 Cybernetic
-Doll joints
-Mechanical foot
-Mechanical parts
-Mechanical wings
-Single mechanical arm
-Nobiiru arm
-Severed limb
+Doll_joints
+Mechanical_foot
+Mechanical_parts
+Mechanical_wings
+Single_mechanical_arm
+Nobiiru_arm
+Severed_limb
